@@ -1,0 +1,350 @@
+T1	CompanyName 65 97	AMC ENTERTAINMENT HOLDINGS, INC.
+T2	CompanyName 106 133	DALIAN WANDA GROUP CO., LTD
+T3	CompanyName 355 387	AMC Entertainment Holdings, Inc.
+T5	CompanyName 492 519	Dalian Wanda Group Co., Ltd
+T11	RegulationDocuments 2250 2298	Rule 13d-3 and Rule 13d-5 under the Exchange Act
+T12	RegulationDocuments 2331 2350	Rule 13d-3(d)(1)(i)
+T4	LawLocation 444 452	Delaware
+T6	ClauseDefinition 752 761	Section 1
+T7	TermDefinition 910 919	Affiliate
+T8	TermDefinition 1590 1599	Agreement
+T9	TermDefinition 1916 1933	Beneficially Owns
+T10	TermDefinition 3337 3349	Business Day
+T13	TermDefinition 3522 3535	Chosen Courts
+T14	TermDefinition 4034 4041	Company
+T15	TermDefinition 4124 4138	Demand Request
+T16	TermDefinition 4186 4198	Exchange Act
+T17	TermDefinition 4453 4470	Government Entity
+T18	TermDefinition 4689 4695	Holder
+T19	RegulationDocuments 3190 3202	Exchange Act
+T20	RegulationDocuments 3257 3269	Schedule 13D
+#1	AnnotatorNotes T20	https://www.investopedia.com/terms/s/schedule13d.asp
+T21	RegulationDocuments 3280 3292	Exchange Act
+T22	Location 3476 3484	New York
+T23	Location 3486 3494	New York
+T24	Location 3501 3508	Beijing
+T25	ClauseMention 3566 3579	Section 14(d)
+T26	TermDefinition 3584 3604	Class A Common Stock
+T27	ClauseMention 4169 4181	Section 2(a)
+T28	RegulationDocuments 4210 4241	Securities Exchange Act of 1934
+T29	Money 3668 3672	0.01
+T30	Money 4015 4019	0.01
+T31	TermDefinition 4899 4915	Holder’s Counsel
+T32	ClauseMention 4946 4961	Section 8(a)(i)
+T33	ClauseMention 5011 5023	Section 6(a)
+T34	TermDefinition 4966 4980	Lock-Up Period
+T35	TermDefinition 5028 5045	Management Member
+T36	TermDefinition 5118 5151	Management Stockholders Agreement
+T37	Date 5209 5224	August 30, 2012
+T38	TermDefinition 5413 5433	Participating Holder
+T39	TermDefinition 5658 5664	Person
+T40	TermDefinition 5844 5854	Prospectus
+T41	TermDefinition 6336 6359	Registerable Securities
+T42	RegulationDocuments 6840 6873	Rule 144 under the Securities Act
+T43	RegulationDocuments 7010 7024	Securities Act
+T44	TermDefinition 7150 7171	Registration Expenses
+T45	ClauseMention 7202 7214	Section 9(a)
+T46	TermDefinition 7219 7241	Registration Statement
+T47	TermDefinition 7598 7601	SEC
+T48	TermDefinition 7723 7737	Securities Act
+T49	RegulationDocuments 7749 7771	Securities Act of 1933
+T50	TermDefinition 7929 7947	Shelf Registration
+T51	ClauseMention 7978 7990	Section 2(a)
+T52	TermDefinition 7995 8009	Shelf Takedown
+T53	ClauseMention 8040 8052	Section 4(a)
+T54	TermDefinition 8057 8073	Suspension Event
+T55	ClauseMention 8104 8116	Section 5(a)
+T56	TermDefinition 8121 8139	Uncontrolled Event
+T57	ClauseMention 8170 8182	Section 5(a)
+T58	TermDefinition 8187 8208	Underwritten Offering
+T59	TermDefinition 8378 8383	Wanda
+T60	TermDefinition 8431 8443	Wanda Holder
+T61	TermDefinition 8579 8601	Withdrawn Registration
+T62	ClauseMention 8632 8644	Section 2(b)
+T63	ClauseDefinition 10217 10226	Section 2
+T64	ClauseDefinition 10294 10297	(a)
+T65	ClauseDefinition 11700 11703	(b)
+T66	ClauseMention 10373 10382	Section 2
+T67	RegulationDocuments 10678 10686	Form S-1
+T68	RegulationDocuments 10779 10787	Form S-3
+T69	RegulationDocuments 10918 10951	Rule 415 under the Securities Act
+T70	RegulationDocuments 11011 11019	Form S-3
+T71	RegulationDocuments 11032 11040	Rule 415
+T72	RegulationDocuments 11196 11204	Form S-1
+T73	RegulationDocuments 11242 11250	Form S-3
+T74	RegulationDocuments 11820 11828	Form S-1
+T75	ClauseMention 11887 11899	Section 2(c)
+T76	RegulationDocuments 11960 11968	Form S-3
+T77	ClauseMention 12052 12064	Section 5(a)
+T78	ClauseMention 12197 12209	Section 2(f)
+T79	ClauseDefinition 12651 12654	(c)
+T80	Money 13335 13345	75 million
+T81	ClauseMention 13495 13507	Section 2(b)
+T82	ClauseMention 13516 13527;13528 13529	Section 2(c )
+T83	ClauseMention 14481 14500	Section 2(b) or (v)
+T84	ClauseDefinition 14757 14760	(d)
+T85	ClauseMention 16132 16144	Section 8(a)
+T86	ClauseDefinition 16190 16193	(e)
+T87	RegulationDocuments 16265 16273	Form S-1
+T88	ClauseDefinition 16640 16643	(f)
+T89	ClauseDefinition 17438 17447	Section 3
+T90	ClauseDefinition 17518 17521	(a)
+T91	ClauseMention 17925 17934	Section 2
+T92	ClauseMention 18177 18186	Section 3
+T93	ClauseDefinition 18674 18677	(b)
+T94	ClauseMention 18872 18899	(i) or (ii) of Section 3(a)
+T95	ClauseDefinition 18723 18726	(i)
+T96	ClauseDefinition 20081 20085	(ii)
+T97	ClauseMention 20243 20264	(iii) of Section 3(a)
+T98	ClauseDefinition 17553 17556	(i)
+T99	ClauseDefinition 17658 17662	(ii)
+T100	ClauseDefinition 17833 17838	(iii)
+T101	ClauseDefinition 19405 19408	(i)
+T102	ClauseDefinition 19527 19531	(ii)
+T103	ClauseDefinition 19793 19798	(iii)
+T104	ClauseDefinition 20770 20773	(i)
+T105	ClauseDefinition 21019 21023	(ii)
+T106	ClauseDefinition 21308 21313	(iii)
+T107	ClauseMention 21479 21491	Section 8(a)
+T108	ClauseDefinition 21537 21546	Section 4
+T109	ClauseDefinition 21609 21612	(a)
+T110	ClauseDefinition 23107 23110	(b)
+T111	RegulationDocuments 22168 22202	Rule 10b5-1 under the Exchange Act
+T112	Money 22681 22691	75 million
+T113	ClauseMention 22944 22956	Section 3(a)
+T114	TermDefinition 9149 9156	Dollars
+T115	TermDefinition 9163 9164	$
+T116	TermDefinition 8785 8791	hereof
+T117	TermDefinition 8795 8801	herein
+T118	TermDefinition 8808 8817	hereunder
+T119	TermDefinition 9812 9819	include
+T120	TermDefinition 9823 9831	includes
+T121	TermDefinition 9837 9846	including
+T122	TimePeriodLimitation 22837 22844	90 days
+T123	ClauseDefinition 23734 23737	(i)
+T124	ClauseDefinition 23983 23987	(ii)
+T125	ClauseDefinition 24270 24275	(iii)
+T126	ClauseMention 24434 24446	Section 8(a)
+T127	TimePeriodLimitation 12872 12879	90 days
+T128	ClauseDefinition 24492 24495	(c)
+T129	ClauseDefinition 24923 24926	(d)
+T130	TimePeriodLimitation 25087 25095	one year
+T131	TimePeriodLimitation 25242 25250	one-year
+T132	TimePeriodLimitation 25231 25235	year
+T133	ClauseDefinition 25371 25380	Section 5
+T134	ClauseDefinition 25465 25468	(a)
+T135	TimePeriodLimitation 25644 25651	90 days
+T136	ClauseDefinition 25806 25809	(i)
+T137	ClauseDefinition 26203 26207	(ii)
+T138	ClauseDefinition 26650 26655	(iii)
+T139	ClauseDefinition 26773 26776	(A)
+T140	ClauseDefinition 26992 26995	(B)
+T141	ClauseMention 27305 27335	(i)-(iii) of this Section 5(a)
+T142	ClauseMention 27412 27424	Section 5(a)
+T143	TimePeriodLimitation 27473 27497	twice in a calendar year
+T144	ClauseMention 27677 27689	Section 5(a)
+T145	ClauseDefinition 27693 27696	(b)
+T146	ClauseDefinition 27977 27980	(i)
+T147	ClauseDefinition 28018 28022	(ii)
+T148	ClauseDefinition 28438 28447	Section 6
+T149	ClauseDefinition 28502 28505	(a)
+T150	ClauseMention 28546 28555	Section 6
+T151	RegulationDocuments 28763 28771	Rule 144
+T152	TimePeriodLimitation 29132 29142	seven days
+T153	TimePeriodLimitation 29308 29318	seven days
+T154	TimePeriodLimitation 29398 29405	90 days
+T155	ClauseDefinition 29076 29079	(b)
+T156	ClauseDefinition 29570 29573	(c)
+T157	ClauseMention 29582 29594	Section 6(a)
+T158	ClauseMention 29808 29817	Section 6
+T159	ClauseDefinition 29821 29824	(d)
+T160	ClauseMention 29903 29912	Section 6
+T161	ClauseDefinition 30173 30182	Section 7
+T162	TimePeriodLimitation 30350 30360	seven days
+T163	TimePeriodLimitation 30385 30392	90 days
+T164	RegulationDocuments 30585 30600	Form S-8 or S-4
+T165	ClauseDefinition 30732 30741	Section 8
+T166	ClauseDefinition 30812 30815	(a)
+T167	ClauseDefinition 31236 31239	(i)
+T168	TimePeriodLimitation 32199 32222	three (3) Business Days
+T169	TimePeriodLimitation 32535 32558	three (3) Business Days
+T170	ClauseDefinition 32842 32846	(ii)
+T171	RegulationDocuments 33114 33128	Securities Act
+T172	RegulationDocuments 33451 33465	Securities Act
+T173	ClauseDefinition 33686 33691	(iii)
+T174	ClauseDefinition 34010 34014	(iv)
+T175	ClauseDefinition 34696 34699	(v)
+T176	RegulationDocuments 34678 34692	Securities Act
+T177	RegulationDocuments 34843 34856	blue sky laws
+T178	ClauseDefinition 35176 35179	(A)
+T179	ClauseMention 35311 35314	(v)
+T180	ClauseDefinition 35316 35319	(B)
+T181	ClauseDefinition 35375 35378	(C)
+T182	ClauseDefinition 35446 35450	(vi)
+T183	RegulationDocuments 35628 35642	Securities Act
+T184	ClauseDefinition 36349 36354	(vii)
+T185	ClauseDefinition 36967 36973	(viii)
+T186	ClauseDefinition 37135 37138	(A)
+T187	ClauseDefinition 37468 37471	(B)
+T188	ClauseDefinition 37668 37671	(C)
+T189	ClauseMention 38355 38361	(viii)
+T190	ClauseDefinition 38365 38368	(1)
+T191	ClauseDefinition 38561 38564	(2)
+T192	ClauseDefinition 38575 38578	(x)
+T193	ClauseDefinition 38769 38772	(y)
+T194	ClauseDefinition 39459 39463	(ix)
+T195	ClauseDefinition 39692 39695	(x)
+T196	ClauseDefinition 40080 40084	(xi)
+T197	ClauseMention 40444 40457	Section 11(a)
+T198	TimePeriodLimitation 40218 40227	12 months
+T199	RegulationDocuments 40465 40492	Securities Act and Rule 158
+T200	RegulationDocuments 40623 40670	Forms 10-Q, 10-K and 8-K under the Exchange Act
+T201	ClauseDefinition 40678 40683	(xii)
+T202	ClauseDefinition 40822 40825	(1)
+T203	ClauseDefinition 41138 41141	(2)
+T204	ClauseDefinition 41328 41331	(3)
+T205	ClauseDefinition 41548 41551	(4)
+T206	ClauseDefinition 41780 41786	(xiii)
+T207	RegulationDocuments 41739 41752	blue sky laws
+T208	ClauseDefinition 42110 42113	(b)
+T209	ClauseDefinition 42995 42998	(c)
+T210	ClauseDefinition 42146 42149	(i)
+T211	ClauseDefinition 42393 42397	(ii)
+T212	RegulationDocuments 43117 43131	Securities Act
+T213	RegulationDocuments 43290 43320	Section 12 of the Exchange Act
+T214	RegulationDocuments 43414 43428	Securities Act
+T215	RegulationDocuments 43437 43449	Exchange Act
+T216	RegulationDocuments 43621 43654	Rule 144 under the Securities Act
+T217	ClauseDefinition 43658 43661	(d)
+T218	ClauseDefinition 43980 43983	(e)
+T219	RegulationDocuments 44085 44118	Rule 405 under the Securities Act
+T220	ClauseDefinition 44473 44476	(f)
+T221	ClauseDefinition 45311 45320	Section 9
+T222	ClauseDefinition 45360 45363	(a)
+T223	RegulationDocuments 45590 45603	blue sky laws
+T224	ClauseDefinition 46396 46399	(b)
+T225	ClauseDefinition 46968 46978	Section 10
+T226	ClauseDefinition 47052 47055	(a)
+T227	ClauseDefinition 47454 47457	(b)
+T228	ClauseDefinition 47851 47854	(c)
+T229	ClauseMention 48278 48286;48287 48292	Section  10(c)
+T230	ClauseDefinition 48370 48380	Section 11
+T231	ClauseDefinition 48412 48415	(a)
+T232	RegulationDocuments 48616 48630	Securities Act
+T233	RegulationDocuments 49152 49166	Securities Act
+T234	RegulationDocuments 49172 49184	Exchange Act
+T235	RegulationDocuments 49199 49214	“blue sky” laws
+T236	ClauseDefinition 49243 49246	(i)
+T237	ClauseDefinition 49407 49411	(ii)
+T238	RegulationDocuments 49917 49931	Securities Act
+T239	ClauseDefinition 50068 50071	(b)
+T240	ClauseDefinition 52091 52094	(c)
+T241	RegulationDocuments 50575 50589	Securities Act
+T242	ClauseDefinition 53529 53532	(d)
+T243	ClauseDefinition 52182 52185	(i)
+T244	ClauseDefinition 52303 52307	(ii)
+T245	ClauseMention 53612 53622	Section 11
+T246	ClauseDefinition 2651 2654	(i)
+T247	ClauseDefinition 2851 2855	(ii)
+T248	ClauseMention 53904 53924	Section 11(a) or (b)
+T249	ClauseMention 55409 55431	Section 11(a) or 11(b)
+T250	ClauseDefinition 55478 55488	Section 12
+T251	ClauseDefinition 55688 55691	(a)
+T252	ClauseDefinition 56148 56151	(b)
+T253	ClauseMention 56478 56487	Section 6
+T254	ClauseDefinition 56498 56508	Section 13
+T255	RegulationDocuments 56617 56631	Securities Act
+T256	RegulationDocuments 56772 56786	Securities Act
+T257	RegulationDocuments 56978 56986	Rule 144
+T258	RegulationDocuments 57036 57050	Securities Act
+T259	RegulationDocuments 57402 57416	Securities Act
+T260	RegulationDocuments 58183 58219	UNITED STATES SECURITIES ACT OF 1933
+T261	ClauseMention 58487 58497	Section 13
+T262	RegulationDocuments 58772 58786	Securities Act
+T263	ClauseDefinition 58790 58800	Section 14
+T264	ClauseDefinition 58830 58833	(a)
+T265	CompanyName 59282 59314	AMC Entertainment Holdings, Inc.
+T266	CompanyName 59765 59792	Dalian Wanda Group Co. Ltd.
+T267	CompanyName 59518 59544	Weil Gotshal & Manges, LLP
+T268	CompanyName 59942 59968	Weil Gotshal & Manges, LLP
+T269	CompanyAddress 59315 59326;59327 59343;59344 59359	One AMC Way 11500 Ash Street Leawood, Kansas
+T270	CompanyPerson 59367 59382	Kevin M. Connor
+T271	CompanyPersonPosition 59390 59405	General Counsel
+T272	CompanyPhone 59434 59448	(913) 213-2506
+T273	CompanyFax 59483 59497	(913) 213-2058
+T274	CompanyAddress 59545 59561;59562 59586	767 Fifth Avenue New York, New York 10153
+T275	CompanyPhone 59617 59631	(212) 310-8000
+T276	CompanyFax 59668 59682	(212) 310-8007
+T277	CompanyEmail 59691 59713	matthew.bloch@weil.com
+T278	CompanyPerson 59727 59740	Matthew Bloch
+T279	CompanyAddress 59793 59818;59819 59834;59835 59861;59862 59874	21/F Block B, Wanda Plaza 93 Jianguo Road Chaoyang District, Beijing China 100022
+T280	CompanyPerson 59886 59892	Wu Hua
+T281	CompanyFax 59903 59921	+86 (10) 8585-3095
+T282	CompanyAddress 59969 59985;59986 60010	767 Fifth Avenue New York, New York 10153
+T283	CompanyPhone 60041 60055	(212) 310-8000
+T284	CompanyFax 60092 60106	(212) 310-8007
+T285	CompanyEmail 60115 60137	matthew.bloch@weil.com
+T286	CompanyPerson 60151 60164	Matthew Bloch
+T287	ClauseDefinition 60386 60389	(b)
+T288	ClauseDefinition 60569 60572	(i)
+T289	ClauseDefinition 60589 60593	(ii)
+T290	ClauseDefinition 60845 60848	(i)
+T291	ClauseDefinition 60865 60869	(ii)
+T292	ClauseDefinition 61240 61243	(c)
+T293	ClauseDefinition 61523 61526	(d)
+T294	LawLocation 62012 62078	United States District Court for the Southern District of New York
+T295	LawLocation 62082 62106	any New York State court
+T296	ClauseDefinition 62287 62290	(i)
+T297	ClauseDefinition 62363 62367	(ii)
+T298	ClauseDefinition 62474 62479	(iii)
+T299	ClauseDefinition 62597 62601	(iv)
+T300	ClauseMention 62754 62767	Section 14(a)
+T301	ClauseDefinition 62991 62994	(e)
+T302	ClauseDefinition 63178 63181	(f)
+T303	ClauseDefinition 63388 63391	(g)
+T304	ClauseDefinition 63579 63582	(h)
+T305	ClauseDefinition 63924 63927	(i)
+T306	ClauseDefinition 64126 64130	(ii)
+T307	ClauseDefinition 3014 3017	(a)
+T308	ClauseDefinition 3207 3210	(b)
+T309	TermDefinition 1228 1235	control
+T310	TermDefinition 1287 1300	controlled by
+T311	TermDefinition 1307 1332	under common control with
+T312	TermDefinition 1994 2014	beneficial ownership
+T313	ClauseDefinition 6770 6773	(a)
+T314	ClauseDefinition 6875 6878	(b)
+T315	ClauseDefinition 7028 7031	(c)
+T316	ClauseMention 7110 7144	(a), (b) or (c) of this definition
+T317	ClauseDefinition 8741 8744	(i)
+T318	ClauseDefinition 8975 8979	(ii)
+T319	ClauseDefinition 9109 9114	(iii)
+T320	ClauseDefinition 9196 9200	(iv)
+T321	ClauseDefinition 9568 9571	(v)
+T322	ClauseDefinition 9766 9770	(vi)
+T323	ClauseDefinition 9946 9951	(vii)
+T324	ClauseDefinition 10037 10043	(viii)
+T325	ClauseMention 10426 10429	(c)
+T326	RegulationDocuments 10593 10607	Securities Act
+T327	ClauseDefinition 10671 10674	(i)
+T328	ClauseDefinition 10738 10742	(ii)
+T329	TimePeriodLimitation 11216 11223	45 days
+T330	TimePeriodLimitation 11170 11177	90 days
+T331	ClauseDefinition 11124 11127	(i)
+T332	ClauseDefinition 11291 11295	(ii)
+T333	TimePeriodLimitation 12150 12156	60-day
+T334	ClauseDefinition 12771 12774	(i)
+T335	ClauseDefinition 12881 12885	(ii)
+T336	ClauseDefinition 13051 13056	(iii)
+T337	TimePeriodLimitation 13134 13141	90 days
+T338	ClauseDefinition 13218 13222	(iv)
+T339	ClauseDefinition 13534 13537	(i)
+T340	RegulationDocuments 13660 13674	Securities Act
+T341	ClauseDefinition 13786 13790	(ii)
+T342	TimePeriodLimitation 14145 14152	45 days
+T343	ClauseDefinition 14182 14187	(iii)
+T344	ClauseDefinition 14377 14381	(iv)
+T345	ClauseDefinition 15427 15430	(i)
+T346	ClauseDefinition 15681 15685	(ii)
+T347	ClauseDefinition 15968 15973	(iii)
+T348	TimePeriodLimitation 18036 18052	15 Business Days
+T349	TimePeriodLimitation 18576 18593	ten Business Days

@@ -16,5 +16,5 @@ for file in tqdm(p.iterdir()):
             d = nlp(line.text)
             for sent in d.sents:
                 w_file.write(sent.text + '\n')
-    # with open('testsamples_txt/' + file.name + '.ann', 'w+') as w_file:
-    #     pass
+    with open('testsamples_txt/' + file.stem + '.ann', 'w+') as w_file:
+        pass

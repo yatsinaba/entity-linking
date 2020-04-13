@@ -15,7 +15,7 @@ docker volume create --name brat-cfg
 
 Запустити brat
 ```bash
-docker run --name=brat -d -p 80:80 -v $(pwd)/brat-data:/bratdata -v $(pwd)/brat-cfg:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=brat@example.com cassj/brat
+docker run --name=brat -d -p 80:80 -v $(pwd)/brat-data:/bratdata -v $(pwd)/brat-cfg:/bratcfg -e BRAT_USERNAME=brat -e BRAT_PASSWORD=brat -e BRAT_EMAIL=yatsinaba@gmail.com cassj/brat
 ```
 
 Підєднатися до контейнеру якщо необхідно
