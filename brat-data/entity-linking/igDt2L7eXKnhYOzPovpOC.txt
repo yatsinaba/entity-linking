@@ -1,0 +1,235 @@
+Exhibit 10.16
+EXECUTION VERSION
+AMENDMENT NO. 4 TO LOAN AGREEMENT
+THIS AMENDMENT
+NO. 4
+TO SECOND AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT dated as of January 30, 2015 (this “Amendment”), is among NICHOLAS FINANCIAL, INC., a Florida corporation (the “Borrower”), BANK OF AMERICA, N.A., in its capacity as agent (in such capacity, the “Agent”), and each of the Lenders party hereto.
+RECITALS:
+A.
+The Borrower, the lenders from time to time party thereto (collectively, the “Lenders”) and the Agent have entered into a Second Amended and Restated Loan and Security Agreement dated as of January 12, 2010 (as heretofore modified, supplemented or amended, the “Loan Agreement”).
+Capitalized terms used and not otherwise defined
+herein shall have the meanings ascribed to them in the Loan Agreement.
+B.
+The Borrower has requested that the Agent and the Lenders amend certain provisions of the Loan Agreement and consent to the Borrower making an offer to the public to purchase between $50,000,000 and $70,000,000 of the Parent’s publicly traded shares of common stock.
+C. Subject to the terms and conditions set forth below
+, the Agent and the Lenders party hereto are willing to so amend the Loan Agreement and consent to such Distribution.
+In furtherance of the foregoing, the parties agree as follows:
+Section 1.
+AMENDMENTS.
+Subject to the covenants, terms and conditions set forth herein and in reliance upon the representations and warranties set forth herein, the Loan Agreement is amended as follows:
+(a)
+The existing Section 1.1(b) of the Loan Agreement is deleted in its entirety and the following is inserted in lieu thereof:
+“As of the Amendment No.4 Effective Date, the Commitments and Pro Rata Shares for each of the Lenders are as set forth on Schedule 1.1 to this Agreement.
+On the Amendment No.4 Effective Date, the Lenders shall make full cash Settlement with each other either directly or through the Agent, as the Agent may direct or approve, with respect to all assignments, reallocations and other changes in Commitments and each Lender’s Pro Rata Share of the Revolving Loans.”
+(b)
+The existing definition of “Allowable Term Contracts” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Allowable Term Contracts” means (i) Eligible Contracts which are Direct Loan Contracts with initial terms which provide for a scheduled maturity date of greater than forty-eight (48) months and less than or equal to sixty (60) months from the date of execution and (ii) Eligible Contracts of greater than sixty
+(60) months and less than 
+
+or equal to seventy-two (72) months from the date of execution with respect to Eligible Contracts which are secured by a lien on a Vehicle which is less than eight model years old at the time such Contract was originated (excluding the model year in effect at the time the Contract was originated).”
+(c)
+The existing definition of “Borrowing Base” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Borrowing Base” means, at any time, an amount equal to (a) the lesser of (i) the Maximum Revolver Amount or (ii) the sum of (x) the Net Contract Payments payable under all of the Borrower’s Allowable Term Contracts then outstanding times the applicable Advance Rate and (y) 
+the Net Contract Payments payable under all of the Borrower’s other Eligible Contracts then outstanding times the applicable Advance Rate; less (b) the sum of (i) the Bank Product Reserves and (ii) all other reserves which the Agent deems necessary in the exercise of its reasonable credit judgment to maintain with respect to the Borrower’s account, including reserves for any amounts which the Agent or any Lender may be obligated to pay in the future for the account of the Borrower; provided, however, (A) 
+the Older Vehicle Contract Borrowing Base included in calculating the Borrowing Base shall not, at any time, exceed thirty percent (30%) of the Gross Contract Payments payable under all Eligible Vehicle Contracts and the Oldest Vehicle Contract Borrowing Base included in calculating the Borrowing Base shall not, at any time, exceed five percent (5%) of the Gross Contract Payments payable under all Eligible Vehicle Contracts; and provided, further, however, that the Gross Contract Payments payable under all Uninsured Contracts shall not constitute more than three percent (3%) of the Gross Contract Payments payable under all Eligible Vehicle Contracts.”
+(d)
+The existing definition of “Dealer Reserve Percentage” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Dealer Reserve Percentage” means the percent (to the extent positive), calculated as of the last day of each month, equal to the remainder of (a) the quotient (expressed as a percentage) of (i) the aggregate amount paid by Borrower to third parties for the purchase of Contracts then outstanding, arising from the credit sale of Vehicles, acquired by Borrower at any time prior to and including the date on which the calculation is made, divided by (ii) the aggregate “wholesale clean value” for all the Vehicles which are the subject of such Contracts, minus (b) one hundred and five percent (105%).
+The “wholesale clean value” shall be (i) such value as specified in the National Auto Research Black Book (the “Black Book”) or (ii) the “clean trade-in” value as specified in the National Automobile Dealers Association used car guide, in each case, as in effect at the time Borrower purchased the subject Contracts.
+In the event that the Black Book shall, at any time, cease to be published, then the Agent shall thereafter select a comparable publication, as determined by the Agent in its sole discretion, for determining the foregoing calculation.”
+ 
+2 
+
+(e)
+The existing definition of “Eligible Contract” in Section 1.2 of the Loan Agreement is hereby amended by deleting clause (l) and clause (m) thereof in their entirety and inserting the following in lieu thereof:
+“(l) if the Contract is a Vehicle Contract, then:
+(i)
+the Contract is secured by a first priority, perfected security interest in a new or used Vehicle and
+the Borrower has filed all documents with the department of motor vehicles and/or other appropriate agency of the state wherein the Vehicle is registered and paid all appropriate fees
+such that the Borrower is the registered first lien holder thereon;
+(ii)
+no funds used to pay any payment due under the Contract and no funds used to make the down payment for the Vehicle which is the subject of the Contract, were borrowed by the Contract Debtor from the Borrower;
+(iii) to the extent that the Contract balance includes sums representing the financing of so-called “extended warranty plans
+,” such plans are (i) in substantial compliance with all applicable consumer credit laws, including any and all special insurance laws relating thereto, and (ii) underwritten by (x) a major automobile manufacturer, or an affiliate thereof, or (y) an independent reputable and financially sound insurance company;
+(iv)
+the Vehicle securing repayment of the Contract is insured against loss, with coverages and policy limits reasonably satisfactory to the Lender, including collision coverage; and
+(v) at any one time outstanding, the Net Contract Payments payable under Eligible Contracts secured by Vehicles which were more than 10 model years old at the inception thereof does not exceed 5% of the Net Contract Payments payable under all Eligible Vehicle Contracts;”
+“(m)
+If the Contract is a Direct Loan Contract then:
+(i) the original term of the Contract does not exceed sixty (60) months;
+(ii)
+(x) if the Contract is secured by a first priority, perfected security interest in a new or used Vehicle and
+the Borrower has filed all documents with the department of motor vehicles and/or other appropriate agency of the state wherein the Vehicle is registered and paid all appropriate fees
+such that the Borrower is the registered first lien holder thereon, the cash advance made in connection with such Contract does not exceed the lesser of (1) Twenty-Five Thousand Dollars ($25,000.00) or (2) 105% of the “wholesale clean value” of the Vehicle and, in each case, the unpaid principal balance of such Contract and the aggregate principal
+ 
+3 
+
+balance of all other Contracts owing by such Contract Debtor does not exceed Twenty-Five Thousand Dollars ($25,000) or (y) in all other cases, any cash advance made in connection with the Contract does not exceed Ten Thousand Dollars ($10,000.00) and
+the unpaid principal balance of the Contract and the aggregate principal balance of all other Contracts owing by a Contract Debtor does not exceed Ten Thousand Dollars ($10,000);
+(iii) if the Contract Debtor was or is a Contract Debtor under another Contract previously originated or acquired by the Borrower, then the Contract Debtor’s payment history under such prior or current Contract was satisfactory (which, in the case of a prior Contract means that the Contract Debtor has paid such Contract in full);
+(iv) if the Contract Debtor is not a Contract Debtor under a Contract previously originated or acquired by the Borrower, then the Contract Debtor’s credit history is satisfactory to the Agent,
+(v) repayment of the Contract is secured by a perfected security interest on the Contract Debtor’s personal property or real property provided the real property is taken as collateral out of an abundance of caution, and not as the primary collateral for the Contract;
+(vi)
+no portion of the loan evidenced by the Contract was made by the Borrower to the Contract Debtor for the purpose of financing the Contract Debtor’s payment of a down payment on a Vehicle which is the subject of a motor vehicle retail installment contract or make any payment(s) necessary to cure any payment default or deficiency or otherwise to bring the payments due under or with respect to any Contract current;
+(vii)
+no portion of the loan evidenced by the Contract was made by the Borrower for the purpose of providing funds to the Contract Debtor to pay amounts owing by the Contract Debtor on another Contract owing to the Borrower; and
+(viii) at any one time outstanding, the Gross Contract Payments payable under all Direct Loan Contracts does not exceed 10% of the Gross Contract Payments payable under all Eligible Contracts;”
+(f)
+The existing definition of “Maximum Revolver Amount” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Maximum Revolver Amount” means (i) prior to the Tender Offer Effective Date, $150,000,000.00 and (ii) on the Tender Offer Effective Date and thereafter, $225,000,000.”
+ 
+4 
+
+(g)
+The existing definition of “Older Vehicle Contract Borrowing Base” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Older Vehicle Contract Borrowing Base” means, as of any date of calculation, the amount of the Gross Contract Payments under Eligible Vehicle Contracts which are secured by a lien on a Vehicle which is eight to ten model years old at the time such Contract was originated (excluding the model year in effect at the time the Contract was originated).”
+(h)
+The existing definition of “Oldest Vehicle Contract Borrowing Base” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Oldest Vehicle Contract Borrowing Base” means, as of any date of calculation, the amount of the Net Contract Payments payable under Eligible Vehicle Contracts which are secured by a lien on a Vehicle which more than ten model years old at the time such Contract was originated (excluding the model year in effect at the time the Contract was originated).”
+(i)
+The existing definition of “Stated Termination Date” in Section 1.2 of the Loan Agreement is deleted in its entirety and the following definition is inserted in lieu thereof:
+““Stated Termination Date” means January 30, 2018.”
+(j)
+The following new definitions are inserted into Section 1.2 in proper alphabetical order:
+““Amendment No. 4 Effective Date” means January 30, 2015.”
+““Parent” means Nicholas Financial, Inc., a Canadian holding company.”
+““Tender Offer” means an offer by Borrower to the public to purchase shares of common stock of the Parent traded on NASDAQ under the symbol NICK in a modified “Dutch auction” process, which is conditioned on (i) a sufficient number of shares being tendered for purchase such that the aggregate purchase price for all such tendered shares is not less than $50,000,000 and (ii) the aggregate purchase price for all tendered shares that are purchased does not exceed
+$70,000,000 (with shares to all be purchased at the same price and at the lowest price that would satisfy the conditions set forth in these clauses
+(i) and (ii), the pro-rated purchasing of shares offered at such lowest price to the extent applicable and the return of shares not so purchased).
+““Tender Offer Effective Date” means the date that all of the following conditions are met (provided that all such conditions are met on or before May 29, 2015):
+(i)
+the Tender Offer has been or is contemporaneously completed in accordance with the offering documents, all applicable law, rules and regulations (including
+ 
+5 
+
+those of the Securities and Exchange Commission or other Governmental Authority) and all requirements of the depository or transfer agent, without any waivers, consents, amendments or modifications that are not acceptable to the Agent and Lenders, and without any action or objection pending from any Person;
+(ii) amended and restated notes shall have been executed by Borrowers and delivered to each Lender that requests issuance of an amended and restated note;
+(iii)
+Borrower shall have paid to Agent a fee in the amount of $112,500, for the ratable benefit of each Lender whose Commitment is increasing (as set forth on Schedule 1.1) on the date of the Tender Offer Effective Date, based on its share of the Commitment increase;
+(iv) the representations and warranties made by the Borrower in Article 8 of the Loan Agreement are true and correct on and as of the Tender Offer Effective Date (and after giving effect to all transactions to occur on the Tender Offer Effective Date), except to the extent that such representations and warranties expressly relate to an earlier date in which case such representations and warranties are true and correct on and as of such earlier date;
+(v) Agent shall have received a favorable written opinion of counsel acceptable to Agent, as well as any local counsel to Borrower or Agent, each addressed to Agent and each Lender and each substantially in form and substance reasonably satisfactory to the Agent;
+(vi) at least 3 business days before the Tender Offer Effective Date, the Agent shall have received a certificate of a duly authorized officer of Borrower, in sufficient quantity for each of the Lenders, certifying (i) that attached copies of the certificate or articles of incorporation and by-laws of the Borrower are true and complete, and in full force and effect, without amendment except as shown; (ii) that an attached copy of resolutions authorizing the increased borrowings and the Tender Offer is true and complete, and that such resolutions are in full force and effect, were duly adopted, have not been amended, modified or revoked, and constitute all resolutions adopted with respect to the Tender Offer and this Amendment and (iii) providing a calculation of Availability on the Tender Offer Effective Date and after giving effect to all transactions and Borrowings to occur or be made on such date ;
+(vii)
+Availability on the Tender Offer Effective Date and after giving effect to all transactions and Borrowings to occur or be made on such date, shall not be less than 15,000,000.
+(viii) Agent shall have received a certificate, in form and substance satisfactory to it and in sufficient quantity for each of the Lenders, from a knowledgeable Senior Officer of Borrower Agent certifying that, no Default or Event of Default exists on the Tender Offer Effective Date prior to and immediately after giving effect to the completion of the Tender Offer and the transactions and Borrowings to occur on the Tender Offer Effective Date;
+ 
+6 
+
+(ix) Borrowers shall have paid all fees and expenses required to be paid to Agent and Lenders on the Tender Offer Effective Date, including all reasonable and documented out-of-pocket legal fees and expenses of counsel to Agent.
+(k)
+The last sentence of Section 4.2 of the Loan Agreement is deleted in its entirety and the following is inserted in lieu thereof:
+“If this Agreement is terminated at any time prior to the Stated Termination Date, whether pursuant to this Section or pursuant to Section 11.2, the Borrower shall pay to the Agent, for the account of the Lenders, an early termination fee equal to (i) one half of one percent (0.5%) of the Maximum Revolver Amount if such termination occurs more than one year prior to the Stated Termination Date, or (ii) one quarter of one percent (0.25%) of the Maximum Revolver Amount if such termination occurs within the year prior to the Stated Termination Date.”
+(l) Section 6.7 of the Loan Agreement is hereby amended by deleting clause (e)(v)
+thereof in its entirety and inserting the following is inserted in lieu thereof:
+“(v) the “wholesale clean value” (as defined in Dealer Reserve Percentage) for the Vehicle;”
+(m) Section 6.7 of the Loan Agreement is hereby amended by inserting the following new clause (h) at the end of clause (g) thereof, deleting “and (h)” and inserting in lieu thereof “and (i)”
+thereof:
+“(h) books and records consisting of data tape information prepared as of the close of business of the previous month, in form reasonably satisfactory to Agent;”
+(n)
+The existing Section 9.23 of the Loan Agreement is deleted in its entirety and the following is inserted in lieu thereof:
+“9.23 Limitation on Bulk Purchases.
+Borrower shall not, without Agent’s prior written consent (which Agent may withhold in its sole and absolute discretion), acquire for a purchase price greater than $500,000 any Contracts as part of a Bulk Purchase Transaction, provided, however that Borrower may, without the consent of Agent, acquire for a purchase price of $3,000,000 or less per annum Contracts as part of a Bulk Purchase Transaction
+provided the Borrower has Availability sufficient to consummate the Bulk Purchase Transaction prior to, and without giving effect to, the Bulk Purchase Transaction.
+The phrase ‘Bulk Purchase Transaction’ shall mean the purchase, on a group or aggregate basis, of Contracts originated by third parties, in one or a series of related transactions, from a seller or affiliated sellers, where Borrower’s decision to purchase the Contracts is based primarily on criteria other than the creditworthiness of the individual Contract Debtors who are the Contract obligors.”
+ 
+7 
+
+(o) Section 9.31 of the Loan Agreement is hereby amended by deleting the second sentence thereof in its entirety and inserting the following in lieu thereof:
+“Without limiting the generality of the foregoing, Borrower’s policy shall provide, as a minimum, that on the last business day of each month, the Borrower shall charge off the unpaid balance of any Contract with respect
+to which any payment due thereunder is 120 days or more past due as determined on a contractual basis.”
+The amendments to the Loan Agreement set forth in this Section 1 are limited to the extent specifically set forth above and no other terms, covenants or provisions of the Loan Agreement are intended to be affected hereby.
+Section 2. COMMITMENTS.
+A new Schedule 1.1 is attached hereto as Exhibit A setting forth the Commitments of the Lenders as of the Amendment No.4 Effective Date and as of the Tender Offer Effective Date and upon each such date (or the next Business Day), the Lenders shall make full cash Settlement with each other either directly or through the Agent, as the Agent may direct or approve so that each Lender’s funded portion of the Revolving Loans is equal to such Lender’s Pro Rata Share of the outstanding Revolving Loans on the Settlement Date.
+Section 3. CONSENT.
+Subject to the covenants, terms and conditions set forth herein and in reliance upon the representations and warranties set forth herein, Agent and the Lenders party hereto hereby consent to the (i) making the Tender Offer on or after the Amendment No.4 Effective Date provided that no Default or Event of Default exists at the time such offer is made and (ii) the purchase of the publicly traded common stock of the Parent in accordance with the Tender Offer on the Tender Offer Effective Date, subject to the conditions set forth in the definition thereof of.
+Such consent is specifically limited as set forth in this Section 3 and shall not be deemed a waiver of, or consent to a departure from, any other term, covenant, provision or condition set forth in any of the Loan Documents
+Section 4.CONDITIONS PRECEDENT.
+The parties hereto agree that the amendments set forth in Section 1 and Section 2 above (other than those amendments that take effect upon the Tender Offer Effective Date, which amendments shall only take effect upon satisfaction of the conditions set forth in the definition of Tender Offer Effective Date) and the consent set forth in Section 3 above shall not be effective until the satisfaction of each of the following conditions precedent:
+(a) Documentation.
+The Agent shall have received (i) a counterpart of this Amendment, duly executed and delivered by the Borrower and all of the Lenders then party to the Loan Agreement, and (ii) such other documents and certificates as the Agent or its counsel may reasonably request relating to the organization, existence and good standing of the Borrower, the authorization of this Amendment and any other legal matters relating to the Borrower or the transactions contemplated hereby.
+(b) Notes.
+Amended and restated notes shall have been executed by Borrowers and delivered to each Lender that requests issuance of an amended and restated note.
+ 
+8 
+
+(c) Fees.
+Borrower shall have paid to Agent (i) a fee, for the ratable benefit of each Lender, in an amount equal to $120,500; plus (ii) a fee in the amount of $44,250, for the ratable benefit of each Lender whose Commitment is increasing on the date of this Amendment, based on its share of the Commitment increase.
+(d) Fees and Expenses.
+All fees and expenses payable to the Agent, including the fees and expenses of counsel to the Agent, shall have been paid in full.
+Section 5.
+ADDITIONAL AGREEMENTS.
+Borrower agrees to provide Agent with copies of all public announcements or filings made by Borrower or Parent or representative thereof in connection with the Tender Offer and all material notices, objections, actions or other communications received by Borrower or Parent, or publicly filed by any Person, relating to the Tender Offer and such information as reasonably requested by Agent.
+Section 6.
+REPRESENTATIONS AND WARRANTIES.
+(a)
+In order to induce the Agent and the Lenders to enter into this Amendment, the Borrower represents and warrants to the Agent and the Lenders as follows:
+(i)
+The representations and warranties made by the Borrower in Article 8 of the Loan Agreement are true and correct on and as of the date hereof, except to the extent that such representations and warranties expressly relate to an earlier date in which case such representations and warranties are true and correct on and as of such earlier date.
+(ii)
+Since the date of the Financial Statements delivered to the Lenders, no material adverse change has occurred in the Borrower’s property, business, operations or conditions (financial or otherwise).
+(iii)
+No Default or Event of Default has occurred and is continuing or will exist after giving effect to this Amendment.
+(b)
+In order to induce the Agent and the Lenders to enter into this Amendment, the Borrower represents and warrants to the Agent and the Lenders that this Amendment has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation.
+Section 7.
+MISCELLANEOUS
+(a) Ratification and Confirmation of Loan Documents.
+The Borrower hereby consents, acknowledges and agrees to the amendments set forth herein and hereby confirms and ratifies in all respects the Loan Documents to which the Borrower is a party.
+(b) Fees and Expenses.
+The Borrower shall pay on demand all reasonable costs and expenses of the Agent in connection with the preparation, reproduction, execution, and delivery of this Amendment and any other documents prepared in connection herewith, including, without limitation, the reasonable fees and out-of-pocket expenses of counsel for the Agent.
+ 
+9 
+
+(c) Headings.
+Section and subsection headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose or be given any substantive effect.
+(d)
+Governing Law
+; Waiver of Jury Trial.
+This Amendment shall be governed by and construed in accordance with the laws of the State of New York, and shall be further subject to the provisions of Sections 15.3 and 15.4 of the Loan Agreement.
+(e) Counterparts.
+This Amendment may be executed in any number of counterparts, each of which when executed and delivered shall be deemed to be an original, and all of which when taken together shall constitute one and the same agreement.
+Delivery of an executed counterpart of a signature page of this Amendment by facsimile or electronic transmission (including .pdf files) shall be effective as delivery of a manually executed counterpart hereof.
+Entire Agreement.
+This Amendment, together with all the Loan Documents (collectively, the “Relevant Documents”), sets forth the entire understanding and agreement of the parties hereto in relation to the subject matter hereof and supersedes any prior negotiations and agreements among the parties relating to such subject matter.
+No promise, condition, representation or warranty, express or implied, not set forth in the Relevant Documents shall bind any party hereto, and no such party has relied on any such promise, condition, representation or warranty.
+Each of the parties hereto acknowledges that, except as otherwise expressly stated in the Relevant Documents, no representations, warranties or commitments, express or implied, have been made by any party to the other.
+None of the terms or conditions of this Amendment may be changed, modified, waived or canceled orally or otherwise except in a writing signed by the Agent for such purpose.
+(f) Enforceability.
+Should any one or more of the provisions of this Amendment be determined to be illegal or unenforceable as to one or more of the parties hereto, all other provisions nevertheless shall remain effective and binding on the parties hereto.
+(g) Successors and Assigns.
+This Amendment shall be binding upon and inure to the benefit of the Borrower, the Agent, each Lender and their respective successors and assigns (subject to Section 13.2 of the Loan Agreement).
+[Remainder of Page Intentionally Left Blank; Signature Pages Follow]
+ 
+10 
+
+The following parties have caused this Amendment No. 4 to Loan Agreement to be executed as of the date first written above.
+ 
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+Signature Page to Amendment No. 4 to
+Loan Agreement – Nicholas Financial, Inc. 
+
+EXHIBIT A
+SCHEDULE 1.1 to Loan and Security Agreement
+COMMITMENTS OF LENDERS:
+(i) PRIOR TO THE TENDER OFFER EFFECTIVE DATE
+ 
+(ii)
+ON
+AND AFTER THE TENDER OFFER EFFECTIVE DATE
+ 
+Schedule 1.1 to Amendment No. 4 to
+Loan Agreement

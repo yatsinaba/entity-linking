@@ -1,0 +1,1366 @@
+EXHIBIT 2.1
+EXECUTION VERSION
+  
+ASSET PURCHASE AGREEMENT
+by and between
+ACLARIS THERAPEUTICS, INC.
+and
+EPI HEALTH, LLC
+  
+  
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+TABLE OF CONTENTS
+i
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+ii
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+iii
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+  
+  
+  
+iv
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+ASSET PURCHASE AGREEMENT
+This ASSET PURCHASE AGREEMENT (this “Agreement”), dated October 10, 2019 (“Effective Date”), is entered into by and between Aclaris Therapeutics, Inc., a Delaware corporation (“Seller”), and EPI Health, LLC, a South Carolina limited liability company (“Buyer”).  
+Buyer and Seller are sometimes referred to herein individually as a “Party” and collectively as the “Parties”.
+RECITALS
+WHEREAS, Seller desires to sell, transfer and assign to Buyer, and Buyer desires to purchase from Seller, the Transferred Assets (as defined below), subject to the assumption by Buyer of the Assumed Liabilities (as defined below), upon the terms and subject to the conditions set forth in this Agreement.
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual representations, warranties and covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, agree as follows:
+ARTICLE 1   
+DEFINITIONS
+1.1       “Action or Proceeding” means any action, suit, proceeding, arbitration, court order, inquiry, hearing, assessment (whether civil, criminal, administrative, investigative or informal) commenced, brought, conducted or heard by or before, or otherwise involving, any Governmental Authority.
+1.2       “Affiliate” means, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, controls or is controlled by, or is under common control with, such Person.  
+The term “control” shall mean, for purposes of this definition of “Affiliate”, the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.
+1.3       
+“Allergan” means Allergan Sales, LLC.
+1.4       
+“Allergan APA” means the Asset Purchase Agreement by and between Seller and Allergan, dated as of October 15, 2018, as amended.
+1.5       
+“Allergan TSA” means that certain Transition Services Agreement, by and between Seller and Allergan, dated as of November 30, 2018 (as amended).
+1.6       
+“Aspect Agreement” means that certain Assignment and License Agreement, dated as of August 3, 2009, by and between Vicept Therapeutics, Inc. and Aspect Pharmaceuticals, LLC.
+1.7       “Assigned Contracts” means the contracts set forth on Exhibit B.
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+1.8       “Assigned Domain Names” means the domain names listed on Exhibit B.
+1.9       “Assigned Know-How” means Know-How solely related to the development, manufacture, composition, use, distribution, marketing, promotion, sale, administration or formulation of the RHOFADE Product owned by Seller as of the Closing Date.
+1.10     
+“Assigned Patents” means the Patents listed on Exhibit B, including the Rhofade Assigned Patents and Non-Rhofade Assigned Patents (where “Rhofade Assigned Patents” and “Non-Rhofade Assigned Patents” are as defined in the Allergan APA).
+1.11     
+“Assigned Trademarks” means the Trademarks listed on Exhibit B.
+1.12     
+“Assumed Liabilities”  means any Liabilities that accrue after the Closing and arise from the ownership or use of the Transferred Assets by Buyer or omission by Buyer with respect to the Transferred Assets in each case after the Closing;  provided,  however, that:
+1.12.1  Assumed Liabilities under the Assigned Contracts shall only include those Liabilities that arise after the Closing, including as a result of the ownership, performance or omission by Buyer with respect to such Assigned Contracts after the Closing,  and are not due to any breach or default by Seller under such Assigned Contracts which occurred prior to the Closing (including any that result from or are triggered by the Closing, other than caused by a failure to obtain the consent or provide the notice identified on Section 4.3 of the Disclosure Schedules);
+1.12.2  
+Assumed Liabilities shall not include Rebates [
+*
+**]; and
+1.12.3  
+Assumed Liabilities shall not include any Liability that results from a breach or failure of, or default under any representation, warranty, covenant, or other provision of this Agreement by Seller.
+1.13     
+“Bill of Sale” means the Bill of Sale, Assignment and Assumption Agreement conveying and assigning the Transferred Assets from Seller to Buyer and evidencing the assumption of the Assumed Liabilities, a form of which is attached hereto as Exhibit A.
+1.14     “Business Day” means any Monday, Tuesday, Wednesday, Thursday or Friday that is not a day on which banking institutions in the State of New York are explicitly authorized or required by, in either case, Law, regulation or executive order to close.
+1.15     
+“Calendar Quarter” means each of the consecutive three (3) month periods ending March 31, June 30, September 30, and December 31.
+1.16     “Calendar Year” means a period beginning on January 1 and ending twelve (12) consecutive calendar months later on December 31.
+1.17     “CMS” means the Center for Medicare & Medicaid Services.
+1.18     “Code” means the U.S. Internal Revenue Code of 1986, as amended.
+2
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+1.19     
+“Combination Product” means:  (
+a) a pharmaceutical product that consists of an Earnout Product and
+at least one other clinically active ingredient that is not an Earnout Product in a fixed dose combination; or (b) any combination of an Earnout Product and another pharmaceutical product that contains at least one other clinically active ingredient that is not an Earnout Product, where such products are not formulated together but are sold together as a single product in a single package and invoiced as one product.  
+The other clinically active ingredients in clause (a) and the other pharmaceutical products in clause (b) are each referred to as the “Other Products.”
+1.20     
+“Commercially Reasonable Efforts” as used in Section 3.1.2(f)(i) means the exercise of such efforts consistent with the efforts and resources normally used by a pharmaceutical or biotechnology company that is similarly situated to Buyer relating to the commercialization of a pharmaceutical product with similar product characteristics that is of similar market potential at a similar stage of commercialization, taking into account issues of efficacy, safety, patent and regulatory exclusivity, product profile, anticipated or approved labeling, present and future market potential, competitive market conditions, the proprietary position of such pharmaceutical product, the regulatory structure involved, and other relevant technical, legal, scientific, medical or commercial factors, and the profitability of such pharmaceutical product, including in light of pricing and reimbursement issues.
+1.21     “Competing Product” means any prescription product or over-the-counter drug product (other than the RHOFADE Product), in each case marketed for or intended to be marketed for a topical application to treat facial redness due to rosacea;  provided,  however, that for the final twenty-four (24) months of the Restricted Period, a Competing Product shall mean any prescription product or over-the-counter drug product (other than the RHOFADE Product), in each case marketed for or intended to be marketed for a topical application to treat facial redness due to rosacea that contains oxymetazoline hydrochloride as one of its active ingredients.
+1.22     
+“Confidentiality Agreement” means that certain Mutual Confidential Disclosure Agreement, dated as of January 24, 2019, by and between Seller and Buyer.
+1.23     
+“Contemplated Transactions” means the transactions contemplated by this Agreement and the other Transaction Documents.
+1.24     
+“Control” means, with respect to any intellectual property right or other intangible property, that a Party or one of its Affiliates owns or has a license or sublicense to such item or right, and has the ability to grant access, license or sublicense in or to such right without violating the terms of any agreement or other arrangement between such Party and any Third Party.
+1.25     “Cover” or “Covered” means, with respect to a claim of a Patent, that such claim (if issued) would be infringed, absent a license, by the manufacture, use, offer for sale, sale or importation of such product (considering any claims of Patent applications to be issued as they are then pending).
+1.26     
+“Covered Inventory” means all finished product (i.e. commercial product) and samples of the RHOFADE Product that uses the Seller NDC Number and either (i) is included in
+3
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+the Inventory,  (ii) is received by Buyer or its Affiliates pursuant to any purchase order for the RHOFADE Product placed by Seller or any of its Affiliates prior to the Closing and included in the Assigned Contracts, or (iii)
+[
+*
+**].
+1.27     “Dollars” means United States dollars.
+1.28     
+“Earnout Product” means any of (i) the RHOFADE Product, (ii) any product containing oxymetazoline as an active pharmaceutical ingredient that is indicated for the treatment of facial redness due to rosacea (other than the RHOFADE Product), the manufacture, use for such indication, or sale of which would be Covered by a claim of an issued Patent, or pending Patent application, within any of the Assigned Patents or the RHOFADE Licensed Patents, or (iii)
+any oxymetazoline hydrochloride 1% cream that is indicated for the treatment of purpura, the manufacture
+, use for such indication or sale of which would be Covered by a claim of an issued Patent or Patent application within any of the Assigned Patents.
+1.29     “Encumbrance” means any charge, claim, option, equitable interest, hypothecation, lien, mortgage, easement, right of first refusal, pledge, security interest or other similar encumbrance of any kind, other than Permitted Encumbrances.
+1.30     
+“Escrow Agent” means Citibank, N.A.
+1.31     “Escrow Agreement” means the Escrow Agreement, by and among Buyer, Seller and Escrow Agent, a form of which is attached hereto as Exhibit F.
+1.32     
+“Escrow Amount” means One Million Seven Hundred
+Fifty Thousand Dollars ($1,750,000).
+1.33     
+“Exploit” or “Exploitation” means to develop, research, make, have made, import, export, use, have used, sell, offer for sale, have sold, commercialize, package, label, hold or keep (whether for disposal or otherwise), transport, distribute, promote, market or otherwise dispose of.
+1.34     “Ex-U.S. Territory” means the entire world other than the United States.
+1.35     “Excluded Assets” means all assets, rights, properties or goodwill of Seller or its Affiliates not expressly included in the Transferred Assets.
+1.36     “FDA” means the United States Food and Drug Administration or any successor agency thereto.
+1.37     “FFDCA” means the United States Food, Drug and Cosmetic Act, 21 U.S.C. 301, et seq.
+, as it may be amended from time to time, and the rules, regulations, guidances, guidelines, and requirements promulgated or issued thereunder.
+1.38     
+“Fundamental Representations” means the representations and warranties of Seller contained in Section 4.1 (Organization and Authority), Section 4.2 (Title), clause (b) of Section 4.3
+(No Conflicts; Consents), Section 4.8 (Brokers’ Fees), Section 4.9 (Taxes) and Section 4.10.5
+(Completeness of Transferred Assets).
+4
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+1.39     
+“GAAP” means U.S. generally accepted accounting principles.
+1.40     
+“Governmental Authority” means any court, tribunal, arbitrator, agency, legislative body, commission, department, bureau, official or other entity of (a) any government of any country,
+(b) a federal, state, province, region, local, county, city or other political subdivision thereof or (c) any supranational body.
+1.41     “HIPAA” means the Health Insurance Portability and Accountability Act of 1996.
+1.42     “IND” means an Investigational New Drug Application filed with the FDA pursuant to 21
+C.F.R. §  321 (or its successor regulation), and all supplements, amendments, variations, extensions and renewals thereof.
+1.43     “Intellectual Property” means any and all of the following as they exist throughout the world:  
+(a)
+Trademarks and all goodwill associated therewith; (b) Internet domain names and social media addresses and identifiers;
+(c) Patents;
+(d) copyrights in both published and unpublished works (registered and unregistered) and applications for registration; and (e)
+Know-How,  methods, research and development information, technology, product roadmaps, customer lists and any other proprietary information, in each case to the extent any of the foregoing derives economic value (actual or potential) from not being generally known to other Persons who can obtain value from its disclosure or use.
+1.44     “Intellectual Property Rights” means the Assigned Patents, Assigned Trademarks,
+Assigned Know-How, and Assigned Domain Names.
+1.45     “Inventory” means all quantities of the RHOFADE Product, including samples (other than [
+***]), finished product, work-in-progress, raw materials, active pharmaceutical ingredients, excipients, packaging materials and components, wherever located and whether held by Seller or a Third Party on behalf of Seller;  provided, that with respect to finished product and Inventory, such Inventory must (i) have a shelf life of more than [*
+**]
+as of the Closing Date, (ii) not be subject to a quality investigation by Seller as of the Closing Date,  and (iii) be useable in the ordinary course of business.
+1.46     
+“Know-How” means all know-how, show-how, technical and non-technical information, trade secrets, formulae, techniques, sketches, drawings, materials, models, inventions, designs, specifications, processes, apparatus, equipment, databases, research, experimental work, development, pharmacology and clinical and other data, and any related type of proprietary intellectual property right other than Patents.
+1.47     “Knowledge” means the actual knowledge, after reasonable inquiry, of each of [
+*
+**].
+1.48     “Law” or
+“Laws”  means any applicable supra-national, federal, state, regional, local or foreign constitution, treaty, law, statute, ordinance, rule, regulation, interpretation, directive, policy, administrative code, guidance, order, writ, award, decree, injunction, judgment, stay or restraining order of any Governmental Authority, the terms of any permit, and any other
+5
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+ruling or decision of, agreement with or by, or any other requirement of, any Governmental Authority.
+1.49     “Liability” or “Liabilities” means any debt, loss, damage, adverse claim, commitment, liability or obligation (whether direct or indirect, known or unknown, asserted or unasserted, absolute or contingent, accrued or unaccrued, liquidated or unliquidated, matured or unmatured, determined or determinable, or due or to become due, and whether in contract, tort, strict liability or otherwise and whether or not such item is required to be accrued as a liability in financial statements prepared in accordance with GAAP, including those arising under any applicable Law, Action or Proceeding or order of a Governmental Authority and those arising under any contract, arrangement or undertaking), and including all costs and expenses relating thereto.
+1.50     
+“Loss” or “Losses” means losses, damages, adverse claims, Actions or Proceedings, investigations, suits, obligations, demands, debts, fines, penalties, Liabilities, judgments, settlements, Taxes, costs or expenses, including reasonable costs of investigation, defense and settlement and reasonable and documented attorneys’, accountants’, consultants’ or other experts’ fees and expenses.
+1.51     
+“[
+***]” means [*
+**].
+1.52     
+“Material Adverse Effect” means any change, development, event, condition, circumstance or effect that has had or would be reasonably expected to have, alone or in combination with any other change, development, event, occurrence, condition, circumstance, or effect, a materially adverse effect on the business, assets, financial condition or results of operation of the Transferred Assets, the RHOFADE Business, the RHOFADE Licensed Patents, or the Assumed Liabilities, taken as a whole, but excluding (individually or in combination)
+any change, development, event, condition, change, circumstance or adverse effect caused by or relating to:  (a) general business, economic, regulatory or political conditions in the United States or any other jurisdiction, (b) the pharmaceutical industries and markets in which Seller operates in general (except to the extent the Transferred Assets or Assumed Liabilities are disproportionately affected compared to other similarly situated industry and market participants), (c)
+the announcement of this Agreement or the consummation of the transactions contemplated by this Agreement, (d) effects or conditions resulting from Seller’s exploration of strategic options for the RHOFADE Business, including any employee departures; (e)
+the taking of any action by Buyer or its Affiliates, or the taking of any actions specifically required or contemplated by this Agreement, (f) any acts of terrorism or war, sabotage, armed hostilities, earthquakes, hurricanes or natural disasters, (g)
+the failure to meet internal expectations or projections, estimates or forecasts of revenues, earnings, or other measures of financial or operating performance for any period (it being understood and agreed that the facts or occurrences giving rise or contributing to any such failure may be deemed to constitute, or be taken into account in determining whether there has been or would reasonably be expected to be, a Material Adverse Effect) or (h)
+any change in accounting requirements or principles or any change in applicable Laws or interpretation thereof; except, in the case of clauses (a), (b) or (f), to the extent that such change, development, event, occurrence, fact or effect has or would reasonably be expected to have a disproportional effect on the RHOFADE Business relative
+6
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+to other businesses in the pharmaceutical industries and geographies in which the RHOFADE Business operates (in which case, solely the disproportionate impact shall be taken into account).
+1.53     “NDA” means a New Drug Application filed with or approved by the FDA as described in 21 CFR §314, and all supplements, amendments and replacements thereto filed with the FDA.
+1.54     
+“NDC” means a national drug code as issued by the FDA.
+1.55     
+“Net Sales” means, with respect to each Earnout Product
+, the gross amounts invoiced for sales of such Earnout Product by or on behalf of Buyer and its Affiliates, and its and their transferees, licensees and sublicensees (each a “Selling Party”) to Third Parties in the Territory during the applicable period, less the following deductions, to the extent accrued or actually taken or paid as applicable, with respect to the sale of such Earnout Product and that are in accordance with GAAP (as generally and consistently applied throughout the Selling Party’s organization):
+(a)        normal and customary trade, quantity and prompt pay discounts directly with respect to sales of an Earnout Product;
+(b)        refunds, credits, allowances and other similar adjustments for rejection or return of previously sold Earnout Product or for retroactive price reductions and billing errors;
+(c)        Rebates, coupons, and chargebacks  to managed health care organizations, pharmacy benefit managers (or equivalents thereof), national, state/provincial, local, and other governments, their agencies and buyers and reimbursers, or to trade customers;
+(d)        amounts written off by reason of uncollected debt if and when actually written off or allowed, provided that such amounts shall be added back to Net Sales if and when collected;
+(e)        costs of freight, insurance, and other transportation charges directly related to the distribution of such Earnout Product;
+(f)        Taxes, duties or other governmental charges (including any Tax such as a value added or similar Tax, but excluding any Taxes based on income) levied on or measured by the billing amount for the Earnout Product, as adjusted for Rebates and refunds;
+(g)        
+fees paid to wholesalers, distributors, selling agents (excluding any sales representatives of a Selling Party), group purchasing organizations, Third Party payors, other contractees, and managed care entities, in each case with respect to such Earnout Product;
+7
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(h)        that portion of the annual fee on prescription drug manufacturers imposed by the Patient Protection and Affordable Care Act, Pub.
+L.
+No. 111-148 (as amended)
+that the Selling Party allocates to sales of such Earnout Product in accordance with such Selling Party’s standard policies and procedures consistently applied across all its products, as applicable;
+provided,  however, that for purposes of calculating Net Sales of an Earnout Product by any of Buyer’s or its Affiliates’ Third Party licensees or sublicensees in the Ex-U.S. Territory, Net Sales shall mean the total consideration received by Buyer or its Affiliates from such Third Party licensee or sublicensee in respect of such sale.
+In no event will any particular amount identified above be deducted more than once in calculating Net Sales.  
+Sales of Earnout Product between Buyer and its Affiliates or any other Selling Party for resale are excluded from the computation of Net Sales, but the subsequent resale of such Earnout Product to a Third Party is included within the computation of Net Sales.  
+For purposes of determining Net Sales, the Earnout Product shall be deemed sold when invoiced and a “sale” shall not include transfers or dispositions of such Earnout Product for pre-clinical or non-commercial clinical purposes, as samples or under named patient use, compassionate use, patient assistance, or test marketing programs or other similar programs or studies.
+For clarity, Additional Ex-U.S. Consideration will not be included in Net Sales.
+Net Sales for a Combination Product in the Territory is calculated as follows:
+i.          
+If the Earnout Product and Other Products each are sold separately in the Territory, Net Sales will be calculated by multiplying the total Net Sales (as described above) of the Combination Product by the fraction A/(A+B), where A is the public or list price in the Territory of such Earnout Product sold separately in the same formulation and dosage, and B is the sum of the public or list prices in the Territory of the Other Products sold separately in the same formulation and dosage, during the applicable twelve (12) calendar month trailing period.
+ii.         
+If the Earnout Product is sold independently of the Other Products in the Territory, but the public or list price of the Other Products cannot be determined, Net Sales will be calculated by multiplying the total Net Sales (as described above) of such Combination Product by the fraction A/C, where A is the public or list price in the Territory of such Earnout Product sold independently and C is the public or list price in the Territory of the Combination Product.
+iii.        
+If the Other Products are sold independently of the Earnout Product in the Territory, but the public or list price of such Earnout Product cannot be determined, Net Sales will be calculated by multiplying the total Net Sales (as described above) of such Combination Product by the fraction 1-B/C, where B is the sum of the public or list prices in the Territory of the Other Products and C is the public or list price in such country of the Combination Product.
+8
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+If neither the Earnout Product nor the Other Products are sold independently, the Parties shall negotiate a market price for the Earnout Product and the Other Products in good faith based on the costs, overhead and profit as are then incurred for such Combination Product.
+1.56     “Order” means any writ, judgment, sanction, award, notice of deficiency, warning letter, decree, injunction, ruling, order or similar requirement, corporate integrity agreement, deferred prosecution agreement, settlement agreement or other binding obligation of any Governmental Authority (in each such case whether preliminary or final).
+1.57     
+“Patent Assignments” means an assignment transferring all of Seller’s right, title and interest in and
+to all registered Assigned Patents to Buyer, a form of which is attached hereto as Exhibit C, and such other documents as may be required to be filed with the U.S. Patent and Trademark Office or any other Governmental Authority to effect the transfer of the registered Assigned Patents.
+1.58     “Patent” or “Patents” means (a) patents and pending patent applications, including, without limitation, all provisional applications, and all patents granted thereon, and (b) any substitutions, extensions, additions, reissues, reexaminations, renewals, divisions, continuations, continuations-in-part, or supplementary protection certificates thereof or patents or pending patent applications claiming priority thereto, and (c) all foreign counterparts of any of the foregoing listed in (a) or (b).
+1.59     
+“Permitted Encumbrance” means (a) mechanics’, carriers’, workmen’s, repairmen’s or other like liens arising or incurred in the ordinary course of business, (b) any Encumbrance for Taxes not yet due or payable as of the Closing, or for Taxes being contested in good faith by appropriate proceedings, (c) any Encumbrances which are not, individually or in the aggregate, material, that do not impair, and are not reasonably likely to impair, the continued use and operation of the Transferred Assets to which they relate, (d)
+all Assigned Contracts, including executory liabilities or obligations arising out of the Assigned Contracts, (e) that certain Patent Cross License Agreement, effective as of May 16, 2014, by and between Galderma Pharma S.A., Galderma Laboratories Inc., Allergan and Allergan, Inc., and (f) non-exclusive licenses granted in the ordinary course of business to manufacturers, suppliers, distributors or other Persons solely for the purpose of performing manufacturing, supply, distribution, marketing or other services on behalf of Seller or any of its Affiliates.
+1.60     “Person” means any individual, corporation, company, partnership, trust, limited liability company, association or other business entity or any Governmental Authority.
+1.61     “Pre-Closing Tax Period” means taxable periods beginning on or after November 30, 2018 and ending on or before the Closing Date and, with respect to Straddle Periods, the portion of such Straddle Period ending on the Closing Date.
+1.62     
+“Product Books and Records” means all books, records, files, documentation, correspondence, training materials, artwork, labeling, lists and other materials, including research information, information relating to clinical trials, sales and promotional literature, manuals, data
+9
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(including, pre-clinical and clinical data), sales and purchase correspondence, lists of present and former suppliers, list of present and former customers, chemistry, manufacturing and controls data and documentation (including, but not limited to, batch records, master batch production records, standard operating procedures that specifically pertain to the RHOFADE Product, testing logs, sample logs, laboratory logs, and stability logs, preclinical and clinical studies and tests),  in each case whether in hard copy or computer format, exclusively used or held for exclusive use in the RHOFADE Business or with respect to any prescription or over-the-counter drug product for topical application solely to treat facial redness due to rosacea or any product containing oxymetazoline for the treatment of facial redness due to rosacea by application to the skin, including the RHOFADE Product, and all records maintained under record keeping or reporting requirements of the FDA or any Governmental Authority with respect to the RHOFADE Product;  
+provided, that any portion of the books and records or other items that are subject to restrictions on transfer pursuant to HIPAA or other applicable regulations regarding personally identifiable information with respect to which transfer would require any Governmental Authority to approve under applicable Law may be redacted by Seller only to the extent required to comply with applicable Law.  
+For the avoidance of doubt, Seller and its Affiliates shall be entitled to retain any copies of the Product Books and Records to the extent and only for the period required under applicable Law.
+1.63     “Rebates” means, with respect to the Earnout Products (provided, however, that with respect to Section 7.15.1, Rebates shall only apply to the RHOFADE Product), price reductions, rebates, coverage gap discounts, patient savings or co-pay card discounts and chargeback payments granted to any Governmental Authority, managed health care organization, pharmacy benefit manager (or equivalent thereof), preferred provider organization, managed care organization, purchaser, reimburser, trade customer or any other similar Person (including Medicare, Medicaid, PHS, Tricare, and FSS).
+1.64     “[
+***]” means [*
+**].
+1.65     “Retained Liabilities” means any and all Liabilities other than Assumed Liabilities or any Excluded Liabilities (as defined in the Allergan APA) retained by Allergan under the Allergan APA, which, for the avoidance of doubt, shall include (i)
+all Liabilities arising from the ownership or use of the Transferred Assets by Seller or omission by Seller with respect to the Transferred Assets prior to Closing, and (ii)
+all Liabilities under the Assigned Contracts that relate to the period prior to Closing or that are due to any breach or default by Seller under such Assigned Contracts which occurred prior to the Closing, notwithstanding any provision to the contrary in a consent to or notice of assignment of such Assigned Contract (including any that result from or are triggered by the Closing, other than caused by a failure to obtain the consent or provide the notice identified on Section 4.3 of the Disclosure Schedule).
+1.66     
+“Retained Taxes” means (
+i) Liabilities for Taxes relating to, or in respect of, the Transferred Assets in respect of any Pre-Closing Tax Period, and, with respect to any Straddle Period, all Liabilities for Taxes relating to, or in respect of, the Transferred Assets allocable to the portion of such taxable period ending on the Closing Date as provided in Section 7.8.3, (ii)
+all Taxes of Seller or any of its Affiliates for any taxable period, whether directly, as transferee or
+10
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+successor or by contract,  and (iii)
+all Taxes relating to the Excluded Assets or Retained Liabilities for any taxable period.
+1.67     “RHOFADE Business” means the business of having the RHOFADE Product manufactured by one or more Third Parties and commercializing, selling, marketing, importing, exporting and otherwise Exploiting the RHOFADE Product as currently conducted or as currently proposed to be conducted (a) solely for purposes of making the representations and warranties in ARTICLE 4, in the United States in each case as conducted by Seller and its Affiliates as of the Closing Date, and (b) for purposes of the remainder of this Agreement, including the definitions set forth herein, worldwide.
+1.68     “RHOFADE IND” means the IND
+No. 107983
+, V-101 (oxymetazoline HCl) Cream, for the topical treatment of persistent facial erythema associated with rosacea in adults, as filed with the FDA, including all amendments, supplements, variations, extensions and renewals thereof through the Closing Date.
+1.69     
+“RHOFADE Licensed Patents” means those Patents licensed to Seller under that certain Exclusive Patent License Agreement, entered into as of November 30, 2018, by and between Allergan, Inc., a Delaware corporation, and Seller.
+1.70     “RHOFADE NDA” means the NDA No. 208552, as filed with the FDA and approved on January 18, 2017, including all amendments, supplements, variations, extensions and renewals thereof through the Closing Date.
+1.71     “RHOFADE Product” means the oxymetazoline hydrochloride cream 1% marketed by Seller under the RHOFADE
+®
+Trademark and described in the RHOFADE NDA as of the Closing Date.
+1.72     “Seller NDC Number” means each of the following numbers:  
+[*
+**].
+1.73     “Seller’s Names and Marks” means the marks listed on Schedule 1.73.
+1.74     
+“Straddle Period” means any taxable period beginning on or after November 30, 2018 and ending after the Closing Date.
+1.75     “Tax” or “Taxes” means all U.S. and non-U.S., federal, state, provincial, municipal, or other taxes, fees, levies, duties, tariffs, imposts, and other assessments or charges of whatever kind (including taxes or other charges on, or measured by or with respect to, income, sales, use, excise, stamp, transfer, property, windfall or other profits, value added, real property, severance, personal property, unemployment, escheat and unclaimed property, recording, registration, intangible, documentary, goods and services, payroll, employment, social security, license, customs’ duties or similar fees, ad valorem, net worth, capital, gains, gross receipts, withholding, estimated, environmental, and franchise taxes) together with any interest, penalties, or additions payable in connection with such taxes, fees, levies, duties and other assessments or charges imposed by any Governmental Authority or taxing authority, whether disputed or not and including any obligation to indemnify or otherwise assume or succeed to the Tax Liability of any other Person.
+11
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+1.76     “Tax Return” means, with respect to any jurisdiction (U.S. or non-U.S.), any return, declaration, statement, report, claim for refund, or information return, voucher or electronic equivalent, declaration of estimated Tax or other statements filed or required to be filed with respect to Taxes, and any schedule or attachment thereto and any amendment thereof.
+1.77     “Territory” means the entire world.
+1.78     
+“Third Party” means any Person other than Buyer or Seller or their respective Affiliates.
+1.79     
+“Trademark” means any trademarks and service marks (registered and unregistered), service names, trade names, brand marks, brand, trade dress, package designs, product inserts, labels, logos and associated artwork, and all applications or registrations for any of the foregoing, and extensions, renewals, continuations or re-issues thereof, or amendments or modifications thereto.
+1.80     
+“Trademark Assignments” means an assignment transferring all of Seller’s right, title and interest in and
+to all registered Assigned Trademarks to Buyer, a form of which is attached hereto as Exhibit D, and such other documents as may be required to be filed with the U.S. Patent and Trademark Office or any other Governmental Authority to effect the transfer of the registered Assigned Trademarks.
+1.81     
+“Transaction Documents” means this Agreement, the Bill of Sale, the Patent Assignments, the Trademark Assignments, the Escrow Agreement and the other agreements, instruments and documents required to be delivered at the Closing.
+1.82     “Transfer Taxes” means any and all transfer, documentary, stamp, registration, recording, sales, use and other similar Taxes and fees, together with any interest, penalties, or additions thereto, incurred in connection with this Agreement and the other Transaction Documents (including any real property transfer Tax and any other similar Tax).
+1.83     “Transferred Assets” means only those assets set forth on Exhibit B attached to this Agreement.  
+For clarity, Transferred Assets shall not include the Seller NDC Number.
+1.84     
+“Transferred Registrations” means all regulatory filings, applications, marketing authorizations, permits, licenses, registrations, regulatory clearances, approvals and similar items issued by any Governmental Authority, and any material correspondence and reports submitted to or received from any Governmental Authority and all supporting documents with respect thereto, including adverse event files and complaint files, in each case, that relate solely to the RHOFADE Product, including any INDs, NDAs and foreign equivalents thereof.
+1.85     “United States” or “U.S.” means the United States of America and all of its possessions and territories.
+1.86     
+“Valid Claim” means (i)
+a claim of an unexpired issued or granted Patent within any of the Assigned Patents or the RHOFADE Licensed Patents, so long as the claim has not been revoked or held invalid, unpatentable, or unenforceable as determined by a Governmental
+12
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Authority of competent jurisdiction from whose judgement no appeal is allowed or timely taken, and has not been abandoned, disclaimed, denied, held or admitted to be invalid, unpatentable or unenforceable through reissue,  reexamination, disclaimer, opposition procedure, nullity suit, or otherwise or (ii)
+a claim of a pending Patent application within any of the Assigned Patents or the RHOFADE Licensed Patents that has not been pending for more than seven (7) years from the earliest claimed priority date which has not been cancelled, withdrawn, or abandoned or finally rejected by a Governmental Authority of competent jurisdiction from whose judgement no appeal is allowed or timely taken.
+1.87     
+“Vicept Agreement” means that certain Agreement and Plan of Merger, dated as of July 18, 2011, by and among Allergan, Inc., Erythema Acquisition, Inc., Vicept Therapeutics, Inc. and Albert Cha as Shareholders’ Representative thereunder (as modified by those certain consents delivered by the Shareholders’ Representative thereunder on September 21, 2018 and on the date of this Agreement).
+1.88     Additional Definitions.  
+Each of the following definitions is set forth in the Section of this Agreement indicated below:
+  
+13
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+14
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+ARTICLE 2    
+PURCHASE AND SALE OF ASSETS
+2.1       Purchase and Sale of Assets.  
+Upon the terms and subject to the conditions set forth herein, at the Closing, Seller agrees to sell, convey, transfer, assign and deliver to Buyer, free and clear of all Encumbrances, and Buyer agrees to purchase and assume from Seller, all of Seller’s right, title and interest in and to the Transferred Assets.  
+To the extent reasonably possible, each Transferred Asset will be delivered to Buyer in electronic format on the Closing Date.
+2.2       Excluded Assets.  
+Notwithstanding anything to the contrary herein, Seller shall retain all right, title and interest in and to the Excluded Assets, and the Excluded Assets shall be excluded from the Contemplated Transactions and shall not be included in the Transferred Assets.
+2.3       No Implied License.  
+Except as expressly provided in this Agreement, neither Party grants to the other Party any right or license in any intellectual property right, whether by implication, estoppel or otherwise, other than as expressly set forth herein.
+2.4       Assumption of Liabilities.  
+From and after the Closing, Buyer shall assume and agrees to pay, perform or otherwise discharge when due, in accordance with their respective terms and subject to the respective conditions thereof, the Assumed Liabilities.
+2.5       Retained Liabilities.  
+Seller shall retain, be responsible for and pay, perform and discharge when due any and all Retained Liabilities, including all Retained Taxes.  
+Retained Liabilities expressly exclude Assumed Liabilities.
+2.6       Assignability and Consents.  
+Notwithstanding anything to the contrary contained in this Agreement, if the sale, assignment or delivery or attempted sale, assignment or delivery to Buyer of any Transferred Asset (a) is prohibited by Law or (b) requires any authorizations, approvals, consents or waivers from a Third Party (in each case of clauses (a) and (b),  as set forth on Section 4.3 of the Disclosure Schedules) and
+such authorizations, approvals, consents or waivers shall not have been obtained in reasonably satisfactory form to Buyer prior to the Closing (each, a “Non-Assignable Asset”), then this Agreement shall not constitute a sale, assignment or delivery, or attempted sale, assignment or delivery of such Non-Assignable Asset unless and until such authorization, approval, consent or waiver is obtained in reasonably satisfactory form to Buyer.  
+Subject to the last sentence of this Section 2.6, if any Non-Assignable Asset is not assigned to Buyer by reason of the absence of any such authorization, approval, consent or waiver of a Third Party, Buyer shall not be required to assume any Assumed Liabilities arising under such Non-Assignable Asset until such authorization, approval, consent or waiver has been obtained.  
+After the Closing, Seller shall continue to use commercially reasonable efforts to obtain any Third Party authorization, approval, consent or waiver necessary for the sale, assignment and/or delivery of any Non-Assignable Asset to Buyer, Buyer will provide such reasonable non-financial administrative assistance to Seller as may be reasonably requested by Seller in connection with obtaining such consent, and Seller shall
+(i) cooperate with Buyer, at no cost to Buyer
+(subject to the last sentence of this Section 2.6), to provide Buyer with the benefits under such Non-Assignable Asset, to the extent permitted by Law, until such time as such Third Party authorization,
+15
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+approval, consent or waiver shall have been obtained and (ii) refrain from agreeing to any amendment, supplement, waiver or other modification of such Non-Assignable Asset without the prior written consent of Buyer.  
+To the extent that obtaining any such Third Party authorization approval, consent or waiver requires payment of additional fees, costs, or expenses to a Third Party, such fees, costs, and expenses shall be borne by Seller, and Seller agrees to reimburse Buyer for any reasonable out-of-pocket fees, costs or expenses incurred by Buyer or its Affiliates in obtaining such authorization, approval, consent or waiver.  
+To the extent Buyer is provided the benefits of any such Non-Assignable Asset (whether from Seller, its Affiliates or otherwise), Buyer shall, subject to the terms and conditions of this Agreement, arrange to discharge and perform the Assumed Liabilities thereunder or in connection therewith, as applicable, as if the appropriate authorization, approval, consent or waiver had been obtained.
+2.7       Risk of Loss.  
+Prior to Closing, any Loss or damage to the Transferred Assets from fire, casualty or otherwise shall be the sole responsibility of Seller.  
+Thereafter, any such loss or damage shall be the sole responsibility of Buyer.
+ARTICLE 3   PURCHASE PRICE AND PAYMENT
+3.1       Consideration.  
+The purchase price to be paid by Buyer in consideration for the Transferred Assets consists of, in addition to the assumption of the Assumed Liabilities, the Upfront Payment, the  Inventory Payment, the Sales Milestones, the Royalty, and the Additional Ex-U.S. Consideration (the “Purchase Price”).
+3.1.1    Upfront Payment and Inventory Payment.  
+On the Closing Date, Buyer shall pay to Seller (a) Thirty-Five Million Dollars ($35,000,000.00)  (the “Upfront Payment”), which is non-refundable and non-creditable against any other amounts to be paid under this Agreement,  plus (b) the Estimated Inventory Value (as adjusted pursuant to Section 3.3, the “Inventory Payment”),  minus (c)
+the Escrow Amount, which Buyer shall deposit into an escrow account (the “Escrow Account”) with the Escrow Agent, to be held pursuant to the terms of the Escrow Agreement (such total amount, the “Closing Date Payment”).
+3.1.2    
+Sales Milestones; Royalty.  
+Payments to be made pursuant to Section 3.1.2(a) are “Sales Milestones” and each of the events pursuant to Section 3.1.2(a)
+are “Sales Milestone Events”.
+(a)        
+Earnout Product Sales Milestones.
+(i)         
+If Net Sales for the Earnout Products during any Calendar Year following the Closing Date are greater than or equal to [*
+*
+*] Dollars ($[
+***]), Buyer shall pay Seller a one-time lump sum payment of [*
+*
+*] Dollars ($[
+***]).
+(ii)       
+If Net Sales for the Earnout Products during any Calendar Year following the Closing Date are greater than or equal to [*
+*
+*] Dollars ($[
+***]), Buyer shall pay Seller a one-time lump sum payment of [*
+*
+*] Dollars ($[
+***]).
+16
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(iii)      
+If Net Sales for the Earnout Products during any Calendar Year following Closing are greater than or equal to [*
+*
+*] Dollars ($[
+***]), Buyer shall pay Seller a one-time lump sum payment of [*
+*
+*] Dollars ($[
+***]).
+For purposes of clarity, in the event that more than one Sales Milestone Event is achieved in a  Calendar Year, Buyer shall pay Seller all applicable Sales Milestones,  provided,  however,  that in no event shall Buyer pay Seller any single Sales Milestone more than once.
+(b)        Timing for Sales Milestones.  
+Any Sales Milestones shall be due and payable within [*
+**] following the achievement of the applicable Sales Milestone Event.
+(c)        Royalty.  
+Buyer shall pay to Seller a royalty in an amount equal to [
+*
+**] of Net Sales of the Earnout Products (the “Royalty”).  
+The Royalty shall only be paid on any particular Earnout Product until, on a product-by-product and country-by-country basis, the expiration of the last to expire Valid Claim that Covers such Earnout Product in the applicable country in the Territory; provided,  however, that the Royalty shall be paid on the RHOFADE Product in the Ex-U.S. Territory until, on a country-by-country basis, the later of (i) the expiration of the last to expire Valid Claim that Covers the RHOFADE Product in the applicable country in the Ex-U.S. Territory and (ii)
+ten (10) years from the date of the first commercial sale of the RHOFADE Product in the applicable country in the Ex-U.S. Territory.
+(d)        Timing for Royalty.  
+Royalty payments shall be paid by Buyer to Seller within [
+***] after the end of each Calendar Quarter with respect to Net Sales for such Calendar Quarter.
+(e)        Reporting.  
+Buyer shall provide to Seller, within [*
+**] after the end of each Calendar Quarter, a report showing: (a)
+the Net Sales of the Earnout Products by country;
+(b) the basis for any deductions from gross invoiced or billed sales to determine Net Sales; and (c)
+the exchange rates used in calculating any of the foregoing.
+(f)        Diligence.
+(i)         
+From and after the Closing, Buyer shall use Commercially Reasonable Efforts to commercialize (or cause the commercialization of) the RHOFADE Product in the United States to achieve the Sales Milestone Events and maximize the Royalty for the RHOFADE Product, including to use Commercially Reasonable Efforts to file, prosecute and maintain the Intellectual Property Rights and the RHOFADE Licensed Patents.
+(ii)       
+The provisions of Section 3.2 of the Aspect Agreement and Section 2.07(f) of the Vicept Agreement, each as in effect as of the date hereof, are hereby incorporated herein, mutatis mutandis, as obligations of Buyer for the benefit of Seller and Seller shall have the independent right to enforce such provisions as against Buyer notwithstanding any subsequent modification or waiver thereof by Vicept Therapeutics, Inc. or Aspect Pharmaceuticals, LLC, as applicable, provided, however, that for the avoidance of doubt, Buyer’s use of Commercially Reasonable Efforts to commercialize the RHOFADE Product or any product under clause (ii) of the definition of Earnout Product in the United States shall be deemed to satisfy
+17
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+the obligations set forth in this Section 3.1.2(f)(ii), provided, further, that Buyer shall have no obligation under this Section 3.1.2(f)(ii) to Exploit any product other than the RHOFADE Product, so long as it is using Commercially Reasonable Efforts to commercialize the RHOFADE Product in the United States.  
+Buyer acknowledges that this Section 3.1.2(f)(ii) is intended to establish an independent obligation to Seller.  
+Vicept Therapeutics, Inc. and Aspect Pharmaceuticals
+, LLC shall not be third party beneficiaries of this Section 3.1.2(f)(ii).
+(g)        Books and Records; Audit Rights.  
+Buyer shall keep true and complete books of accounts and other records in sufficient detail in accordance with GAAP so that the Sales Milestones, Royalty, and Additional Ex-U.S. Consideration payable hereunder can be properly ascertained.  
+Buyer shall, at the written request of Seller, permit an independent certified public accountant selected by Seller that is not Seller’s or its Affiliates’ auditor (“Seller’s Auditor”), to have access during ordinary business hours to such books and records as may be reasonably necessary to determine the correctness of any Sales Milestones, Royalty, or Additional Ex-U.S. Consideration made or to be made under this Agreement, which books and records shall only be used for such purpose.  
+Seller’s Auditor will execute a reasonable written confidentiality agreement with Buyer and will disclose to Seller only the amount and accuracy of payments reported and actually paid or otherwise payable under this Agreement.  
+Seller’s Auditor will send a copy of the report to Buyer at the same time it is sent to Seller.  
+The report sent to Buyer will also include the methodology and calculations used to determine the results.  
+Such examination shall be conducted (i) after at least [*
+**] prior written notice from Seller, (ii) at the facility(ies) where such books and records are maintained, (iii) without significant disruption to operations of Buyer, and (iv) no more frequently than once in any Calendar Year, unless a prior discrepancy existed from an audit previously conducted for such year, provided, that no more than one additional audit shall be conducted in such Calendar Year.  
+Seller shall be responsible for expenses of Seller’s Auditor, except that Buyer shall reimburse Seller for the cost of any audit if Seller’s Auditor determines any Sales Milestones, Royalty, or Additional Ex-U.S. Consideration paid by Buyer to Seller is less than [*
+**] of the amount actually owed for the period of the audit.  
+In the event of a dispute over the results of any audit conducted by Seller’s Auditor pursuant to this Section 3.1.2(g), Seller and Buyer shall work in good faith to resolve such dispute.  
+If the Parties are unable to reach a mutually acceptable resolution of any such dispute within [*
+**],  the dispute shall be submitted for resolution to a certified public accounting firm jointly selected by the Parties or to such other Person as the Parties shall mutually agree (the “Parties’ Auditor”).  
+The decision of the Parties’ Auditor shall be final and the fees and costs of the Parties’ Auditor shall be borne by Buyer to the extent
+the Parties’ Auditor’s findings are within a difference of [*
+**] of the findings of Seller’s Auditor, or otherwise shall  be split equally between the Parties.  
+If the Parties’ Auditor concludes that either additional amounts were owed to Seller or excess payments were paid to Seller, Buyer shall pay the additional amounts, or Seller shall reimburse Buyer for such excess payments, as applicable, in either case, within [*
+**] after the date on which the conclusions of such dispute proceeding are provided to the Parties, by wire transfer of immediately available funds to the account or accounts designated in writing by Seller or Buyer, as applicable.
+3.1.3    Additional Ex-U.S. Consideration.  
+In addition to any Royalties payable pursuant to Section 3.1.2(c),  Buyer shall pay Seller twenty-five percent (25%) of the upfront, license, milestone, maintenance or fixed payments received by Buyer or any of its Affiliates from a licensee or sublicensee with regards to any license or sublicense by Buyer or any of its Affiliates
+18
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+of Transferred Assets related to the Ex-U.S. Territory (an “Ex-U.S. License”), including for the right to make, have made, use, sell, offer for sale, or import Earnout Products in the Ex-U.S. Territory (the “Additional Ex-U.S. Consideration”).  
+Additional Ex-U.S. Consideration excludes (i) payments received from licensees or sublicensees that are made to fund or reimburse the costs of the bona fide research or development of any Earnout Products, or other out-of-pocket costs incurred by Buyer or any of its Affiliates, and (ii) amounts received upon the divestment of all or a portion of the Transferred Assets to a Third Party where the Third Party agrees to assume the obligation to pay the remaining Sales Milestones payments, Royalty payments, and Additional Ex-U.S. Consideration applicable to divested assets.  
+Such portions of Additional Ex-U.S. Consideration owed by Buyer to Seller shall be paid within [*
+**] following the end of the Calendar Quarter in which such consideration is received.  
+The Additional Ex-U.S. Consideration shall only be paid until, on a product-by-product and country-by-country basis,  the expiration of the last to expire Valid Claim that Covers the applicable Earnout Product in the applicable country in the Ex-U.S. Territory.
+3.1.4    All Sales Milestones shall be considered Purchase Price adjustments for income Tax purposes and shall be allocated in accordance with Section 3.4.2.  
+The Royalty and the Additional Ex-U.S. Consideration shall be considered a royalty payment for income Tax purposes.
+3.2       Delivery of Purchase Price.  
+All amounts payable hereunder will be paid in Dollars by wire transfer of immediately available funds to such account or accounts as designated by Seller in writing.  
+Any payments or portions thereof due hereunder that are not paid by the date such payments are due under this Agreement will bear simple interest at the lower of (a) US Prime Rate plus two (2) basis points, as reported in the Wall Street Journal, Eastern Edition, on the due date (or, if the due date is not a Business Day, on the last Business Day prior to such due date), or (b)
+the maximum rate permitted by applicable Law, calculated on the number of days such payment is delinquent.  
+For any currency conversion required in determining the amount of payments
+due hereunder, such conversion shall be made using the average of the applicable exchange rate published in the Wall Street Journal for the last Business Day of each month in the Calendar Quarter in which such payment is required to be made.
+3.3       Inventory Payment; Purchase Price Adjustment.
+3.3.1    At Closing, Seller shall deliver to Buyer a statement (the “Estimated Inventory Value Statement”) setting forth the estimated quantity of Inventory as of the Closing Date,  indicating in each case the quantity of each category of Inventory and the age of the finished product listed thereon, as well as the estimated value of the Inventory as of the Closing Date based on the prices set forth on Exhibit G (the “Estimated Inventory Value”).  
+In addition, Seller shall identify on the Estimated Inventory Value Statement any partial lots included in the Inventory and shall specify the percentage of each such partial lot that has been sold by Seller and the percentage remaining to be sold by Buyer.
+3.3.2    
+To the extent that Buyer determines that the value of the Inventory on the Closing Date is different from the Estimated Inventory Value, then within [
+***] after the Closing Date, Buyer shall prepare and deliver to Seller a statement (the “Closing Date Inventory Value
+19
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Statement”)
+setting forth Buyer’s calculation of the value of the Inventory as of the Closing Date (the “Closing Date Inventory Value”), along with supporting written documentation, calculated based on the prices set forth on Exhibit G.  
+In addition, Buyer shall identify on the Closing Date Inventory Value Statement any partial lots included in the Inventory and shall specify the percentage of each such partial lot that has been sold by Seller and the percentage remaining to be sold by Buyer.
+3.3.3    If, within [***] following the Closing Date, Seller disputes in good faith Buyer’s calculations in the Closing Date Inventory Value Statement, then, during such [***] period, Seller shall be permitted to review Buyer’s books and records to the extent reasonably necessary for Seller to evaluate the Closing Date Inventory Value Statement.  
+The Closing Date Inventory Value Statement shall become final and binding upon the Parties at the end of such [*
+**] period, unless Seller objects to the Closing Date Inventory Value Statement, in which case it shall send a notice (the “Notice of Objection”) to Buyer  within such [*
+**] period, setting forth in specific detail the basis for its objection and its proposal for any adjustments to the Closing Date Inventory Value Statement.  
+If a timely Notice of Objection is delivered to Buyer, then the Closing Date Inventory Value Statement shall become final and binding on the Parties on the first to occur of (x) the date the Parties resolve in writing any differences they have with respect to the matters specified in the Notice of Objection and (y) the date all matters in dispute are finally resolved in writing by a certified public accounting firm jointly selected by the Parties or to such other Person as the Parties shall mutually agree (the “Independent Accountant”), in each case as provided below.  
+Seller and Buyer shall seek in good faith to reach agreement as to any such proposed adjustment or that no such adjustment is necessary within [*
+**] following delivery of the Notice of Objection.  
+If agreement is reached in writing within such [*
+**] period as to all proposed adjustments, or that no adjustments are necessary, the Parties shall revise the Closing Date Inventory Value Statement accordingly.  
+If the Parties are unable to reach agreement within [*
+**] following delivery of the Notice of Objection, then the Independent Accountant shall be engaged on the date immediately following such [*
+**] period to review the Closing Date Inventory Value Statement and shall make a determination as to the resolution of any adjustments.  
+The determination of the Independent Accountant shall be delivered as soon as practicable following engagement of the Independent Accountant, with the Independent Accountant being requested to conclude their determination no more than [*
+**]
+thereafter, and shall be final, conclusive, and binding upon the Parties, and the Parties shall revise the Closing Date Inventory Value Statement accordingly to reflect the Closing Date Inventory Value, as finally determined pursuant to this Section 3.3.3.  
+The fees and expenses of the Independent Accountant shall be borne by Buyer and Seller in inverse proportion as they may prevail on matters resolved by such Independent Accountant.
+3.3.4    
+The  “Closing Date Inventory Value Adjustment” means the Closing Date Inventory Value minus the Estimated Inventory Value.  
+Within [
+***] after the date on which the Closing Date Inventory Value Statement becomes final and binding on the Parties in accordance with Section 3.3.3:
+(a)        if the Closing Date Inventory Value Adjustment is a positive number,  Buyer shall pay or cause to be paid to Seller, by wire transfer of immediately available funds, the amount of the Closing Date Inventory Value Adjustment that is greater than [
+*
+**] of the Estimated Inventory Value.
+20
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(b)        if the Closing Date Inventory Value Adjustment is a negative number, Seller shall pay or cause to be paid to Buyer, by wire transfer of immediately available funds, the absolute value of the amount of the Closing Date Inventory Value Adjustment that is greater than [
+*
+**] of the Estimated Inventory Value.
+3.3.5    
+[
+***].
+3.4       Tax Treatment; Allocation of Purchase Price.
+3.4.1    Seller and Buyer each agree to treat the transfer of the Transferred Assets from Seller to Buyer as a sale for any and all Tax purposes, and shall not take any position on any Tax Return that is inconsistent with the treatment of the transfer as a sale for any and all Tax purposes unless otherwise required by a “determination” as defined in Section 1313(a) of the Code.
+3.4.2    Within 
+[***] after the Closing Date, Buyer shall deliver to Seller a schedule allocating the Purchase Price (including any Assumed Liabilities treated as consideration for the Transferred Assets for Tax purposes) (the “Purchase Price Allocation Schedule”).  
+The Purchase Price Allocation Schedule shall be prepared in accordance with Section 1060 of the Code, and shall prepared in a manner consistent with the residual method principles of Sections 1060 and 338 of the Code and the regulations promulgated thereunder as applied by treating the GAAP book value as of the Closing Date of the Transferred Assets described in the Class I through VI asset classes of Treasury Regulations Section 1.338-6 as their respective fair market values, with all residual Purchase Price (including any Assumed Liabilities treated as consideration for the Transferred Assets for Tax purposes) assigned to the Treasury Regulations Section 1.338-6 Class VII asset class.  
+The Purchase Price Allocation Schedule shall be deemed final unless Seller notifies Buyer in writing that Seller objects to one or more items reflected in the Purchase Price Allocation Schedule within [*
+**] after the delivery of the Purchase Price Allocation Schedule by Buyer.  
+In the event of any such objection, Seller and Buyer shall negotiate in good faith to resolve such dispute; provided,  however, that if Seller and Buyer are unable to resolve any dispute with respect to the Purchase Price Allocation Schedule within [
+***] after the delivery of the dispute notice by Seller, such dispute shall be resolved by an impartial firm of independent certified public accountants mutually appointed by Buyer and Seller.  
+The fees and expenses of such accounting firm shall be borne equally by Seller and Buyer.  
+Seller and Buyer agree to file their respective IRS Forms 8594 and all federal, state and local Tax Returns in accordance with the Purchase Price Allocation Schedule as finally determined pursuant to this section.
+ARTICLE 4   
+REPRESENTATIONS AND WARRANTIES OF SELLER
+Except as set forth on the Disclosure Schedules attached hereto (the “Disclosure Schedules”), which shall be arranged in sections and subsections corresponding to the number and lettered sections and subsections contained in this ARTICLE 4 (it being understood that any disclosure in any section or subsection of the Disclosure Schedules shall qualify only the corresponding sections or subsections in this ARTICLE 4), Seller hereby represents and warrants to Buyer as of the Closing Date as follows:
+21
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+4.1       Organization and Authority.  
+Seller is a corporation validly existing and in good standing under the laws of the State of Delaware, with full power and authority to execute and deliver this Agreement and to perform its obligations hereunder.  
+Seller has the requisite corporate power and authority to own and operate the Transferred Assets and the Rhofade Business.  
+Seller is duly qualified to do business and is in good standing in each jurisdiction where the ownership or operation of the Transferred Assets or the operation of the Rhofade Business requires such qualification, except where failure to be so qualified has not, and would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect.  
+This Agreement and the other Transaction Documents to which Seller is a party have been duly and validly authorized, executed and delivered by, and constitute the legal, valid and binding obligations of Seller, enforceable in accordance with their terms.  
+Seller has all necessary corporate power and authority to carry out its obligations hereunder and under the Transaction Documents.  
+The execution and delivery by Seller of this Agreement and the Transaction Documents, and by Seller and each other Affiliate of Seller that each other Transaction Document to which such party is, or is specified to be, a party, the performance by Seller and the other applicable Affiliates of Seller of their respective obligations hereunder and thereunder and the consummation by Seller and each of the other applicable Affiliates of Seller of the Contemplated Transactions have been authorized by all requisite corporate action on the part of Seller and each such other Affiliate of Seller.
+4.2       Title.  
+Seller owns and has good and valid title, or license as applicable, to all Transferred Assets free and clear of any Encumbrances.  
+Upon the Closing, good and marketable title to the Transferred Assets will pass to Buyer, free and clear of any Encumbrances.
+4.3       No Conflicts; Consents.  
+The execution and the delivery of this Agreement and the other Transaction Documents by Seller and each other applicable Affiliate of Seller, the performance by Seller and each applicable Affiliate of Seller of its respective obligations hereunder and under each of the Transaction Documents, and the consummation of the Contemplated Transactions by Seller and each such other Affiliate, will not (a) conflict with or violate any Laws to which Seller or any of its Affiliates are, or the Transferred Assets are, subject,
+(b) contravene, conflict with or result in a breach or violation of any provision of the formation and governing documents of Seller or such Affiliate, (c) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice or consent under any Assigned Contract or under any other agreement, contract, lease, license, instrument, or other arrangement to which Seller or any of its Affiliates is a party or by which it is bound and to which any of the Transferred Assets are subject, or (d) require the consent of any Governmental Authority, except for the notices to be submitted by Seller to the FDA pursuant to 21 CFR § 314.72 regarding the RHOFADE NDA and under 21 CFR § 312 regarding the RHOFADE IND, and any filing required in any relevant jurisdiction for the purpose of recording the assignment of any Intellectual Property Rights; except in each case as set forth on Section 4.3 of the Disclosure Schedules, or, in the case of clauses (a), (c) and (d) where such violation, conflict or breach, or the failure to provide such notice or obtain such consent, would not, individually or in the aggregate, reasonably be expected to be material to the Rhofade Business, the Transferred Assets, or the Intellectual Property Rights.
+4.4       Litigation; No Violations.  
+Except as set forth on Section 4.4 of the Disclosure Schedules, there is no Action or Proceeding in progress, or to Seller’s Knowledge, pending or
+22
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+threatened against Seller or any of its Affiliates with respect to the Transferred Assets, Assumed Liabilities, the RHOFADE Business or the RHOFADE Licensed Patents.  
+There is no Action or Proceeding pending or, to the Knowledge of Seller, threatened that is reasonably likely to prohibit or restrain the ability of Seller to enter into this Agreement or consummate the transactions contemplated hereby.  
+Seller is not a party to any Order that is unsatisfied or that adversely affects the Transferred Assets, Assumed Liabilities, the RHOFADE Business, the RHOFADE Licensed Patents, or the consummation of the Contemplated Transactions.  
+Seller has not violated, and is not currently in violation of, any Law relating or applicable to the Transferred Assets in any material respect.
+4.5       Intellectual Property.
+4.5.1    
+Section 4.5.1 of the Disclosure Schedules sets forth a complete and accurate list of all Intellectual Property owned by Seller or any of its Affiliates as of the Closing Date that is exclusively used or held for exclusive use in the RHOFADE Business, as well as the RHOFADE Licensed Patents and the Non-Rhofade Assigned Patents, in each case that are registered or for which an application for registration has been filed, in each case under the authority of any Governmental Authority (collectively, the “Registered IP”), including in each case: (a) the jurisdiction in which such item has been registered or filed; (b)
+the current owner thereof; (c)
+the applicable application, registration or serial number; and (d)
+the status with respect to such Registered IP.
+To the Knowledge of Seller, there are no Patents licensed to Seller or its Affiliates pursuant to the Aspect Agreement that Cover the RHOFADE Product.
+4.5.2    
+Seller is the sole and exclusive beneficial and legal owner of all of the Intellectual Property Rights,  which includes Intellectual Property acquired (but excluding, for clarity, any licensed Intellectual Property) by Seller under the Allergan APA, free and clear of all Encumbrances.  
+Seller is the sole and exclusive licensee of all of the RHOFADE Licensed Patents, which to Seller’s Knowledge are free and clear of all Encumbrances.  
+Except as set forth on Section 4.5.1 of the Disclosure Schedules, to the Knowledge of Seller, the Registered IP are subsisting, and, to the extent issued as of the date hereof, valid and enforceable, and none of the Registered IP is subject to any Order or any contract (other than any Assigned Contract that is a Permitted Encumbrance) to which Seller or any of its Affiliates is a party restricting the enforcement, use, assignment, transfer or licensing thereof by Seller or its Affiliates.
+4.5.3    Except as set forth on Section 4.5.3 of the Disclosure Schedules, all such registrations and applications relating to the Registered IP (a) since November 30, 2018, (i) have been duly filed or registered (as applicable) with the applicable Governmental Authority and properly maintained, including the timely submission of all necessary filings and payment of fees, including renewal fees, in accordance with the legal and administrative requirements in the appropriate jurisdictions; and (ii) have not lapsed or expired or been cancelled or abandoned; and (b) to Seller’s Knowledge, are valid and in force and, with respect to all applications, are pending and in good standing.
+4.5.4    
+To the Knowledge of Seller, neither Seller’s nor its Affiliates’ conduct of the RHOFADE Business as currently conducted infringes, dilutes, misappropriates or otherwise violates any Intellectual Property of any other Person.  
+As of the date hereof, neither Seller nor any
+23
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+of its Affiliates has received any written notice (or to the Knowledge of Seller, any oral notice) alleging that Seller’s and its Affiliates’ conduct of the RHOFADE Business has infringed, misappropriated, diluted or otherwise violated, or does infringe, misappropriate, dilute or otherwise violate any Intellectual Property of any other Person (including, without limitation, any demand or request that Seller or any of its Affiliates license any rights from a Person or requests for indemnity).
+4.5.5    Except as set forth on Section 4.5.5 of the Disclosure Schedules, to Seller’s Knowledge, no Third Party is infringing,  violating,  misappropriating or solely for purposes of the Assigned Trademarks, diluting, any of the Intellectual Property Rights or RHOFADE Licensed Patents and Seller has not sent any notice to or asserted or threatened any action or claim against any Person or entity involving or relating to the infringement, violation,  misappropriation or solely in the case of the Assigned Trademarks, dilution, of any of the Intellectual Property Rights or RHOFADE Licensed Patents.
+4.5.6    
+Except as set forth on Section 4.5.6 of the Disclosure Schedules, none of Seller or any of its Affiliates has granted any outbound licenses or rights under the Intellectual Property Rights or RHOFADE Licensed Patents, other than non-exclusive licenses granted in the ordinary course of business to manufacturers, suppliers, distributors or other Persons performing manufacturing, supply, distribution, marketing or other services on behalf of Seller or any of its Affiliates.
+4.5.7    
+Other than office actions in the ordinary course of prosecution, there are no outstanding Actions or Proceedings, nor since November 30, 2018 have there been any Actions or Proceedings, challenging the validity, enforceability, registrability or ownership of any Intellectual Property Rights or, to the Knowledge of Seller, the RHOFADE Licensed Patents, and, since November 30, 2018, except as set forth on Section 4.5.7 of the Disclosure Schedules, no such Actions or Proceedings have been asserted in writing, or to the Knowledge of Seller, threatened in writing.
+4.5.8    
+With respect to activities conducted by Seller and its Affiliates since November 30, 2018, Seller and its Affiliates have complied in all material respects with all of their obligations and duties to the respective patent, trademark and copyright offices, including the duty of candor and disclosure to the U.S. Patent and Trademark Office, and all applicable Laws, with respect to all Registered IP.
+4.5.9    
+With respect to activities conducted by Seller and its Affiliates since November 30, 2018, no government funding, facilities of a university, college, other educational institution or research center, or funding from Third Parties was used in the development of the Registered IP.  
+No Governmental Authority, university, college, or other educational institution or research center has any claim or right in or to any Registered IP arising out of any activities conducted by Seller and its Affiliates since November 30, 2018.
+4.6       Contracts.  
+Seller has made available to Buyer true and complete copies of all Assigned Contracts, and all amendments and modifications thereto (subject to redaction or omission of any portions thereof that do not relate to the Transferred Assets).  
+Each Assigned
+24
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Contract is a valid and binding obligation of Seller and, to the Knowledge of Seller, the other party thereto, and is enforceable against Seller and, to the Knowledge of Seller, each other party thereto, and is in full force and effect, in each case subject to the effects of bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium and other similar applicable Laws relating to or affecting creditors’ rights generally and general equitable principles.  
+Except as set forth on Section 4.6 of the Disclosure Schedule, neither Seller nor, to the Knowledge of Seller, any other party thereto, is in material breach of, or material default under, any Assigned Contract, no event has occurred since November 30, 2018 that, with the giving of notice or lapse of time or both, would constitute a material breach or material default under any Assigned Contract, and Seller has not received or given any written notice of a material breach or material default under any Assigned Contract.  
+To the Knowledge of Seller, no party to any Assigned Contract has notified Seller in writing that it intends to cancel or withdraw any such Assigned Contract.  
+Except as set forth on Section 4.6 of the Disclosure Schedule, in the three month period prior to the Closing, no third party payor, including any managed care organization or pharmacy benefits manager, has provided written notice to Seller of any change in the terms of coverage or rebates or administrative fees for the RHOFADE Product (including any change that would go into effect post-Closing) under any third party payor contract (including any PBM or managed care contract) to which Seller is a party.
+4.7       Regulatory Matters.
+4.7.1    Since November 30, 2018, the RHOFADE Product has been manufactured, labeled, packaged, supplied, promoted, distributed,  marketed, and sold by or on behalf of Seller, as applicable, in compliance in all material respects with all applicable U.S. Laws.  
+All Transferred Registrations are set forth on Section 4.7.1 of the Disclosure Schedules, and Seller has made available to Buyer all Transferred Registrations.  
+All Transferred Registrations are true, correct and complete (except for such Transferred Registrations in the process of being supplemented by a subsequent filing in compliance with applicable Law described on Section 4.7.1 of the Disclosure Schedules) in all material respects.  
+All currently proposed supplements of any Transferred Registrations has been made available to Buyer.  
+Seller has not received any written notice that any loss, revocation, termination, suspension or expiration of any Transferred Registrations is pending or threatened, and to the Knowledge of Seller, no such loss, revocation, termination, suspension or expiration is threatened, other than expiration in accordance with the terms thereof.  
+The RHOFADE NDA is in full force and effect.  
+All program fees and other fees invoiced by or payable to any Governmental Authority with respect to the Transferred Registrations which are due and payable as of the Closing Date have been paid.  
+There are no Actions or Proceedings pending or, to the Knowledge of Seller, threatened which would reasonably be expected to result in the limitation, modification, revocation, cancellation, or suspension of any of the Transferred Registrations.  
+None of Seller or any of its Affiliates, or to the Knowledge of Seller any Person engaged by Seller to provide any service with respect to the Transferred Assets, has received (a) any unresolved FDA Form 483 observations, untitled letters or warning letters directly relating to the RHOFADE Product, or (b) any written notice or, to the Knowledge of Seller, other communication from any Governmental Authority (i) requiring the termination or suspension of any manufacturing, marketing, sale, importation, export or other Exploitation of the RHOFADE Product or (ii) alleging any material violation of any Law, providing notice of any fine, sanction, or penalty, or commencing or indicating an intention to conduct any investigation with respect to
+25
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+the RHOFADE Product,  or (iii) alleging any material deficiencies with respect to any Transferred Registration or reports or submissions.
+4.7.2    Neither Seller nor any of its Affiliates has made an untrue statement of material fact or fraudulent statement to the FDA or any other U.S. Governmental Authority, failed to disclose a material fact required to be disclosed to the FDA or any other U.S. Governmental Authority, or committed an act, made a statement, or failed to make a statement, including with respect to any scientific data or information, that, at the time such disclosure was made or failure to disclose occurred, would provide a basis for the FDA or any other U.S. Governmental Authority to invoke the FDA Application Integrity Policy respecting “Fraud, Untrue Statements of Material Facts, Bribery and Illegal Gratuities,” set forth in FDA’s Compliance Policy Guide Sec.
+120.100
+(CPG 7150.09) or any similar policy, in each case as related to the RHOFADE Product.
+4.7.3    
+Each of Seller and its Affiliates has established and maintains a corporate compliance program that (a) addresses all material requirements of applicable U.S. Law and all Governmental Authorities having jurisdiction over the RHOFADE Business, and (b) has been structured to account for the guidance issued by the U.S. Department of Health and Human Services regarding characteristics of effective corporate compliance programs to the extent relating to the Transferred Assets.  
+Seller and its Affiliates are in compliance in all material respects with their respective corporate compliance programs to the extent relating to the RHOFADE Product or the RHOFADE Business.  
+Each of Seller and its Affiliates has designated an executive employee thereof as its chief compliance officer.  
+Since November 30, 2018, neither Seller, nor any of its Affiliates, and to the Knowledge of Seller, none of their respective employees and contractors, has made any voluntary or self-disclosure to any U.S. Governmental Authority regarding any potential material non-compliance with any applicable Law in connection with the Exploitation of the RHOFADE Product or relating to the RHOFADE Business.
+4.7.4    
+Since November 30, 2018, neither Seller nor any of its Affiliates has voluntarily or involuntarily initiated, conducted or issued, caused to be initiated, conducted or issued any recall, removal, market withdrawal, replacement, field action, safety alert, warning, “dear doctor” letter, investigator notice, or other notice or action to wholesalers, distributors, retailers, healthcare professionals or patients (collectively, a “Recall”)
+relating to the RHOFADE Product.  
+Neither Seller nor any of its Affiliates has received since November 30, 2018, any written notice from the FDA or any other U.S. Governmental Authority requesting or requiring, (a)
+the Recall of the RHOFADE Product, (b) a material adverse change in the labeling of the RHOFADE Product, (c)
+a termination, enjoinment or suspension of the research, development, manufacturing, marketing, or distribution of the RHOFADE Product, or (d)
+a negative change in the coverage or reimbursement status of the RHOFADE Product or procedure using the RHOFADE Product.  
+The RHOFADE Products sold by Seller have conformed in all material respects with all relevant product specifications and standards related to such RHOFADE Products.  
+Except for warranties set forth in any of the Assigned Contracts, there are no outstanding product warranties made on any of the RHOFADE Products.
+4.7.5    None of Seller or any of its Affiliates is party to or has any ongoing reporting obligations relating to the RHOFADE Product pursuant to or under any U.S. Order
+26
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(including, for the avoidance of doubt, any corporate integrity agreement, monitoring agreement, deferred prosecution agreement, consent decrees, settlement orders or other similar agreements) and, to the Knowledge of Seller, no such Order relating to the RHOFADE Product is currently contemplated, proposed or pending.  
+None of Seller or its Affiliates nor, to the Knowledge of Seller, any officers, employees or agents with respect to the RHOFADE Business (including any clinical investigator or distributor)
+thereof has been suspended or debarred or convicted of any crime or engaged in any conduct that would reasonably be expected to result in (x) debarment under 21 U.S.C. Section 335a or any similar Law or (y) exclusion under 42 U.S.C. Section 1320a-7 or any similar Law, and, to the Knowledge of Seller, no such Action or Proceeding is currently contemplated, proposed or pending.
+4.8       Broker’s Fees.  
+Except as set forth on Section 4.8 of the Disclosure Schedules, Seller has not employed or retained any broker, agent, finder or other Person, or incurred any obligation for brokerage fees, finder’s fees or commissions with respect to the sale of any of the Transferred Assets or with respect to the transactions contemplated by this Agreement, or otherwise dealt with anyone purporting to act in the capacity of a finder or broker with respect thereto whereby Seller may be obligated to pay such Person a fee or commission.  
+Any fees or commissions owed to any broker, agent, finder, or other Person identified on Section 4.8 of the Disclosure Schedules are the responsibility of Seller and are not and will not be payable by or an obligation of Buyer.
+4.9       Taxes.  
+Except as set forth on Section 4.9 of the Disclosure Schedules:
+4.9.1    All material Taxes owed by Seller with respect to the Transferred Assets (in each case whether or not shown on any Tax Return) have been timely paid;
+4.9.2    Seller with respect to the Transferred Assets has complied with the provisions of the Code relating to the withholding and payment of Taxes, including the withholding and reporting requirements under Code sections 1441 through 1464 and 6041 through 6049, as well as similar provisions under any other laws.  
+Seller with respect to the Transferred Assets (A) has collected and remitted all applicable sales and/or use Taxes to the appropriate taxing authority or (B)
+has obtained, in good faith, any applicable sales and/or use Tax exemption certificates;
+4.9.3    there is no dispute or claim concerning any Tax Liability of Seller with respect to the Transferred Assets either
+(a) claimed or raised by any Governmental Authority (whether in writing or, to the Knowledge of Seller, orally), or (b) otherwise to Seller’s Knowledge;
+4.9.4    Seller has not executed any outstanding waivers or comparable consents regarding the application of the statute of limitations with respect to any Taxes in respect of the Transferred Assets;
+4.9.5    all sales and use Tax Returns required to be filed by Seller with respect to the Transferred Assets have been timely filed and are true, correct and complete in all material respects;
+27
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+4.9.6    Seller has no liability for the Taxes of any other Person as a transferee or successor, by contract or otherwise in respect of the Transferred Assets;
+4.9.7    Seller is not a party to any Tax allocation, Tax sharing, Tax indemnification agreement or similar contract with respect to the Transferred Assets that would, in any manner, bind, obligate or restrict the Buyer or its Affiliates;
+4.9.8    there are no Encumbrances for Taxes on the Transferred Assets; and
+4.9.9    
+Seller is not a disregarded entity for U.S. federal income Tax purposes nor a “foreign person” within the meaning of Section 1445 of the Code.
+4.10     Completeness of Transferred Assets.
+4.10.1  
+To the Knowledge of Seller, except for the Intellectual Property Rights and RHOFADE Licensed Patents, all of the assets exclusively used in the RHOFADE Business prior to the Closing Date since November 30, 2018 are solely related to United States based operations and activities.
+4.10.2  Seller does not hold or Control any application with, or registration, approval or other authorization of, any Governmental Authority, in each case that is exclusively related to the manufacturing, marketing, sale, importation, or export of the RHOFADE Product, other than as included in the Transferred Assets.
+4.10.3  Seller does not own or Control any Internet domain name containing the name “RHOFADE” that is used or has been used since November 30, 2018 solely in relation to the RHOFADE Product, other than the Assigned Domain Names.
+4.10.4  
+Except as set forth on Section 4.10.4 of the Disclosure Schedules, Seller is not a party to any Contract exclusively relating to the RHOFADE Product or that is, or reasonably would be expected to be, necessary for the Exploitation of the RHOFADE Product, other than the Assigned Contracts.
+4.10.5  
+None of Seller or any of its Affiliates is currently engaging in or conducting clinical studies or commercialization of a Competing Product.
+4.11     Compliance with Laws; Anti-Corruption.
+4.11.1  Seller and each of its Affiliates is, and since November 30, 2018 has been, in compliance, in all material respects, with all applicable U.S. Laws (including the U.S. Foreign Corrupt Practices Act of 1977, as amended (15 U.S.C. §78dd-a, et seq.); the U.S. Domestic Bribery Statute (18 U.S.C. §201); the U.S. Travel Act (18 U.S.C. §1952); any other applicable anti-corruption, anti-bribery, or similar applicable Law; the FFDCA; the federal Anti-Kickback Law (42 U.S.C. §1320a-7b) and other fraud and abuse applicable Law; the federal False Claims Act (31
+U.S.C. §3279, et seq.); the federal Civil Monetary Penalties Law (42 U.S.C. §1320a-7a); the Physician Payment Sunshine Act (42
+U.S.C. §1320a-7h) and state transparency applicable Law; the Health Insurance Portability and Accountability Act of 1996, as amended by the Health
+28
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Information and Technology for Economic and Clinical Health Act; and the regulations promulgated pursuant thereto; applicable Laws which are cause for exclusion from any federal health care program; and the requirements of the Medicaid Drug Rebate Program); in each case with respect to the RHOFADE Product, the Transferred Assets or the RHOFADE Business.  
+Neither Seller nor any of its Affiliates have received any written notice from any Governmental Authority alleging any violation of applicable U.S. Law by Seller or any of its Affiliates with respect to the RHOFADE Product, Transferred Assets or the RHOFADE Business.
+4.11.2  None of Seller, its Affiliates, or any of their respective officers, directors, employees, nor, to the Knowledge of Seller, any Third Party acting on behalf of Seller or its Affiliates, in each case, with respect to the RHOFADE Product, Transferred Assets or the RHOFADE Business, has since November 30, 2018, with a corrupt intention or in violation of applicable Law directly or indirectly (through Third Parties) paid, provided, promised, offered, or authorized the payment or provision of money, a financial advantage, or anything else of value to (i) an official, employee, or agent of any U.S. Governmental Authority, military, public international organization, state-owned or controlled entity, political party, or any instrumentality thereof, or (ii) a political party or candidate for political office, for purposes of obtaining, retaining, or directing business or securing any other improper advantage.
+4.12     Inventory.
+4.12.1  Section 4.12.1 of the Disclosure Schedules set forth a report by units, category types (i.e., finished product, samples or active pharmaceutical ingredient), expiration date, lot number (as applicable) and location of the finished product, samples and active pharmaceutical ingredients, in each case owned or controlled by Seller or its Affiliates as of September 30, 2019.  
+In each case solely with respect to the RHOFADE Product, to the Knowledge of Seller, neither Seller nor any Affiliate of Seller has engaged in any “channel stuffing” or any similar program, activity or other action (including any rebate, discount, chargeback or refund policy or practice)
+that in each case is intended to or, to Seller’s Knowledge, would reasonably be expected to, result in purchases by customers that are materially in excess of normal customers purchasing patterns consistent with past course of dealing with Seller or any of its Affiliates; provided,  however, that fluctuation in sales in response to seasonal demands consistent with past practice or to demands due to market or other external factors outside of Seller’s and its Affiliates’ control shall not be deemed to violate the foregoing provision.
+4.12.2  
+To the Knowledge of Seller, the finished product that has been manufactured since November 30, 2018 has been manufactured in accordance with the applicable specification therefor and good manufacturing practices in all material respects.  
+The Inventory, while in possession of Seller or its Affiliates, has been stored and handled in conformity with the applicable specifications for the RHOFADE Product in all material respects.  
+Since November 30, 2018, there are no existing or, to the Knowledge of Seller, threatened,
+product liability, warranty or other similar claims alleging that any RHOFADE Product is defective or fails to meet any product warranties.
+4.12.3  
+To Seller’s Knowledge, all of the work-in-process, raw materials, active product ingredients, excipients, packaging materials and components included in the Inventory
+29
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+and that has been manufactured since November 30, 2018
+(i) have been manufactured, handled, and stored in accordance with cGMP, and
+applicable Law in all material respects, and (ii) are free of defects and useable in the ordinary course of business.
+4.13     Accounts Receivable; Accounts Payable.  
+Since November 30, 2018, Seller has conducted all pricing, sales, receivables and payables production practices in respect of the RHOFADE Product in the ordinary course of business consistent with its past practice for the RHOFADE Product.  
+Since November 30, 2018, Seller has paid all accounts in respect of the RHOFADE Product in the ordinary course of business consistent with its past practice for the RHOFADE Product.
+4.14     Absence of Changes.  
+From November 30, 2018 until the date hereof, no change, development, event, occurrence, fact or effect has occurred that has had, or would reasonably be expected to have, a Material Adverse Effect, and to Seller’s Knowledge, since November 30, 2018, Seller has not learned of any change, development, event, occurrence, fact or effect that occurred prior to November 30, 2018 that has had, or would reasonably be expected to have, a Material Adverse Effect.  
+Since November 30, 2018, except for matters relating to Seller’s exploration of strategic options for the RHOFADE Business, Seller and its Affiliates have conducted the RHOFADE Business in the ordinary course of business consistent with its past practice.
+4.15     AMP and BP Data.  
+For the RHOFADE Product, Section 4.15 of the Disclosure Schedules sets forth a complete and accurate listing of the following information with respect to the RHOFADE Product’s calculation of “Average Manufacturer Price” or “AMP” and “Best Price” or “BP” (as defined in 42 U.S.C. § 1396r-8 and 42 C.F.R. § 447.500
+et seq.
+, as may be amended from time to time):
+(a) the most recent AMP for the RHOFADE Product reported to the Medicaid drug rebate program;
+(b) the most recent BP for the RHOFADE Product reported to the Medicaid drug rebate program;
+(c) the date on which the RHOFADE Product was originally marketed; (d) the Calendar Quarter in which the base or baseline AMP for the RHOFADE Product was established; and (e)
+the base or baseline AMP for the RHOFADE Product.
+4.16     
+[*
+**].
+4.17     No Other Representations or Warranties.  
+Except for the representations and warranties contained in this Article 4,  Seller has not made any other representations or warranties, express or implied, either written or oral, including any representation or warranty as to the accuracy or completeness of the information regarding Seller furnished or made available to Buyer or its Affiliates or representatives.
+ARTICLE 5    REPRESENTATIONS AND WARRANTIES OF BUYER
+Buyer hereby represents and warrants to Seller as of the Closing Date as follows:
+5.1       Organization and Authority.  
+Buyer is a limited liability company validly existing and in good standing under the laws of South Carolina, with full power and authority to execute and deliver this Agreement and to perform its obligations hereunder.  
+This Agreement and the other Transaction Documents to which Buyer is a party have been duly and validly authorized,
+30
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+executed and delivered by, and constitute the legal, valid and binding obligations of Buyer, enforceable in accordance with their terms.  
+Buyer has all necessary corporate power and authority to carry out its obligations hereunder and under the Transaction Documents.  
+The execution and delivery by Buyer of this Agreement and the Transaction Documents, and by Buyer and each other Affiliate of Buyer that each other Transaction Document to which such party is, or is specified to be, a party, the performance by Buyer and the other applicable Affiliates of Buyer of their respective obligations hereunder and thereunder and the consummation by Buyer and each of the other applicable Affiliates of Buyer of the Contemplated Transactions have been authorized by all requisite corporate action on the part of Buyer and each such other Affiliate of Buyer.
+5.2       Litigation.  
+There are no Actions or Proceedings in progress or Order to which Buyer is subject, or to Buyer’s knowledge, pending or threatened, that question the validity of this Agreement or any action taken or to be taken by Buyer in connection herewith, or which individually or in the aggregate, would materially impair the ability of Buyer to perform its obligations hereunder or to consummate the transactions contemplated by this Agreement or may have the effect of preventing, delaying, making illegal or otherwise interfering with the transactions contemplated by this Agreement.
+5.3       No Conflicts.  
+Neither the execution and the delivery of this Agreement and the  other Transaction Documents by Buyer and each other applicable Affiliate of Buyer, nor the consummation of the transactions contemplated hereby and thereby by Buyer and each such other Affiliate, will (a) conflict  with or violate any Laws to which Buyer or any of its Affiliates are, or its assets or properties are, subject, (b) contravene, conflict with or result in a breach or violation of any provision of the formation and governing documents of Buyer or such Affiliate, (c) conflict with
+, result in a breach of, constitute a default under, result in the acceleration of, create in any Person the right to accelerate, terminate, modify, or cancel, or require any notice or consent under any agreement, contract, lease, license, instrument, or other arrangement to which Buyer is a party or by which it is bound or to which any of its assets is subject, except, in the case of clause (a), as would not, individually or in the aggregate, reasonably be expected to prevent, materially delay or materially and adversely affect the ability of Buyer to carry out its obligations under this Agreement and the Transaction Documents to which it is a party.  
+Buyer does not need to give any notice to, make any filing with, or obtain any authorization, consent, or approval of any Governmental Authority or any other Person in order to consummate the transactions contemplated by this Agreement except for (i) the notices to be submitted by Buyer to FDA pursuant to 21 CFR §  314.72 regarding the RHOFADE NDA and under 21 CFR
+§  312 regarding the RHOFADE IND, and any filing required in any relevant jurisdiction for the purpose of recording the assignment of any Intellectual Property Rights and (ii) to the extent failure to obtain such consent would not, individually or in the aggregate, prevent or materially delay the consummation by Buyer of the Contemplated Transactions or materially and adversely affect the ability of Buyer to carry out its obligations under this Agreement and the Transaction Documents to which it is a party.
+5.4       Brokers and Finders.  
+Buyer has not employed any broker, finder, consultant or intermediary in connection with the transactions contemplated by this Agreement who would be entitled to a broker’s, finder’s or similar fee or commission in connection therewith or upon the consummation thereof.
+31
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+5.5       Disclaimer.  
+Buyer has undertaken its own investigation and has been provided with and has evaluated such information as requested by Buyer in connection with such investigation, in connection with the execution, delivery and performance of this Agreement and the other Transaction Documents to which it is a party and the consummation of the Contemplated Transactions.  
+In making its decision to execute and deliver this Agreement, the other Transaction Documents and to consummate the transactions contemplated hereby, Buyer is relying solely upon the representations and warranties of Seller set forth in ARTICLE 4 and in the Transaction Documents, and acknowledges that such representations and warranties are the only representations and warranties made by Seller and its employees, officers, directors or representatives with respect to this Agreement, the other Transaction Documents and the Contemplated Transactions, including the Transferred Assets.  
+Except as expressly set forth in ARTICLE 4 and in the Transaction Documents, Buyer acknowledges and agrees that neither Seller nor any other Person is making or has made any representation or warranty, express or implied, as to this Agreement, the other Transaction Documents and the Contemplated Transactions, including the Transferred Assets, or the research, development, manufacture, distribution, marketing, commercialization, sale or use of the RHOFADE Product or the accurateness or completeness of any information regarding the Transferred Assets, furnished to Buyer or its Affiliates and representatives.
+5.6       No Other Representations or Warranties.  
+Except for the representations and warranties contained in this Article 5,  Buyer has not made any other representations or warranties, express or implied, either written or oral, including any representation or warranty as to the accuracy or completeness of the information regarding the Buyer furnished or made available to Seller or its Affiliates or representatives.
+ARTICLE 6   
+CLOSING
+6.1       Closing.  
+The closing of the transactions contemplated by this Agreement (the “Closing”) shall occur by exchange of signature pages and other deliverables by facsimile or other electronic means on the date hereof (the “Closing Date”).  
+The Closing will be deemed to have occurred at 12:01 a.m.
+New York time on the Closing Date.
+6.2       Closing Deliveries.  
+At the Closing:
+6.2.1    Buyer shall deliver, or caused to be delivered, the following:
+(a)        to Seller, the Closing Date Payment, paid in accordance with Section 3.2;
+(b)        to the Escrow Agent, the Escrow Amount;
+(c)        to Seller, each of the Transaction Documents to which Buyer is a party, validly executed by a duly authorized officer of Buyer; and
+(d)        to Seller, (i)
+a [
+***] sales and use tax resale certificate, (ii) a  
+[
+*
+**] resale certificate, and (iii)
+a [***] resale certificate, in each case duly executed by Buyer.
+32
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+6.2.2    Seller shall deliver, or cause to be delivered, to Buyer, the following:
+(a)        each of the Transaction Documents to which Seller is a party, validly executed by a duly authorized officer of Seller;
+(b)        the Estimated Inventory Value Statement;
+(c)        the consent of each Person set forth on Schedule 6.2.2(b);
+(d)        evidence, in a form reasonably satisfactory to Buyer, that all Encumbrances with respect to the Transferred Assets have been released;
+(e)        a good standing certificate for Seller, dated no later than [*
+**] before the Closing Date, from the applicable jurisdiction of incorporation;
+(f)        an Internal Revenue Service Form W-9 validly executed by Seller, dated as of the Closing Date;
+(g)        a draft written notice in customary form to the FDA (i) under 21 C.F.R. §314.72 regarding transfer of the RHOFADE NDA and (ii) under 21 CFR §312 regarding transfer of the RHOFADE Product IND, in each case of clauses (i) and (ii), from Seller to Buyer (the “FDA Notice”); and
+(h)        
+all of the tangible Transferred Assets which are not able to be delivered in electronic format, including Inventory.
+ARTICLE 7    COVENANTS AND ADDITIONAL AGREEMENTS
+7.1       Cooperation After Closing.  
+Seller shall use commercially reasonable efforts to provide support and assistance reasonably requested by Buyer in connection with the Transferred Assets after the Closing Date.  
+Buyer shall reimburse Seller for such assistance at a reasonable rate agreed to by the Parties.
+7.2       Wrong Pockets.
+7.2.1    If Seller identifies any Transferred Asset in its or its Affiliates’ possession following the Closing that was not assigned to, or not delivered to, Buyer at or prior to the Closing, or otherwise comes within the possession of Seller or its Affiliates following the Closing, then Seller shall (or shall cause its applicable Affiliate to) transfer such asset to Buyer or its designee as soon as reasonably practicable and for no further consideration (it being acknowledged and agreed that Buyer shall have already paid good consideration for all such Transferred Assets by paying the Purchase Price).  
+Seller shall notify Buyer as soon as reasonably practicable upon becoming aware that there are any such assets in its or its Affiliates’ possession.
+7.2.2    
+If Buyer identifies any Excluded Asset in its or its Affiliates’ possession following the Closing that was inadvertently transferred to Buyer or its Affiliates at or prior to the Closing, or otherwise comes within the possession of Buyer or its Affiliates following the Closing,
+33
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+then Buyer shall (or shall cause its applicable Affiliate to) transfer such asset to Seller or its designee as soon as reasonably practicable and for no consideration.  
+Buyer shall notify Seller as soon as reasonably practicable upon becoming aware that there are any such assets in its or its Affiliates’ possession.
+7.3       
+Further Assurances.
+7.3.1    Each Party shall execute and deliver or cause to be executed and delivered to other Party such further instruments of transfer, assignment and conveyance and take such other action as the other Party may reasonably require to effect the Contemplated Transactions in accordance with the terms and subject to the conditions of this Agreement and the other applicable Transaction Documents.
+7.3.2    
+From time to time, at Buyer’s request whether at or after the Closing Date, Seller shall provide Buyer with reasonable access during normal business hours to books records, files, documentation, correspondence, lists and other materials, including research information, information relating to clinical trials, sales and promotional literature, manuals, data (including pre-clinical and clinical data), sales and purchase correspondence, lists of present and former suppliers, list of present and former customers, in each case whether in hard copy or computer format, used in the RHOFADE Business or with respect to the RHOFADE Product generally, to the extent not included in the Product Books and Records.  
+Buyer shall reimburse Seller for its reasonable and documented out-of-pocket expenses incurred in connection with such assets.
+7.4       Notification to Governmental Authorities.  
+After the Closing Date, Buyer and Seller shall cooperate in filing with the FDA such documents and communications as may be necessary to transfer to Buyer any registrations with the FDA with respect to the RHOFADE Product and shall submit the FDA Notice as soon as reasonably practicable but in no event later than [*
+**]
+following the Closing.  
+Buyer and Seller will be equally responsible for the payment of all filing or similar fees, if any, payable to the FDA by Buyer or Seller with respect to the transfer of any such registrations.  
+Buyer and Seller shall be equally responsible for the cost and expense of all other applicable recordations of the assignment or transfer of the Transferred Assets, including with respect to any other registrations with any Governmental Authority.
+7.5       Customers.  
+Immediately following the Closing, Buyer shall be responsible for processing customer orders and for shipping and invoicing customers for the RHOFADE Product.  
+Promptly following the Closing, the Parties shall jointly issue a letter to customers notifying such customers that Buyer has acquired the RHOFADE Product,
+all future orders of the RHOFADE Product are to be placed with Buyer, all returns of finished product or samples are to be delivered to Buyer, and providing the appropriate contact information for Buyer’s personnel.  
+After the issuance of such letter, the Parties shall at all times reasonably cooperate in (a) notifying and continuing to notify such customers that all future orders of the RHOFADE Product are to be placed with Buyer and that all returns of finished product or samples are to be delivered to Buyer and
+(b) taking such other actions as are reasonably necessary to effect the foregoing.
+34
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+7.6       Confidential Information.
+7.6.1    Each Party acknowledges and agrees that the Confidentiality Agreement remains in full force and effect and information provided pursuant to this Agreement shall remain subject to the Confidentiality Agreement; provided,  however, that notwithstanding anything in this Agreement to the contrary, Buyer and/or Seller may make any disclosure to the extent it is required to do so to comply with any Laws, subject to Section 7.6.2 below.
+7.6.2    
+From and after the Closing, each Party shall treat and hold as confidential, and not use or disclose any of the Confidential Information to any Person, except to pursue its rights under this Agreement or the other Transaction Documents or as required to comply with any Laws.  
+In the event that a Party is requested or required by oral question or request for information or documents in any legal proceeding, interrogatory, subpoena, civil investigative demand or similar process or as otherwise required by Law to disclose any Confidential Information, such disclosing Party shall notify the other Party promptly of the request or requirement so that the non-disclosing Party may seek, at its expense, an appropriate protective order or waive compliance with the provisions of this Section 7.6.2.  
+If, in the absence of a protective order or the receipt of a waiver hereunder a Party is compelled to disclose any Confidential Information to any Governmental Authority or else
+stand liable for contempt, such Party may disclose the Confidential Information to the Governmental Authority; provided,  however, that (a) the disclosing Party shall use commercially reasonable efforts to obtain, at the request and expense of the other Party, an order or other assurance that confidential treatment shall be accorded to such portion of the Confidential Information required to be disclosed as the other Party shall designate, and (b) the disclosing Party shall only disclose such Confidential Information as is required by such Governmental Authority.  
+For the purposes of this Agreement, “Confidential Information” from and
+after the Closing shall mean (a) with respect to Buyer, any nonpublic or confidential information relating to the Transferred Assets, except to the extent that such information shall have become public knowledge other than through improper disclosure by Seller and (b) with respect to Seller, any nonpublic or confidential information relating to the Excluded Assets or the Retained Liabilities.  
+For clarity, the terms of this Agreement shall be the Confidential Information of each Party, and subject to Section 7.7, neither Party may disclose the terms of this Agreement without the prior written consent of the other Party.
+7.6.3    Notwithstanding anything to the contrary in this Agreement or in the Confidentiality Agreement, with respect to any claim related to a breach or threatened breach of the Confidentiality Agreement or this Section 7.6.3, each Party shall be entitled to seek injunctive or other equitable relief to enforce the provisions thereof and hereof, in addition to such other remedies to which such Party may be entitled, including the recovery of money damages.
+7.7       Publicity.  
+Neither Party (including any Affiliates of such Party) shall make or distribute any public announcement, press release or other public document concerning the Contemplated Transactions without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed; provided,  however, that either Party may use the name of the other Party in any document filed with any Governmental Authority or pursuant to public disclosure, in each case as required by any Law; provided,  further,  however, that nothing in this Section 7.7 shall prevent any Party from (a) making any public disclosure it believes is required by Law (including securities Laws or stock exchange Laws) or (b) enforcing its rights under this Agreement or the other Transaction Documents.
+35
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+7.8       Tax Matters.
+7.8.1    Bulk Sales.  
+The Parties agree to waive compliance with the provisions of any so-called “bulk transfer law,
+” “bulk sales law,” or any similar Tax Law (including any Tax clearance or certification of Tax compliance Law) of any jurisdiction that may be applicable with respect to the sale of the Transferred Assets as contemplated by this Agreement; provided, however, that nothing herein shall relieve Seller from its obligation to indemnify Buyer in accordance with ARTICLE 8 for any Taxes that are Retained Taxes.
+7.8.2    Transfer Taxes.  
+All Transfer Taxes shall be borne and paid by Buyer when due.  
+Buyer shall, at its own expense, timely file any Tax Return or other document with respect to such Transfer Taxes (and Seller shall reasonably cooperate with respect thereto as necessary).
+7.8.3    Other Taxes.  
+In the case of any Straddle Period, the amount of any property, ad valorem or similar Taxes in respect of the Transferred Assets apportioned to the Pre-Closing Tax Period shall equal an amount that bears the same ratio to the aggregate amount of such Tax in respect of the entire Straddle Period as the number of days in the Pre-Closing Tax Period bears to the number of days in the entire applicable Straddle Period and in the case of any other Taxes, the amount in respect of the Transferred Assets allocable to the Pre-Closing Tax Period shall be computed as if such taxable period ended as of the end of the day on the Closing Date.
+7.8.4    Withholding Taxes.
+(a)        
+Any and all payments due by Buyer hereunder (or its permitted successors or assigns) to Seller shall be made without set off and without deduction or withholding for or on account of any Taxes (subject to Section 7.8.4), except to the extent for Taxes subject to withholding as required by Law, provided, that Buyer shall give Seller reasonable advance written notice at least [
+*
+**] prior to the date such payment is due hereunder of any anticipated deduction or withholding and setting forth the basis in Law for such withholding.
+To the extent any such amounts are deducted or withheld, Buyer shall pay the amount of such Taxes to the proper Governmental Authority when due and promptly transmit to Seller an official Tax certificate or other evidence of such Tax obligations, together with proof of payment from the relevant Governmental Authority of all amounts deducted and withheld as allowed hereunder sufficient to enable Seller to claim payment of such Taxes.  
+Any withholding Taxes required by Law to be paid or withheld pursuant to this Section 7.8.4(a) shall be an expense of, and borne solely by, Seller, and to the extent withheld by Buyer, shall be deemed to have been paid by the Buyer to the Seller under this Agreement.  
+Upon the reasonable request of Seller, Buyer shall provide reasonable assistance to Seller to enable Seller to recover such Taxes as permitted by applicable Law at Seller’s expense for any out-of-pocket Third Party costs incurred by Buyer in providing such assistance.  
+The Parties shall reasonably cooperate to minimize any such withholding Taxes.
+(b)        
+Notwithstanding Section 7.8.4(a), if (i)
+[
+*
+**], and (ii) as a result of any state of affairs described in clause (i), Buyer or an assignee is required by applicable Law to withhold Taxes in respect of any payment made to Seller pursuant to this Agreement in excess of the amount that would have been required to be withheld if the state of affairs described in clause (i)
+had not occurred, then Buyer may withhold such Taxes and any amount payable by Buyer to
+36
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Seller hereunder shall be increased to take into account such excess withholding Taxes as may be necessary so that, after making all required withholding, Seller receives an amount it would have received
+had the state of affairs described in clause (i) not occurred; provided,  however, that, to the extent that the state of affairs described in clause (i) occurs (
+determined by substituting “Seller” for all references to “Buyer” in clause (i)), and the additional amounts otherwise required to be paid by Buyer to Seller pursuant to this Section 7.8.4(b) would be lower or eliminated if the state of affairs in clause (i) had not occurred (determined by substituting “Seller” for all references to “Buyer” in clause (i)), Buyer shall be required to pay only such additional amounts as Buyer would be required to pay if the state of affairs in clause (i) had not occurred (determined by substituting “Seller” for all references to “Buyer” in clause (i)).  
+Any such increased amount payable to Seller under this Section 7.8.4(b) shall be net of any withholding tax credits (including, for clarity, foreign tax credits) utilized by Seller to offset otherwise payable Taxes with respect to the taxable year in which such payment occurs (as reasonably determined in good faith by Seller).
+In addition, to the extent that Seller obtains a Tax refund for a Tax in respect of which it received an additional payment pursuant to this Section 7.8.4(b), then Seller shall promptly return such refund to Buyer (not to exceed the amount actually received by Seller for such Tax pursuant to this Section 7.8.4(b)), net of any reasonable out-of-pocket expenses incurred in obtaining such refund, provided, however, that nothing in the foregoing clause shall be interpreted as requiring Seller to provide Buyer with a copy of its Tax Returns.
+7.9       Post-Closing Information.  
+Each of Buyer and Seller agrees to, after the Closing, subject to compliance with applicable Laws and any established legal privilege, reasonably cooperate with the other Party and any of the other Party’s Affiliates in connection with the defense by Buyer or Seller or any of their respective Affiliates against any Action or Proceeding related to the Transferred Assets, RHOFADE Licensed Patents or the RHOFADE Business (other than any proceeding between Buyer and Seller), or to enable the other Party and its representatives to satisfy its and its Affiliates’ financial reporting, audit and Tax preparation obligations.  
+Seller shall be responsible for all reasonable out-of-pocket costs and expenses of Buyer and its Affiliates incurred in connection with Buyer’s reasonable cooperation with Seller pursuant to this Section 7.9 to the extent such Action or Proceeding or investigation relates to conduct in connection with the RHOFADE Business on or after November 30, 2018 and prior to the Closing or the conduct of Seller or any of its Affiliates or their respective employees or contractors post-Closing, and Buyer shall be responsible for all reasonable out-of-pocket costs and expenses of Seller and its Affiliates incurred in connection with Seller’s reasonable cooperation with Buyer pursuant to this Section 7.9 to the extent
+such Action or Proceeding or investigation relates to conduct in connection with the RHOFADE Business post-Closing.
+7.10     Returned Product.
+7.10.1  
+Following the Closing, Seller shall be financially responsible for the return costs and any refunds of the purchase price associated with any customer or wholesaler returns of expired, damaged, defective, or otherwise unsalable RHOFADE Product (“Product Returns”) for any RHOFADE Product sold by Seller prior to the Closing Date, and Buyer shall be financially responsible for the return costs and any refunds of the purchase price associated with Product Returns for RHOFADE Product sold from and after the Closing Date;  provided, that in cases where both Seller and Buyer made sales from the same lot, financial responsibility for Product Returns
+37
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+for such lot shall be shared in proportion to the portion of the lot sold by Seller and Buyer, which shall be based on the final agreed number of units in such lot that were sold by Seller or that remain to be sold by Buyer set forth in the Closing Date Inventory Value Statement.  
+Accordingly, Seller shall be financially responsible for a percentage of the total cost of any Product Return from such lot that is equal to the percentage of the total lot that was sold by Seller prior to Closing.
+7.10.2  Buyer and Seller agree that all such returns of the RHOFADE Product that [
+***].
+7.10.3  Buyer shall
+[*
+**].
+7.10.4  
+Each of Buyer and Seller agree that unless required by Law, it will not, directly or indirectly, take any action that would provide any incentive to, or otherwise intentionally induce, customers to return RHOFADE Product, except as the Parties may otherwise mutually agree.
+7.11     Regulatory Compliance.  
+From and after the Closing Date, Buyer shall have sole responsibility for obtaining and maintaining, and shall use commercially reasonable efforts to obtain and maintain, all Transferred Registrations necessary for the offer, sale, importation, manufacture, distribution, marketing, promotion, import, pricing and reimbursement of the RHOFADE Product, including supplementing the RHOFADE NDA to, as promptly as practicable following the Closing, include Buyer’s facilities and delete Seller’s facilities, and assuming all responsibility for maintenance of the RHOFADE NDA.  
+All decisions regarding the validation of the RHOFADE Product and the conduct of regulatory activities with respect to the RHOFADE Product after the Closing shall be made by Buyer.
+7.12     Customer Complaints.  
+From and after the Closing Date, Buyer shall assume all operational responsibility for processing and responding to customer complaints relating to the RHOFADE Product, whether manufactured, marketed or sold before, on or after the Closing Date;
+provided that Seller shall (a) provide commercially reasonable assistance to Buyer in processing and responding to any such customer complaints that are pending as of immediately prior to the Closing and (b) promptly forward to Buyer any and all customer complaints received by Seller or its Affiliates relating to the RHOFADE Product received on or after the Closing.  
+In the event that Buyer becomes aware of any customer complaints relating to the RHOFADE Product that was manufactured, marketed or sold before or on the Closing Date (excluding RHOFADE Product included in Inventory), Buyer shall provide prompt written notice of such complaint to Seller, including, to the extent known, a detailed explanation of such customer complaint.  
+In the event that Seller becomes aware of any customer complaints relating to (i) the RHOFADE Product that was manufactured, marketed or sold after the Closing Date or (ii)
+the RHOFADE Product included in the Inventory, Seller shall provide prompt written notice of such complaint to Buyer, including, to the extent known, a detailed explanation of such customer complaint.
+7.13     Quality Control.
+7.13.1  
+Buyer understands and agrees that, except as otherwise required under applicable Law (or as set forth under any Assigned Contract), from and after the Closing Date,
+38
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Buyer shall be responsible for all quality control and quality assurance activities related to the RHOFADE Product manufactured, distributed or sold before, on or after the Closing Date, including the Inventory; provided that Seller shall provide commercially reasonable assistance to Buyer in handling any such quality control and quality assurance activities existing and open prior to the Closing Date.
+7.13.2  
+In the event that any Governmental Authority shall allege or prove that the RHOFADE Product does not comply with any applicable Law, Buyer shall be fully responsible for controlling such investigation and the disposition thereof.  
+Buyer shall be responsible for all costs and expenses (including the reasonable costs and expenses of Seller and its Affiliates) with respect to any investigation and disposition of the RHOFADE Product (including the RHOFADE Product included in the Inventory) sold after the Closing (regardless of when manufactured) (the “Buyer Sold Product”).  
+Seller shall be responsible for all costs and expenses (including the reasonable costs and expenses of Buyer or its Affiliates) with respect to any investigation and disposition of the RHOFADE Product (excluding the RHOFADE Product included in the Inventory) sold by Seller or any of its Affiliates prior to the Closing (the “Seller Sold Product”).  
+The Parties shall cooperate and work together in good faith in addressing all such non-compliance allegations and occurrences.
+7.13.3  
+Each Party shall notify the other as soon as practicable after it becomes aware of any adulteration, contamination of or other latent defect in (a)
+the RHOFADE Product included in the Inventory and
+(b) the Seller Sold Product (each of the foregoing described in clauses (a) and (b), a “Relevant Product”).  
+If a Governmental Authority issues a warning letter or threatens or commences an Action or Proceeding (including seeking an injunction) in relation to, seizes, or requests or requires a recall of a Relevant Product, Buyer or Seller, as the case may be, shall immediately notify the other Party of the action, seizure, request or requirement and provide to the other Party a copy of any warning letter or notice given by the Governmental Authority.  
+If an action as described in the foregoing sentence requires a response, Buyer, after consultation with Seller, will determine the nature, content and scope of that response and will determine the procedures and steps in respect of that response, whether or not the response is to be given by Buyer or Seller.
+7.13.4  
+From and after the Closing Date, except as otherwise provided in any Assigned Contract, Buyer shall have the right to decide whether to undertake a recall of the Relevant Product voluntarily, and the nature, level and scope of, and all steps and procedures with respect to, any such voluntary recall; provided that Buyer shall consult with Seller with respect to such recall, including the reasons for and the proposed nature, level and scope of the proposed voluntary recall.  
+If Buyer decides to recall a Relevant Product, then (a) Buyer shall take all commercially reasonable steps to effect the recall and (b) Buyer and Seller shall use commercially reasonable efforts to mitigate the costs of such recall.  
+Buyer shall be responsible for all costs and expenses (including any reasonable costs and expenses of Seller and its Affiliates) with respect to any recalls of Buyer Sold Product.  
+Seller shall be responsible for all costs and expenses (including the reasonable costs and expenses of Buyer and its Affiliates) with respect to any recalls of Seller Sold Product.
+39
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+7.13.5  
+If a Governmental Authority requires the recall of a Relevant Product, Buyer shall promptly notify Seller of such requirement and shall comply with any notice given by the Governmental Authority with respect to such recall.  
+Buyer shall be responsible for all costs and expenses (including the reasonable costs and expenses of Seller and its Affiliates)
+associated with such recall to the extent the recall is of Buyer Sold Product.  
+Seller shall be responsible for all costs and expenses (including the reasonable costs and expenses of Buyer and its Affiliates) to the extent such recall was of Seller Sold Product.
+7.14     
+[*
+**].
+7.14.1  Buyer shall, [*
+**].
+7.14.2  Buyer covenants and agrees that, [
+***].
+7.14.3  Buyer recognizes the value of the goodwill associated with Seller’s Names and Marks, and acknowledges that Seller’s Names and Marks and all rights therein, including the goodwill pertaining thereto, belong exclusively to Seller and its Affiliates.
+7.14.4  Buyer agrees that [***].
+7.15     Rebate Liability and [
+*
+**].
+7.15.1  
+Rebate Liability
+(a)        Seller shall be responsible for the amount of all Rebates  that [
+***].
+(b)        Buyer shall be responsible for the amount of all Rebates
+[
+*
+**].
+(c)        Seller shall
+[*
+**].
+(d)        
+Notwithstanding the foregoing or anything herein to the contrary, Buyer shall not assume or be responsible for, any Liability for amounts owed to any Person as a result of any failure to calculate, process, and report properly in accordance with all applicable Laws and contracts any pricing or Rebate with respect to any RHOFADE Product sold prior to Closing.
+7.15.2  
+[
+*
+**]
+7.16     Competing Products.
+7.16.1  For a period of seven (7) years following the Closing Date (the “Restricted Period”), Seller shall not, and shall cause its Affiliates not to, directly or indirectly, independently or with, through or on behalf of any Third Party, research, develop, manufacture, commercialize, sell or otherwise Exploit any Competing Product; provided,  however, that the foregoing shall not be violated by (a) Seller or any of its Affiliates owning, directly or indirectly, solely as a passive investment, securities of any Person that is publicly traded and that researches, develops, manufactures, commercializes or otherwise Exploits
+a Competing Product, if Seller and its
+40
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Affiliates, together, do not, directly or indirectly, own [
+*
+**] of any class of securities of such Person, (b)
+[
+*
+**], or (c) Seller or any of its Affiliates being acquired directly or indirectly by any Person that is engaged in the research, development, manufacture, commercialization or other Exploitation of a Competing Product as of the time of such acquisition.
+7.16.2  Seller acknowledges that the consideration for the covenants in this Section 7.16, consists of substantial economic value as provided under this Agreement and the other Transaction Documents.  
+Seller also acknowledges that Buyer would not consummate the Contemplated Transactions unless Seller agreed to this Section 7.16.
+7.16.3  
+If any part of this Section 7.16 should be deemed unenforceable, then this Section 7.16 shall be construed to cover the maximum period of time, geographic area and scope of prescribed activities (not to exceed the maximum time, geographic area or scope set forth herein) as may be valid under applicable Law.  
+The Parties specifically intend that any court determining the extent of the enforceability of this Section 7.16
+shall, if it determines that this Section 7.16 is not fully enforceable in accordance with its terms, modify the period of time, geographic area or scope of prescribed activities provided for herein to the minimum extent necessary such that the provisions hereof as so modified are enforceable.
+7.17     PDUFA Fee.  
+Buyer shall reimburse Seller $[
+***], which represents the fee paid by Seller to the FDA under the Prescription Drug User Fee Act in respect of the RHOFADE Product for the fiscal year 2020, no later than [
+***] following receipt by Buyer of evidence of such payment.
+7.18     Transition Services.
+7.18.1  
+After the Closing,  upon request by Buyer, Seller shall act as the liaison between Allergan and Buyer under the Allergan TSA in respect of Services (as defined in the Allergan TSA)
+(other than those Services that are terminated on or before the Closing Date) provided by Allergan under the Allergan TSA until the expiration or termination of each such service in accordance with the terms of the Allergan TSA, and shall provide to Buyer any additional transition support reasonably requested by Buyer with respect to the RHOFADE Business (collectively, the “Transition Services”).  
+Seller shall promptly forward copies of any correspondence relating to the Allergan TSA received by Seller to Buyer that relate to a post-Closing period.   
+In consideration for Seller’s provision of the Transition Services, Buyer shall pay to Seller, on a monthly basis (pro-rated for a  partial month), an amount in cash equal to $
+[***] (the “Seller Transition Service Fees”), to be paid in accordance with Section 7.15.2(a)(ii).
+7.18.2  Seller covenants and agrees to provide, or cause to be provided, the Transition Services,  such that the nature, quality, timeliness and standard of care at which such Transition Services are performed is consistent in all material respects with the nature, quality, timeliness and standard of care provided by Seller with respect to such Transition Services within the six  (6) months prior to the date hereof, and in any event, no less care, skill, quality or timeliness than a reasonable Person would render for its own operations.  
+Seller and its Affiliates shall comply with all applicable Laws in performing the Transition Services and with the terms of the Allergan TSA.
+41
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+7.18.3  Buyer may terminate the Transition Services,  or any part thereof, on notice to Seller, which notice will set forth the portion of the Transition Services to be terminated (if the termination is partial) and the applicable termination date (each such date, a “Termination Date”).  
+Buyer will not be obligated to pay Seller any fee attributable to cancelled Transition Services which arises from performance after the applicable Termination Date.
+Seller shall act under the Allergan TSA on Buyer’s behalf in accordance with written instructions by Buyer.
+7.18.4  
+Notwithstanding anything to the contrary herein,
+(A) Buyer acknowledges that Seller is not in the business of providing services to Third Parties, and that the Services do not include the exercise of business judgment or general management for Buyer, and (B)
+neither Seller nor any of its Affiliates shall be liable or held accountable, in damages or otherwise, for any error of judgment or any mistake of fact or law or for anything which any of Seller or any of its Affiliates does or refrains from doing in the performance of the Transition Services, except (i) in the case of their gross negligence or willful misconduct or breach of obligations set forth in this Section 7.18, or (ii) where the Transition Services relate to those Services that relate to RHOFADE Product sold by or on behalf of Seller prior to Closing or Rebates or Product Returns with respect thereto.
+7.19     Rebate Agreements.
+(a)        
+[
+*
+**].
+(b)        
+[*
+**].
+(c)        
+[*
+**].
+7.20     Remedies Against Manufacturers of Inventory.  
+From and after the Closing, in the event of an Action or Proceeding against Buyer or in the event that Buyer incurs any Liabilities arising out of, in respect of, or relating to the manufacture of any raw materials, active pharmaceutical ingredient or the RHOFADE Product included in the Inventory, at Buyer’s request, Seller shall use diligent efforts to obtain, for Buyer’s benefit and at Buyer’s expense, all remedies available to Seller against the Third Party manufacturer thereof, including [*
+**].
+Seller will keep Buyer fully informed regarding the status of its efforts to obtain such remedies and shall promptly, but no later than [
+***]
+after receipt, pay or distribute to Buyer any funds or other consideration obtained by Seller as a result thereof.
+For the avoidance of doubt, this Section 7.20 shall not limit any remedy Seller may have against such Third Party manufacturer.
+7.21     
+[*
+**].
+ARTICLE 8   INDEMNIFICATION
+8.1       Survival.  
+The (a) covenants contained in this Agreement requiring performance after the Closing Date shall survive in accordance with their own terms, (b) representations and warranties of the Parties contained in this Agreement (other than the Fundamental Representations and the representations and warranties of Seller set forth in Section 4.5 (Intellectual Property))
+shall survive the Closing and remain in full force and effect for a period of [*
+**
+] following the Closing Date, (c) the representations and warranties of Seller in Section 4.5 (Intellectual Property) shall survive the Closing and remain in full force and effect for a period of [*
+**] following the
+42
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Closing Date and (d)
+the Fundamental Representations shall survive the Closing and remain in full force and effect until [*
+**].  
+No Party shall have any Liability with respect to any representation, warranty, agreement or covenant after the expiration of the applicable survival period set forth above; provided,  however, that notwithstanding the foregoing, any claims asserted in writing by notice in accordance with Section 8.5 prior to the expiration date of the applicable survival period set forth in this Section 8.1 shall not thereafter be barred by the expiration of such survival period and such claims shall survive until finally resolved.
+8.2       Seller’s Indemnity.  
+Subject to the provisions of this ARTICLE 8, from and after the Closing, Seller will indemnify, defend and hold Buyer and its officers, directors, shareholders, agents, employees, representatives, successors and assigns (each, a “Buyer Indemnitee”) harmless from and against any and all Losses suffered, incurred or sustained by a Buyer Indemnitee, directly or indirectly (whether based on contract, tort, product liability, strict liability or otherwise), incurred in litigation or otherwise, and any investigation relating thereto, by any of the Buyer Indemnitees, to the extent resulting from or arising out of:
+8.2.1    any breach of any of the representations or warranties of Seller or any of its Affiliates contained in this Agreement or any of the Transaction Documents;
+8.2.2    nonfulfillment of or any failure by Seller to perform any covenant or agreement made or undertaken by Seller or its Affiliates in this Agreement or any of the Transaction Documents;
+8.2.3    
+the Retained Taxes;
+8.2.4    the Excluded Assets or Retained Liabilities; or
+8.2.5    any Liability of Seller that becomes a Liability of any Buyer Indemnitee under bulk sales, bulk transfers or similar applicable Laws of any jurisdiction, under any common law doctrine or de facto merger or successor liability, or otherwise by operation of applicable Law.
+8.3       
+Buyer’s Indemnity.  
+Subject to the provisions of this ARTICLE 8, from and after the Closing, Buyer will indemnify, defend and hold Seller and its officers, directors, shareholders, agents, employees, representatives, successors and assigns (each, a “Seller Indemnitee”) harmless from and against any and all Losses incurred in litigation or otherwise, and any investigation relating thereto, by any of the Seller Indemnitees, directly or indirectly, to the extent resulting from or arising out of:
+8.3.1    any breach of any of the representations or warranties of Buyer or any of its Affiliates contained in this Agreement or any of the Transaction Documents;
+8.3.2    
+nonfulfillment of or any failure by Buyer to perform any covenant or agreement made or undertaken by Buyer or its Affiliates in this Agreement or any of the Transaction Documents; or
+8.3.3    the Assumed Liabilities.
+43
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+8.4       Limitations.
+8.4.1    
+Notwithstanding anything to the contrary contained in this Agreement, (a)
+neither Party shall be liable for indemnification for indemnifiable Losses pursuant to Section 8.2.1 or Section 8.3.1, as applicable, for any individual Loss or series of related Losses unless the aggregate amount of all indemnifiable Losses for which such Party would be liable thereunder exceeds [
+*
+*
+*] Dollars ($
+[***]) (the “Deductible”), after which such Party shall be liable for the amount only in excess of the Deductible, and (b) each Party’s aggregate Liability for indemnification for indemnifiable Losses pursuant to Section 8.2.1 or Section 8.3.1, as applicable, shall not exceed [
+*
+*
+*] Dollars ($[
+***])  (the “Cap”); provided,  however, that the Deductible and the Cap shall not apply to limit any Party’s Liability for indemnifiable Losses arising out of such Party’s fraud, intentional misrepresentation, or breach of the Fundamental Representations, provided that for any breach of the Fundamental Representations not due to the breaching Party’s fraud or intentional misrepresentation, each Party’s aggregate Liability shall not exceed the sum of the Upfront Payment, the Sales Milestones payments, the Royalty payments, and the Additional Ex-U.S. Consideration actually paid to Seller hereunder.  
+For the avoidance of doubt, none of the limitations in this Section 8.4.1 shall apply in the case of claims made pursuant to Sections 8.2.2 through 8.2.4, or Sections 8.3.2 and 8.3.3.
+8.4.2    With respect to any Losses, each Party seeking indemnification shall, in good faith, use commercially reasonable efforts to mitigate such Losses to the extent required by applicable Law.
+8.4.3    The amount of any Losses payable under this ARTICLE 8 shall be reduced by the net amount of any insurance proceeds actually received by the Indemnified Party to the extent resulting from such Losses or any net amounts recovered by the Indemnified Party or any of its Affiliates from any other Third Party (after taking into account the costs of any such recovery) (each, “Recovery”), after upward adjustment for any additional Taxes owed as a result of receipt of any indemnification for such Losses.  
+In the event that any such Recovery is received by an Indemnified Party after payment of an indemnity claim for Losses by an indemnified Person hereunder, such indemnified Person shall promptly pay the amount of such Recovery to the Indemnifying Party.  
+No Indemnified Party shall have any obligation to pursue any Recovery, other than as required by Section 8.4.2.
+8.4.4    
+Buyer shall have the right to setoff indemnifiable Losses hereunder against the Sales Milestone payments, the Royalty payments, and/or any Additional Ex-U.S. Consideration pursuant to Section 3.1.2(a),  Section 3.1.2(c), and Section 3.1.3, respectively, that are unpaid and may become due at any time after the Closing Date.  
+If on the date any such payment is due to Seller, Buyer has provided an Indemnification Claim Notice to Seller in accordance with Section 8.5 for indemnification under Section 8.2 hereof that has not been paid by Seller, and Seller has not disputed the amount or validity of the claim in accordance with Section 8.5 hereof, then Buyer may setoff the amount of the indemnifiable Loss dollar for dollar against the payment due to Seller under Section 3.1.2(a),  Section 3.1.2(c), or Section 3.1.3.  
+If on the date any such payment is due to Seller, Buyer has provided an Indemnification Claim Notice to Seller in accordance with Section 8.5 for indemnification under Section 8.2 hereof that is disputed by Seller and any dispute with respect to such claim has not, by such date, been finally resolved in
+44
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+accordance with the terms of this Agreement, Buyer shall deposit the amount in dispute in the Escrow Account pending resolution of such dispute.  
+If the amount in dispute is less than the amount due to be paid to Seller on such date, Buyer shall pay the balance of such amount owed under Section 3.1.2(a),  Section 3.1.2(c), or Section 3.1.3 to Seller.  
+Upon resolution of the applicable dispute, the Parties shall jointly direct the Escrow Agent to disburse amounts in escrow in accordance with such resolution.
+8.4.5    NOTWITHSTANDING ANYTHING TO THE CONTRARY ELSEWHERE IN THIS AGREEMENT, EACH PARTY AGREES THAT IT IS NOT ENTITLED TO RECOVER
+, HEREBY WAIVES ANY CLAIM WITH RESPECT TO, AND WILL NOT SEEK, INDIRECT, CONSEQUENTIAL, PUNITIVE OR ANY SPECIAL DAMAGES AS TO ANY MATTER UNDER,
+RELATING TO OR ARISING OUT OF THE TRANSACTIONS
+CONTEMPLATED BY THIS AGREEMENT, PROVIDED, HOWEVER
+, THAT THE FOREGOING LIMITATION OF LIABILITY SHALL NOT APPLY TO (A)
+CLAIMS FOR INDEMNIFICATION WITH RESPECT TO A THIRD PARTY CLAIM,
+(B) LIABILITIES ARISING FROM SUCH PARTY
+’S
+FRAUD OR
+(C) INDIRECT, INCIDENTAL OR CONSEQUENTIAL LOSSES
+OR LIABILITIES
+THAT WOULD BE REASONABLY FORESEEABLE TO RESULT FROM A BREACH OF THIS AGREEMENT
+OR A MATTER SUBJECT TO INDEMNIFICATION HEREUNDER, AS APPLICABLE, UNDER AN OBJECTIVE STANDARD.
+8.5       Notice of Claim.  
+All indemnification claims in respect of any indemnitee seeking indemnity under Sections 8.2 and 8.3 (collectively, the “Indemnitees” and each an “Indemnitee”) will be made solely by the corresponding Party (the “Indemnified Party”).  
+The Indemnified Party will give the Party from whom indemnity is being sought (the “Indemnifying Party”)
+prompt written notice (an “Indemnification Claim Notice”) of any Losses or the discovery of any fact upon which such Indemnified Party intends to base a request for indemnification under Sections 8.2 or 8.3, as applicable, but in no event will the Indemnifying Party be liable for any Losses that result from any delay in providing such notice which materially and actually prejudices the defense of such claim.  
+Each Indemnification Claim Notice must contain a description of the claim and the nature and amount of Losses (to the extent that the nature and amount of such Losses are known at such time).  
+Together with the Indemnification Claim Notice, the Indemnified Party will furnish promptly to the Indemnifying Party copies of all notices and documents (including court papers) received by any Indemnitee in connection with the claim.  
+A failure by the Indemnified Party to give notice of the claim as required by this Section 8.5 shall not limit the obligation of the Indemnifying Party under this ARTICLE 8, except (a) to the extent any admission or statement made by the Indemnified Party materially prejudices the defense of such claim and (b) as provided in Section 8.1.  
+The Indemnifying Party shall reply to an Indemnification Claim Notice by providing written notice to the Indemnitee as to whether the Indemnifying Party agrees or disagrees that the claim asserted is a valid claim for indemnification hereunder and agrees or disagrees as to the amount of the Losses in such Indemnification Claim Notice.  
+If the Indemnifying Party does not dispute the validity of the claim and the amount of the Losses asserted in the Indemnification Claim Notice, then the Indemnifying Party shall pay the claimed amount of the Losses within [*
+**] of receipt of the Indemnification Claim Notice.  
+If the Indemnifying Party disagrees with the validity of the claim or the amount of the Losses in the Indemnification Claim
+45
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Notice, then the claim will be considered a disputed claim to be resolved by the Indemnitee and the Indemnifying Party in accordance with this Article 8 and Section 9.2 hereof.
+8.6       Control of Defense.
+8.6.1    
+At its option, the Indemnifying Party may assume the defense of any claim made by, or any Action or Proceeding commenced by, a Third Party (a “Third Party Claim”) by giving written notice to the Indemnified Party within [
+***]
+after the Indemnifying Party’s receipt of an Indemnification Claim Notice; provided that the Indemnifying Party acknowledges in writing that the Losses resulting from such Third Party Claim are within the scope of indemnified Losses subject to Section 8.2, in the case of Seller as the Indemnifying Party, or Section 8.3, in the case of Buyer as the Indemnifying Party; provided, further, that the Indemnifying Party shall not be entitled to (a) assume the defense, appeal or settlement of any Third Party Claim if (i) the Third Party Claim relates to or arises in connection with any criminal proceeding, action, indictment, allegation or investigation or (ii)
+the Third Party Claim seeks any injunction or equitable relief against the Indemnified Party; or (b) maintain control of the defense, appeal or settlement of any Third Party Claim if the Indemnifying Party has failed or is failing to defend in good faith the Third Party Claim.  
+Upon assuming the defense of a Third Party Claim, the Indemnifying Party may appoint as lead counsel in the defense of the Third Party Claim any legal counsel that is reasonably acceptable to the Indemnified Party and shall be responsible for all costs and expenses associated with the defense of such Third Party Claim.  
+Should the Indemnifying Party assume the defense of a Third Party Claim, the Indemnifying Party will not, except as provided in Sections 8.7 and 8.8 below, be liable to the Indemnified Party or any other Indemnitee for any legal expenses subsequently incurred by such Indemnified Party or other Indemnitee in connection with the analysis, defense or settlement of the Third Party Claim.
+8.6.2    If the Indemnifying Party is entitled to assume the defense of a Third Party Claim pursuant to Section 8.6.1, but is not prepared to acknowledge in writing that the Losses resulting from such Third Party Claim are within the scope of indemnified Losses subject to Section 8.2 or Section 8.3, as applicable, the Indemnifying Party and the Indemnified Party shall jointly control the defense, appeal and settlement of the Third Party Claim.  
+In such instance, (a) defense counsel for the Third Party Claim shall be jointly appointed by the Indemnifying Party and the Indemnified Party, and the costs of defense (including the fees and expenses of such jointly appointed counsel) shall be borne equally by the Indemnifying Party and the Indemnified Party, regardless of which party initially pays such costs, (b) no material decision or action in the defense of the Third Party Claim shall be taken and no settlement or compromise of such Third Party Claim shall be entered into or agreed to, in each case, without the prior consent of each of the Indemnified Party and the Indemnifying Party (such consent to not be unreasonably withheld, delayed or conditioned), and
+(c) each of the Indemnified Party and the Indemnifying Party shall be entitled to participate in, but not control, the joint defense through its own independent counsel, at its own expense.  
+In the event that the Indemnifying Party subsequently assumes the defense of such Third Party Claim pursuant to Section 8.6.1, then the Indemnifying Party shall become responsible for (and reimburse the Indemnified Party as applicable)
+all costs of the joint defense contemplated by clause (a) of the preceding sentence.  
+If it is ultimately determined that the Third Party Claim is not indemnifiable under this ARTICLE 8, then the Indemnified Party shall become responsible for
+46
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+(and reimburse the Indemnifying Party as applicable)
+all costs of the joint defense contemplated by clause (a) of this Section 8.6.2.
+8.7       Right to Participate in Defense.  
+Without limiting Section 8.6.1, any Indemnitee will be entitled to participate in, but not control, the defense of a claim for which it has sought indemnification hereunder and to employ counsel of its choice for such purpose; provided,  however, that such employment will be at the Indemnitee’s own expense unless (a) the employment thereof has been specifically authorized by the Indemnifying Party in writing, (b) at any point the Indemnifying Party has failed to assume the defense and employ counsel in accordance with Section 8.6 (in which case the Indemnified Party will control the defense) or (c)
+if the interests of the Indemnified Party and the Buyer Indemnitee or Seller Indemnitee, as applicable, on the one hand, and the Indemnifying Party, on the other hand, with respect to the Third Party Claim are sufficiently adverse to prohibit the representation by the same counsel of both parties under applicable Law, ethical rules or equitable principles.
+8.8       Settlement.  
+With respect to any Losses relating solely to the payment of money in connection with a Third Party Claim and that will not result in the Indemnitee’s becoming subject to injunctive or other relief or otherwise adversely affect the business of the Indemnitee in any manner, and as to which the Indemnifying Party will have acknowledged in writing the obligation to indemnify the Indemnitee hereunder and in the event the Indemnifying Party has elected to assume defense of a Third Party Claim pursuant to Section 8.6.1, the Indemnifying Party will have the sole right to consent to the entry of any judgment, enter into any settlement or otherwise dispose of a Third Party Claim, on such terms as the Indemnifying Party, in its reasonable discretion, will deem appropriate (provided,  however, that such terms shall include a complete and unconditional release of the Indemnified Party from all Liability with respect thereto), and will transfer to the Indemnified Party all amounts which said Indemnified Party will be liable to pay prior to the time of the entry of judgment.  
+With respect to all other Third Party Claims where the Indemnifying Party has assumed the defense of the claim in accordance with Section 8.6.1, the Indemnifying Party will not have authority to consent to the entry of any judgment, enter into any settlement or otherwise dispose of such claims unless it obtains the prior written consent of the Indemnified Party (which consent will not be unreasonably withheld by the Indemnified Party).  
+The Indemnifying Party that has assumed the defense of the claim in accordance with Section 8.6 will not be liable for any settlement or other disposition of a loss by an Indemnitee that is reached without the prior written consent of such Indemnifying Party.  
+Regardless of whether the Indemnifying Party chooses or is entitled to defend or prosecute any Third Party Claim, no Indemnitee will admit any Liability with respect to, or settle, compromise or discharge, any Third Party Claim without the prior written consent of the Indemnifying Party (which consent shall not be unreasonably withheld by the Indemnifying Party).
+8.9       Cooperation.  
+Each Party and each Buyer Indemnitee or Seller Indemnitee, as applicable, shall reasonably cooperate in good faith with respect to the defense or prosecution of any Third Party Claim and will furnish such records, information and testimony, provide such witnesses and attend such conferences, discovery proceedings, hearings, trials and appeals as may be reasonably requested in connection with such Third Party Claim.  
+Such cooperation will include, upon written request of the Indemnifying Party, access during normal business hours afforded to the Indemnifying Party to, and reasonable retention by the Indemnified Party of,
+47
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+records and information that are reasonably relevant to such Third Party Claim, and making Indemnitees and other employees and agents available on a mutually convenient basis to provide additional information and explanation of any material provided hereunder, and the Indemnifying Party will reimburse the Indemnified Party for all its reasonable out-of-pocket expenses incurred in connection with such cooperation.
+8.10     Calculation of Losses.  
+With respect to any representation and warranty contained in this Agreement or any other Transaction Document that is qualified by materiality, “Material Adverse Effect” or a derivative thereof, such qualification will be ignored and deemed not included in such representation or warranty for the purposes of (a) calculating the amount of Losses indemnifiable under this ARTICLE 8 with respect to such breach or inaccuracy
+and (b) determining whether there has been a breach or inaccuracy of such representation or warranty for purposes of this ARTICLE 8.
+8.11     Escrow Account.  
+From and after the Closing, any indemnification to which any Buyer Indemnitee is entitled under Section 8.2 shall be first satisfied by recouping all of such Losses from the Escrow Account in accordance with the terms of the Escrow Agreement until the Escrow Amount is exhausted or released pursuant to the terms of the Escrow Agreement.
+If the Escrow Amount is not sufficient to pay the entire amount of the Losses, such Buyer Indemnitee shall have all other rights and remedies available to it pursuant to this Agreement to recover the remaining amount directly from Seller.
+Following the twelve (12) month anniversary of the Closing Date, Buyer and Seller shall jointly instruct the Escrow Agent to release any remaining Escrow Amount in accordance with the terms of the Escrow Agreement.
+8.12     Sole Remedies.  
+The Parties hereto acknowledge and agree that except as provided in Section 7.6.3 and Section 9.10, and for claims based on an act of fraud, the indemnification provisions of this ARTICLE 8 shall be the sole and exclusive remedy for any item that is covered by such indemnification provisions.
+For the avoidance of doubt, the indemnification rights in Sections 8.2 and 8.3, subject to the limitations of this Agreement, shall apply to Third Party Claims as well as to disputes between the Parties.
+8.13     Allocation of Indemnification Payments.  
+Unless otherwise required by applicable Law, the Parties hereto agree that any indemnification payment pursuant to this Agreement shall be treated as an adjustment to the Purchase Price for Tax purposes and shall be allocated as set forth in Section 3.4.2.
+8.14     Subrogation.  
+Upon making any payment to an Indemnitee in respect of any Losses under this ARTICLE 8, the Indemnifying Party shall, to the extent of such payment, be subrogated to all rights of the Indemnitee and its Affiliates against any Third Party in respect of the Losses to which such payment relates.  
+Such Indemnitee and its Affiliates and the Indemnifying Party shall execute upon request all instruments reasonably necessary to evidence or further perfect such subrogation rights.
+48
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+ARTICLE 9    
+MISCELLANEOUS
+9.1       Expenses.  
+Except as otherwise set forth in this Agreement, each Party will pay, without right of reimbursement from any other, the costs incurred by such Party incident to the preparation and execution of this Agreement and performance of their respective obligations hereunder, whether or not the transactions contemplated by this Agreement are consummated, including the fees and disbursements of legal counsel, accountants and consultants employed by the respective Parties in connection with the transactions contemplated by this Agreement.
+9.2       Governing Law; Jurisdiction.  
+This Agreement (including the documents and instruments referred to herein) and the other Transaction Documents shall be governed by and interpreted in accordance with the laws of the State of Delaware without giving effect to any conflict of laws provisions.  
+The Parties hereto agree that the Court of Chancery of the State of Delaware (or if such court lacks subject matter jurisdiction, the jurisdiction of the courts of the state and federal courts of the State of Delaware) and any appellate court therefrom shall have exclusive jurisdiction over any dispute or controversy arising out of or relating to this Agreement, the other Transaction Documents or any Contemplated Transaction, and any judgment, determination, arbitration award, finding or conclusion reached or rendered in any court other than such court shall be null and void between the Parties.  
+Each Party hereby waives any right
+it may have to assert the doctrine of forum non conveniens or similar doctrine or to object to venue with respect to any proceeding brought in accordance with this section.
+9.3       WAIVER OF JURY TRIAL.  
+EACH PARTY HERETO IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION
+OR PROCEEDING RELATING TO THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS OR
+THE CONTEMPLATED TRANSACTIONS AND FOR ANY COUNTERCLAIM THEREIN.
+9.4       Notices.  
+All notices or other communications that are required or permitted under this Agreement will be in writing and delivered personally, sent by electronic mail (with request for assurance of receipt in a manner typical with respect to communications of that type), or sent by internationally-recognized overnight courier to the addresses below.  
+Any such communication will be deemed to have been given (a)
+when delivered, if personally delivered, (b) on the date of the electronic mail if sent before 5:00 p.m. local time on a Business Day, and on the following date if sent after 5:00 p.m. local time on a Business Day, and (c) on the second Business Day after dispatch, if sent by internationally-recognized overnight courier.  
+Unless otherwise specified in writing, the mailing addresses of the Parties shall be as described below.
+  
+  
+49
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+9.5       Independence of the Parties.  
+Neither Party is an agent, employee or representative of the other.  
+Neither Party shall have the authority to make any statements, representations or commitments of any kind, nor to take any action, which shall be binding on the other Party, except as may be explicitly authorized by the other Party in writing.  
+This Agreement shall not constitute, create or in any way be interpreted as a joint venture, partnership or formal business organization of any kind.
+9.6       Entire Agreement; Amendment and Waiver.  
+This Agreement, including the Exhibits, the Schedules and the Disclosure Schedules attached hereto, and the Confidentiality Agreement, each of which is hereby incorporated herein by reference, shall constitute the entire agreement and understanding of the Parties relating to the subject matter of this Agreement and supersedes all prior oral or written agreements, representations, understandings or arrangements between the Parties relating to the subject matter of this Agreement.  
+No amendment, supplement or other modification to any provision of this Agreement shall be binding unless in writing and signed by or on behalf of both Parties.  
+No waiver of any rights under this Agreement shall be effective unless in writing signed by or on behalf of the Party waiving such compliance.  
+Failure or delay by either Party in exercising or enforcing any provision, right or remedy under this Agreement shall not be deemed a waiver thereof, or a waiver of a breach or violation of any provision of this Agreement will not constitute or be construed as a waiver of any subsequent breach or violation of that provision or as a waiver of any breach or violation of any other provision of this Agreement.
+9.7       Headings; Construction; Certain Conventions.  
+The headings used in this Agreement have been inserted for convenience of reference only and do not define or limit the provisions hereof.  
+Unless otherwise expressly provided herein or the context of this Agreement otherwise requires, (a) words of any gender include each other gender, (b) words such as “herein”, “hereof”, and “hereunder” refer to this Agreement as a whole and not merely to the particular provision in which such words appear, (c) words using the singular will include the plural, and vice versa, (d)
+the words “include,” “includes” and “including” will be deemed to be followed by the phrase “but not limited to”, “without limitation”, “inter alia” or words of similar import, (e) the word “or” will be deemed to include the word “and” (e.g., “and/or”), (f) references to any Law, contract, instrument or other document shall mean such Law, contract, instrument or other document as amended, supplemented or otherwise modified from time to time, including by succession of comparable successor Law, (g) references to a Person or entity are also to its permitted successors and assigns and (h) references to “ARTICLE,” “Section,” “subsection”, “clause” or other subdivision, or to an Exhibit, Schedule or Disclosure Schedule, without reference to a document are to the specified provision or Exhibit, Schedule or Disclosure Schedule of this
+50
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+Agreement.  
+This Agreement will be construed as if it were drafted jointly by the Parties and shall not be strictly construed against either Party.  
+Whenever this Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified, and if any action is to be taken or given on or by a particular calendar day, and such calendar day is not a Business Day, then such action may be deferred until the next Business Day.
+9.8       Assignment.  
+The provisions of this Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and assigns; provided that this Agreement may not be assigned by either Party without the prior written consent of the other Party, except that any Party may freely assign this Agreement without the prior written consent of the other Party to one of its Affiliates or if such assignment occurs in connection with a sale of the RHOFADE Product or all or substantially all of its assets to which this Agreement relates to a Third Party, regardless of whether such sale is structured as an asset sale, merger, reorganization or similar transaction; provided,  further, that no assignment shall relieve the assigning Party of any of its obligations under this Agreement.  
+Any attempted assignment, transfer or delegation in violation of the foregoing shall be null and void.  
+Notwithstanding anything in this Section 9.8 to the contrary, no Disposition (as defined below) may be made to any Person unless (A)
+such Person (the “Transferee”) assumes any remaining Sales Milestones payments, all remaining Royalty payments, and any remaining Additional Ex-U.S. Consideration applicable to sales of the relevant Earnout Product to which the Disposition relates in the jurisdiction or market to which the Disposition relates and other obligations on the terms set forth in Section 3.1.2 and Section 3.1.3, and (B)
+Buyer remains responsible for the Purchase Price obligations under Section 3; provided that Seller shall not be entitled to payment of the same Sales Milestone by both Buyer and the Transferee, or payment of a Royalty by Buyer and the Transferee on the same sale of the Earnout Product.  
+“Disposition” for purposes of this Section 9.8 means any sale or assignment to any Third Party of all or a substantial portion of the rights pertaining to an  Earnout Product.
+9.9       Severability.  
+Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction.  
+If the final judgment of a court of competent jurisdiction declares that any term or provision hereof is invalid or unenforceable, the Parties agree that the court making such determination shall have the power to limit the term or provision, to delete specific words or phrases, or to replace any invalid or unenforceable term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Agreement shall be enforceable as so modified.  
+In the event such court does not exercise the power granted to it in the prior sentence, the Parties agree to replace such invalid or unenforceable term or provision with a valid and enforceable term or provision that shall achieve, to the extent possible, the economic, business and other purposes of such invalid or unenforceable term.
+9.10     Specific Performance.  
+Each Party acknowledges and agrees that the other Party would be irreparably damaged in the event any of the provisions of this Agreement are not performed in accordance with their specific terms or otherwise are breached.  
+Accordingly, each Party agrees that the other Party shall be entitled to seek an injunction or injunctions to prevent breaches of the provisions of this Agreement and to seek specific performance of this Agreement
+51
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+and the terms and provisions hereof in any action instituted in any court of the United States or any state thereof having jurisdiction over the Parties and the matter (subject to the provisions set forth in Section 9.2 above), in addition to any other remedy to which they may be entitled, at Law or in equity.
+9.11     Representation by Legal Counsel.  
+Each Party represents that it has been represented by legal counsel in connection with this Agreement and acknowledges that it has participated in the drafting.  
+In interpreting and applying the terms and provisions of this Agreement, the Parties agree that no presumption shall exist or be implied against the Party which drafted such terms and provisions.
+9.12     Counterparts; Effectiveness; Third Party Beneficiaries.  
+This Agreement may be executed in two (2) or more counterparts, including electronic counterparts, each of which shall be deemed to be an original but all of which together shall constitute one and the same instrument.  
+This Agreement shall become effective when each Party shall have received a counterpart hereof signed by the other Party.  
+No provisions of this Agreement is intended to confer any rights, benefits, remedies, obligations, or Liabilities hereunder upon any Person other than the Parties and their respective successors and assigns.
+[Signature Page Follows]
+  
+  
+52
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
+  
+IN WITNESS WHEREOF, the Parties have executed this Agreement by their duly authorized officers as of the Effective Date.
+  
+[Signature Page to Asset Purchase Agreement]
+certain identified information has been excluded from thIS exhibit because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+OMISSIONS ARE DESIGNATED
+[
+*
+**]
