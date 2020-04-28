@@ -1,0 +1,1200 @@
+T1	CompanyName 60 78	NOBLES PARENT INC.
+T2	CompanyName 80 115	DUCOMMUN LABARGE TECHNOLOGIES, INC.
+T4	CompanyName 117 137	DLT ACQUISITION, INC
+T3	CompanyName 143 176;177 208	LEVINE LEICHTMAN CAPITAL PARTNERS PRIVATE CAPITAL SOLUTIONS, L.P.
+T5	Date 267 282	October 8, 2019
+T7	Date 437 452	October 8, 2019
+T8	CompanyName 475 493	Nobles Parent Inc.
+T9	CompanyName 497 517	Delaware corporation
+T6	CompanyName 535 570	Ducommun LaBarge Technologies, Inc.
+T10	CompanyName 575 594	Arizona corporation
+T11	CompanyName 614 635	DLT Acquisition, Inc.
+T12	CompanyName 639 659	Delaware corporation
+T13	CompanyName 680 713;714 745	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T14	CompanyName 749 777	Delaware limited partnership
+T15	ClauseMention 998 1008	Article 12
+T17	ClauseDefinition 312 313	i
+T18	ClauseDefinition 323 331	EXHIBITS
+T16	ClauseDefinition 318 320	ii
+T19	ClauseDefinition 336 339	iii
+T20	ClauseDefinition 2275 2284	ARTICLE 1
+T21	ClauseDefinition 342 370	AGREEMENT AND PLAN OF MERGER
+T24	ClauseDefinition 2285 2295	THE MERGER
+T25	ClauseDefinition 2296 2308	1.01 Merger.
+T26	ClauseDefinition 2775 2788	1.02 Closing.
+T27	Other 2987 2996	9:00 a.m.
+T28	Other 3146 3156	12:01 a.m.
+T29	ClauseDefinition 3197 3217	1.03 Effective Time.
+T30	Other 3607 3650	Secretary of State of the State of Delaware
+T31	Other 3852 3895	Secretary of State of the State of Delaware
+T32	ClauseDefinition 4094 4121	1.04 Effects of the Merger.
+T33	ClauseDefinition 4691 4733	1.05 Certificate of Incorporation; Bylaws.
+T34	ClauseDefinition 5630 5658	1.06 Officers and Directors.
+T35	ClauseDefinition 6038 6070	1.07 Conversion of Common Stock.
+T36	ClauseDefinition 4782 4785	(a)
+T37	ClauseDefinition 5252 5255	(b)
+T38	ClauseDefinition 6071 6074	(a)
+T39	ClauseMention 6344 6359	Section 1.07(b)
+T40	ClauseDefinition 6490 6493	(i)
+T41	ClauseDefinition 6632 6636	(ii)
+T42	ClauseDefinition 6992 6995	(b)
+T43	ClauseDefinition 7458 7461	(c)
+T44	ClauseMention 8478 8493	Section 1.07(a)
+T45	ClauseMention 9209 9224	Section 1.07(c)
+T46	ClauseDefinition 9297 9300	(d)
+T47	ClauseDefinition 9894 9929	1.08 Treatment of Merger Sub Stock.
+T48	ClauseDefinition 10328 10341	1.09 Options.
+T49	Money 10072 10077	0.001
+T50	Money 10285 10290	0.001
+T51	ClauseDefinition 10758 10784	1.10 Merger Consideration.
+T52	ClauseDefinition 10785 10788	(a)
+T53	TermDefinition 10826 10854	Closing Merger Consideration
+T54	ClauseDefinition 10886 10889	(i)
+T55	Money 10891 10901	77,000,000
+T56	ClauseDefinition 10936 10940	(ii)
+T57	ClauseDefinition 10970 10975	(iii)
+T58	ClauseDefinition 11089 11093	(iv)
+T59	ClauseDefinition 11203 11206	(v)
+T60	ClauseDefinition 11230 11234	(vi)
+T61	ClauseDefinition 11273 11278	(vii)
+T62	ClauseDefinition 11316 11322	(viii)
+T63	ClauseDefinition 11370 11374	(ix)
+T64	ClauseDefinition 11410 11413	(b)
+T65	TermDefinition 11451 11489	Estimated Closing Merger Consideration
+T66	ClauseDefinition 11519 11522	(i)
+T67	ClauseDefinition 11553 11557	(ii)
+T68	ClauseDefinition 11591 11596	(iii)
+T69	ClauseDefinition 11714 11718	(iv)
+T70	ClauseDefinition 11832 11835	(v)
+T71	ClauseDefinition 11863 11867	(vi)
+T72	ClauseDefinition 11911 11916	(vii)
+T73	ClauseDefinition 11954 11960	(viii)
+T74	ClauseDefinition 12008 12012	(ix)
+T75	ClauseDefinition 12048 12051	(c)
+T76	ClauseDefinition 12517 12520	(i)
+T77	ClauseDefinition 12712 12716	(ii)
+T78	ClauseDefinition 12814 12817	(d)
+T79	ClauseDefinition 13217 13220	(e)
+T80	ClauseMention 13320 13332	Section 1.10
+T81	RegulationDocuments 13483 13499	non-U.S. Tax law
+T82	ClauseMention 13620 13635	Section 1.13(a)
+T83	TimePeriodLimitation 13742 13756	three (3) days
+T84	ClauseDefinition 14229 14277	1.11 Pre-Closing Estimates; Payments at Closing.
+T85	ClauseDefinition 14278 14281	(a)
+T86	TimePeriodLimitation 14295 14316	two (2) Business Days
+T87	ClauseDefinition 14406 14409	(i)
+T88	ClauseDefinition 14432 14436	(ii)
+T89	ClauseDefinition 14544 14547	(A)
+T90	ClauseDefinition 14618 14621	(B)
+T91	ClauseDefinition 14712 14715	(C)
+T92	ClauseDefinition 14838 14843	(iii)
+T93	ClauseDefinition 15156 15160	(iv)
+T94	ClauseDefinition 15205 15208	(b)
+T95	ClauseDefinition 17710 17739	1.12 Post-Closing Adjustment.
+T96	ClauseMention 15815 15830	Section 1.13(b)
+T97	Money 16036 16043	500,000
+T98	Money 16139 16148	1,500,000
+T99	CompanyName 16459 16502	American Stock Transfer & Trust Corporation
+T100	ClauseMention 16687 16702	Section 1.12(d)
+T101	ClauseMention 16754 16764	Article 10
+T102	Money 17521 17528	500,000
+T103	ClauseDefinition 17740 17743	(a)
+T104	TimePeriodLimitation 17793 17809	ninety (90) days
+T105	ClauseDefinition 17895 17896;17897 17899	( i)
+T106	ClauseDefinition 18028 18032	(ii)
+T107	ClauseDefinition 18072 18075	(A)
+T108	ClauseDefinition 18162 18165	(B)
+T109	ClauseDefinition 18233 18236	(C)
+T110	ClauseDefinition 18332 18335	(D)
+T111	RegulationDocuments 19103 19128	2018 Financial Statements
+T112	ClauseDefinition 19888 19891	(b)
+T113	ClauseMention 19976 19991	Section 1.12(a)
+T114	ClauseMention 20194 20209	Section 1.12(b)
+T115	TimePeriodLimitation 20502 20522	forty-five (45) days
+T116	TimePeriodLimitation 20827 20847	forty-five (45) days
+T117	CompanyName 20974 20984	RSM US LLP
+T118	TimePeriodLimitation 22310 22326	thirty (30) days
+T119	RegulationDocuments 22348 22386	The Federal Rules of Evidence Rule 408
+T120	TimePeriodLimitation 22470 22476	45-day
+T121	Money 23975 23980	1,000
+T122	Money 24078 24081	500
+T123	Money 24236 24239	300
+T124	Money 24248 24251	500
+T125	Money 24355 24358	300
+T126	Money 24362 24365	500
+T127	Money 24400 24403	200
+T128	Money 24407 24410	500
+T129	ClauseMention 24715 24730	Section 1.12(b)
+T130	ClauseDefinition 24877 24880	(c)
+T131	ClauseMention 25031 25046	Section 1.12(b)
+T132	TimePeriodLimitation 25191 25212	two (2) Business Days
+T133	ClauseMention 25383 25398	Section 1.12(b)
+T134	ClauseMention 25694 25709	Section 1.10(c)
+T135	TimePeriodLimitation 25962 25983	two (2) Business Days
+T136	ClauseMention 26283 26298	Section 1.10(c)
+T137	ClauseDefinition 26301 26304	(d)
+T138	ClauseMention 26455 26470	Section 1.12(b)
+T139	TimePeriodLimitation 26612 26633	two (2) Business Days
+T140	ClauseMention 26804 26819	Section 1.12(b)
+T141	TimePeriodLimitation 27059 27080	two (2) Business Days
+T142	ClauseDefinition 27167 27170	(A)
+T143	ClauseDefinition 27193 27196	(B)
+T144	ClauseMention 27500 27518	Section 1.12(d)(i)
+T145	ClauseMention 27585 27600	Section 1.10(c)
+T146	ClauseDefinition 15338 15341	(i)
+T147	ClauseDefinition 15667 15671	(ii)
+T148	ClauseDefinition 16001 16006	(iii)
+T149	ClauseDefinition 16820 16824	(iv)
+T150	ClauseDefinition 17385 17388	(v)
+T151	ClauseDefinition 25400 25403	(i)
+T152	ClauseDefinition 25722 25726	(ii)
+T153	ClauseDefinition 27131 27134	(i)
+T154	ClauseDefinition 27255 27259	(ii)
+T155	ClauseDefinition 27603 27606	(e)
+T156	TimePeriodLimitation 27796 27818	five (5) Business Days
+T157	ClauseDefinition 28046 28049	(f)
+T158	ClauseMention 28202 28214	Section 1.12
+T159	ClauseMention 28275 28287	Section 1.12
+T160	ClauseMention 28382 28394	Section 1.12
+T161	ClauseDefinition 28396 28423	1.13 Deliveries at Closing.
+T162	ClauseDefinition 28568 28571	(a)
+T163	RegulationDocuments 28753 28792	Treasury Regulation Sections 1.897-2(h)
+T164	RegulationDocuments 28797 28807	1.445-2(e)
+T165	ClauseDefinition 28892 28895	(b)
+T166	ClauseMention 29016 29032	Schedule 1.13(b)
+T167	ClauseDefinition 29493 29496	(c)
+T168	ClauseDefinition 29614 29617	(i)
+T169	Other 29703 29721	Secretary of State
+T170	TimePeriodLimitation 29773 29795	ten (10) Business Days
+T171	ClauseDefinition 29823 29827	(ii)
+T172	Other 29898 29916	Secretary of State
+T173	ClauseDefinition 29981 29986	(iii)
+T174	ClauseDefinition 30233 30236	(B)
+T175	ClauseDefinition 30139 30142	(A)
+T176	ClauseDefinition 30465 30468	(C)
+T177	ClauseDefinition 30518 30521	(D)
+T178	ClauseDefinition 30587 30591	(iv)
+T179	ClauseDefinition 30811 30814	(v)
+T180	ClauseDefinition 30867 30871	(vi)
+T181	ClauseDefinition 30974 30979	(vii)
+T182	ClauseDefinition 31053 31059	(viii)
+T183	ClauseDefinition 31362 31366	(ix)
+T184	ClauseMention 31430 31450	Schedule 1.13(c)(ix)
+T185	ClauseDefinition 31524 31527	(x)
+T186	ClauseMention 31687 31706	Schedule 1.13(c)(x)
+T187	ClauseDefinition 31708 31712	(xi)
+T188	ClauseMention 31723 31726	(i)
+T189	RegulationDocuments 31765 31777	Section 280G
+T190	ClauseMention 31817 31821	(ii)
+T191	ClauseMention 31890 31895	(iii)
+T192	ClauseMention 31966 31970	(iv)
+T193	ClauseDefinition 32092 32097	(xii)
+T194	CompanyName 32166 32199;32200 32231	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T195	CompanyName 32236 32244	NEFV LLC
+T196	CompanyName 32248 32282	Delaware limited liability company
+T197	CompanyName 32310 32343;32344 32375	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T198	ClauseDefinition 32386 32392	(xiii)
+T199	CompanyName 32481 32503	Nobles Worldwide, Inc.
+T200	ClauseMention 32545 32567	Schedule 1.13(c)(xiii)
+T201	ClauseDefinition 32648 32653	(xiv)
+T202	CompanyName 32721 32743	Nobles Worldwide, Inc.
+T203	ClauseMention 32785 32806	Schedule 1.13(c)(xiv)
+T204	ClauseDefinition 32812 32816	(xv)
+T205	ClauseDefinition 33060 33063	(d)
+T206	ClauseDefinition 33149 33152	(i)
+T207	ClauseDefinition 33362 33366	(ii)
+T208	ClauseDefinition 33577 33582	(iii)
+T209	ClauseMention 33810 33825	Section 1.13(a)
+T210	RegulationDocuments 33937 33961	Section 1445 of the Code
+T211	ClauseDefinition 33970 33979	ARTICLE 2
+T212	ClauseDefinition 33991 34000	ARTICLE 3
+T213	ClauseMention 34143 34152	Article 3
+T214	ClauseDefinition 34883 34911	3.01 Organization and Power.
+T215	ClauseMention 35684 35697	Schedule 3.01
+T216	ClauseDefinition 35845 35879	3.02 Capitalization; Subsidiaries.
+T217	ClauseDefinition 35880 35883	(a)
+T218	ClauseMention 35884 35900	Schedule 3.02(a)
+T219	ClauseDefinition 36197 36200	(b)
+T220	ClauseMention 36201 36217	Schedule 3.02(b)
+T221	ClauseMention 36708 36724	Schedule 3.02(b)
+T222	ClauseDefinition 36726 36729	(i)
+T223	ClauseDefinition 36846 36850	(ii)
+T224	ClauseDefinition 37027 37032	(iii)
+T225	ClauseDefinition 38135 38138	(c)
+T226	ClauseMention 38166 38182	Schedule 3.02(c)
+T227	TimePeriodLimitation 38256 38270	five (5) years
+T228	ClauseDefinition 38424 38427	(d)
+T229	ClauseMention 38455 38471	Schedule 3.02(d)
+T230	ClauseDefinition 38530 38589	3.03 Authorization; No Breach; Valid and Binding Agreement.
+T231	ClauseDefinition 38590 38593	(a)
+T232	ClauseDefinition 39051 39054	(b)
+T233	ClauseMention 39078 39094	Schedule 3.03(b)
+T234	ClauseDefinition 39487 39490	(i)
+T235	ClauseDefinition 39595 39599	(ii)
+T236	ClauseDefinition 39653 39658	(iii)
+T237	ClauseMention 39746 39762	Schedule 3.03(b)
+T238	ClauseDefinition 40144 40147	(c)
+T239	RegulationDocuments 41046 41061	bankruptcy Laws
+T240	ClauseDefinition 41224 41250	3.04 Financial Statements.
+T241	ClauseMention 41251 41264	Schedule 3.04
+T242	ClauseDefinition 41355 41358	(a)
+T243	Date 41432 41447	August 31, 2019
+T244	TimePeriodLimitation 41548 41555	8-month
+T245	ClauseDefinition 41579 41582	(b)
+T246	Date 41655 41672	December 31, 2018
+T247	ClauseDefinition 41790 41793	(c)
+T248	Date 41866 41883	December 31, 2017
+T249	ClauseDefinition 42518 42521	(x)
+T250	ClauseDefinition 42565 42568	(y)
+T251	TimePeriodLimitation 42665 42672	8-month
+T252	RegulationDocuments 42725 42768	Accounting Standards Codification Topic 605
+T253	RegulationDocuments 42770 42789	Revenue Recognition
+T254	RegulationDocuments 42825 42868	Accounting Standards Codification Topic 606
+T255	Date 42959 42974	January 1, 2019
+T256	ClauseDefinition 42976 43013	3.05 Absence of Certain Developments.
+T257	ClauseMention 43037 43050	Schedule 3.05
+T258	Date 43113 43127	April 30, 2019
+T259	ClauseDefinition 43154 43157	(a)
+T260	ClauseDefinition 43652 43655	(b)
+T261	ClauseDefinition 43797 43800	(c)
+T262	RegulationDocuments 43312 43337	2018 Financial Statements
+T264	ClauseDefinition 43905 43908	(d)
+T263	ClauseMention 44149 44165	Schedule 1.13(b)
+T265	ClauseDefinition 44167 44170	(e)
+T266	ClauseDefinition 44394 44397	(f)
+T267	ClauseDefinition 44575 44578	(g)
+T268	ClauseDefinition 44653 44656	(h)
+T269	ClauseDefinition 44794 44797	(i)
+T270	ClauseDefinition 44873 44876	(j)
+T271	ClauseDefinition 45214 45217	(k)
+T272	Money 45288 45294	25,000
+T273	ClauseDefinition 45328 45331	(l)
+T274	ClauseDefinition 45409 45412	(m)
+T275	Money 45492 45499	100,000
+T276	ClauseDefinition 45510 45513	(n)
+T277	ClauseDefinition 45514 45517	(i)
+T278	Money 45745 45752	100,000
+T279	ClauseDefinition 45947 45951	(ii)
+T280	ClauseDefinition 46051 46056	(iii)
+T281	ClauseDefinition 46237 46241	(iv)
+T282	ClauseDefinition 46324 46327	(v)
+T283	ClauseDefinition 46413 46416	(o)
+T284	ClauseDefinition 46796 46799	(p)
+T285	ClauseDefinition 47677 47680	(q)
+T286	ClauseDefinition 47773 47776	(r)
+T287	ClauseDefinition 47995 47998	(s)
+T288	ClauseDefinition 48315 48318	(t)
+T289	ClauseDefinition 48671 48674	(u)
+T290	ClauseDefinition 48990 48993	(v)
+T291	ClauseDefinition 49133 49136	(w)
+T292	ClauseDefinition 49164 49167	(x)
+T293	Money 49262 49268	25,000
+T294	ClauseDefinition 49307 49310	(y)
+T295	ClauseDefinition 49392 49395	(z)
+T296	ClauseDefinition 49499 49503	(aa)
+T297	ClauseDefinition 49602 49606	(bb)
+T298	ClauseDefinition 49725 49729	(cc)
+T299	ClauseDefinition 49806 49810	(dd)
+T300	ClauseDefinition 49899 49924	3.06 Title to Properties.
+T301	ClauseDefinition 49925 49928	(a)
+T302	ClauseMention 49952 49968	Schedule 3.06(a)
+T303	ClauseDefinition 50221 50224	(b)
+T304	ClauseDefinition 50717 50720	(c)
+T305	ClauseDefinition 51214 51217	(d)
+T306	ClauseMention 51218 51237	Schedule 3.06(d)(i)
+T307	ClauseDefinition 51401 51404	(i)
+T308	ClauseDefinition 51574 51578	(ii)
+T309	ClauseMention 51615 51635	Schedule 3.06(d)(ii)
+T310	ClauseDefinition 52795 52798	(e)
+T311	ClauseDefinition 52845 52862	3.07 Tax Matters.
+T312	ClauseMention 52886 52899	Schedule 3.07
+T313	ClauseDefinition 52901 52904	(a)
+T314	ClauseDefinition 53376 53379	(i)
+T315	Date 53395 53410	August 31, 2019
+T316	ClauseDefinition 53653 53657	(ii)
+T317	ClauseDefinition 54431 54434	(b)
+T318	TimePeriodLimitation 54675 54689	five (5) years
+T319	TimePeriodLimitation 55116 55130	five (5) years
+T320	ClauseDefinition 55473 55476	(c)
+T321	ClauseDefinition 55497 55500	(i)
+T322	ClauseDefinition 55665 55669	(ii)
+T323	RegulationDocuments 55722 55766	Section 1.1502-6 of the Treasury Regulations
+T324	ClauseDefinition 55985 55988	(d)
+T325	ClauseDefinition 56780 56783	(e)
+T326	TimePeriodLimitation 56925 56937	two (2)-year
+T327	RegulationDocuments 57051 57081	Section 355 or 361 of the Code
+T328	ClauseDefinition 57083 57086	(f)
+T329	ClauseDefinition 57149 57152	(g)
+T330	ClauseDefinition 57272 57275	(h)
+T331	RegulationDocuments 57389 57417	Section 6707A(c) of the Code
+T332	RegulationDocuments 57421 57460	Treasury Regulation Section 1.6011-4(b)
+T333	ClauseDefinition 57462 57465	(i)
+T334	RegulationDocuments 57556 57585	Section 897(c)(2) of the Code
+T335	RegulationDocuments 57629 57665	Section 897(c)(1)(A)(ii) of the Code
+T336	ClauseDefinition 57667 57670	(j)
+T337	ClauseDefinition 57892 57895	(i)
+T338	ClauseDefinition 58049 58053	(ii)
+T339	RegulationDocuments 58161 58185	Section 7121 of the Code
+T340	RegulationDocuments 58238 58261	Section 367 of the Code
+T341	ClauseDefinition 58375 58380	(iii)
+T342	RegulationDocuments 58469 58493	Section 1502 of the Code
+T343	ClauseDefinition 58559 58563	(iv)
+T344	ClauseDefinition 58649 58652	(v)
+T345	ClauseDefinition 58728 58732	(vi)
+T346	RegulationDocuments 58748 58774	Section 108(i) of the Code
+T347	ClauseDefinition 58776 58781	(vii)
+T348	RegulationDocuments 58835 58861	Section 956(c) of the Code
+T349	RegulationDocuments 58981 59007	Section 957(a) of the Code
+T350	ClauseDefinition 59010 59016	(viii)
+T351	ClauseDefinition 59120 59124	(ix)
+T352	RegulationDocuments 59151 59177	Section 965(h) of the Code
+T353	ClauseDefinition 59179 59182	(k)
+T354	ClauseDefinition 59551 59582	3.08 Contracts and Commitments.
+T355	ClauseDefinition 59583 59586	(a)
+T356	ClauseMention 59610 59626	Schedule 3.08(a)
+T357	ClauseDefinition 59728 59731	(i)
+T358	ClauseMention 59847 59859	Section 3.13
+T359	ClauseDefinition 59906 59910	(ii)
+T360	Money 60072 60079	100,000
+T361	ClauseDefinition 60090 60095	(iii)
+T362	ClauseDefinition 60281 60284;60285 60286	(iv )
+T363	ClauseDefinition 60421 60424	(v)
+T364	ClauseDefinition 60468 60472	(vi)
+T365	ClauseDefinition 60668 60673	(vii)
+T366	ClauseDefinition 60748 60754	(viii)
+T367	Money 60909 60915	50,000
+T368	ClauseDefinition 60917 60921	(ix)
+T369	ClauseDefinition 61045 61048	(x)
+T370	Money 61294 61300	75,000
+T371	TimePeriodLimitation 61321 61338	twelve (12)-month
+T372	ClauseDefinition 61394 61398	(xi)
+T373	TimePeriodLimitation 61583 61600	twelve (12)-month
+T374	Money 61694 61700	75,000
+T375	ClauseDefinition 61709 61714	(xii)
+T376	ClauseDefinition 61877 61883	(xiii)
+T377	ClauseDefinition 61905 61908	(A)
+T378	ClauseDefinition 62329 62332	(B)
+T379	Money 62539 62545	25,000
+T380	ClauseDefinition 62736 62741	(xiv)
+T381	ClauseDefinition 62821 62825	(xv)
+T382	ClauseDefinition 62950 62955	(xvi)
+T383	ClauseMention 62932 62948	Schedule 3.21(c)
+T384	ClauseDefinition 63107 63113	(xvii)
+T385	ClauseDefinition 63147 63154	(xviii)
+T386	ClauseDefinition 63317 63322	(xix)
+T387	ClauseDefinition 63394 63398	(xx)
+T388	ClauseDefinition 63458 63463	(xxi)
+T389	ClauseDefinition 63513 63519	(xxii)
+T390	ClauseDefinition 63570 63577	(xxiii)
+T391	ClauseDefinition 63587 63590	(A)
+T392	ClauseDefinition 63630 63633	(B)
+T393	ClauseDefinition 63740 63743	(C)
+T394	ClauseDefinition 63861 63867	(xxiv)
+T395	ClauseDefinition 63977 63980	(b)
+T396	ClauseDefinition 64045 64048	(i)
+T397	RegulationDocuments 64247 64262	bankruptcy Laws
+T398	ClauseDefinition 64425 64429	(ii)
+T399	TimePeriodLimitation 64471 64485	five (5) years
+T400	ClauseDefinition 64787 64792	(iii)
+T401	TimePeriodLimitation 64834 64848	five (5) years
+T402	ClauseDefinition 65231 65235	(iv)
+T403	TimePeriodLimitation 65252 65266	five (5) years
+T404	ClauseDefinition 65372 65375	(v)
+T405	ClauseDefinition 65554 65558	(vi)
+T406	ClauseDefinition 65671 65674	(c)
+T407	ClauseMention 65818 65834	Schedule 3.08(c)
+T408	ClauseDefinition 65836 65839	(d)
+T409	ClauseMention 65840 65856	Schedule 3.08(d)
+T410	RegulationDocuments 66578 66624	Industrial Security Regulation (DOD 5220.22-R)
+T411	RegulationDocuments 66633 66701	National Industrial Security Program Operating Manual, DOD 5220.22-M
+T412	ClauseDefinition 66703 66706	(e)
+T413	ClauseDefinition 66849 66852	(i)
+T414	ClauseDefinition 66853 66856	(A)
+T415	ClauseDefinition 66957 66960	(B)
+T416	ClauseDefinition 67114 67117	(C)
+T417	ClauseDefinition 67404 67407	(D)
+T418	ClauseDefinition 67542 67545	(E)
+T419	ClauseDefinition 67919 67922	(F)
+T420	ClauseDefinition 68185 68188	(G)
+T421	ClauseDefinition 68517 68520	(H)
+T422	ClauseDefinition 68903 68906	(I)
+T423	ClauseDefinition 69065 69069	(ii)
+T424	ClauseDefinition 69070 69073	(A)
+T425	TimePeriodLimitation 69212 69226	five (5) years
+T426	ClauseDefinition 69532 69535	(B)
+T427	TimePeriodLimitation 69552 69566	five (5) years
+T428	ClauseDefinition 69839 69844	(iii)
+T429	ClauseDefinition 70168 70172	(iv)
+T430	ClauseDefinition 70173 70176	(A)
+T431	ClauseDefinition 70373 70376	(B)
+T432	ClauseDefinition 70562 70565	(C)
+T433	ClauseDefinition 70844 70871	3.09 Intellectual Property.
+T434	ClauseDefinition 70872 70875	(a)
+T435	ClauseMention 70876 70892	Schedule 3.09(a)
+T436	ClauseDefinition 70981 70984	(i)
+T437	ClauseDefinition 71018 71022	(ii)
+T438	ClauseDefinition 71102 71107	(iii)
+T439	ClauseDefinition 71131 71135	(iv)
+T440	ClauseDefinition 71163 71166	(v)
+T441	ClauseMention 71378 71394	Schedule 3.09(a)
+T442	ClauseDefinition 71827 71830	(b)
+T443	ClauseMention 71854 71870	Schedule 3.09(b)
+T444	ClauseDefinition 71872 71875	(i)
+T445	ClauseDefinition 72009 72013	(ii)
+T446	TimePeriodLimitation 72145 72154;72155 72160	five (5)  years
+T447	ClauseDefinition 72330 72335	(iii)
+T448	ClauseDefinition 72396 72400	(iv)
+T449	TimePeriodLimitation 72616 72631	three (3) years
+T450	ClauseDefinition 72637 72640	(v)
+T451	ClauseDefinition 72853 72856	(c)
+T452	ClauseMention 72880 72896	Schedule 3.09(c)
+T453	ClauseDefinition 72898 72901	(i)
+T454	ClauseDefinition 73236 73240	(ii)
+T455	TimePeriodLimitation 73253 73267	five (5) years
+T456	ClauseDefinition 73547 73550	(d)
+T457	ClauseDefinition 74634 74637	(e)
+T458	ClauseMention 74661 74677	Schedule 3.09(b)
+T459	ClauseDefinition 74679 74682	(i)
+T460	ClauseDefinition 74892 74896	(ii)
+T461	ClauseDefinition 75065 75070	(iii)
+T462	ClauseDefinition 75877 75880	(f)
+T463	ClauseMention 76026 76042	Schedule 3.09(b)
+T464	ClauseDefinition 76116 76119	(i)
+T465	ClauseDefinition 76381 76385	(ii)
+T466	ClauseDefinition 76594 76597	(g)
+T467	TimePeriodLimitation 77209 77223	five (5) years
+T468	ClauseDefinition 77225 77228	(h)
+T469	ClauseDefinition 77831 77849	3.10 Data Privacy.
+T470	ClauseDefinition 77850 77853	(a)
+T471	TimePeriodLimitation 77870 77884	five (5) years
+T472	ClauseDefinition 78534 78537	(b)
+T473	TimePeriodLimitation 78604 78618	five (5) years
+T474	ClauseDefinition 79377 79380	(c)
+T475	ClauseDefinition 80575 80578	(d)
+T476	ClauseDefinition 81019 81035	3.11 Litigation.
+T477	ClauseMention 81059 81072	Schedule 3.11
+T478	TimePeriodLimitation 81103 81118	three (3) years
+T479	ClauseDefinition 81462 81489	3.12 Governmental Consents.
+T480	ClauseDefinition 81497 81500	(a)
+T481	ClauseDefinition 81546 81549	(b)
+T482	ClauseMention 81566 81579	Schedule 3.12
+T483	ClauseDefinition 81947 81975	3.13 Employee Benefit Plans.
+T484	ClauseDefinition 81976 81979	(a)
+T485	ClauseMention 82000 82016	Schedule 3.13(a)
+T486	ClauseMention 82432 82444	Section 3(3)
+T487	RegulationDocuments 82452 82499	Employee Retirement Income Security Act of 1974
+T488	ClauseDefinition 83064 83067	(b)
+T22	ClauseMention 83125 83139	Section 401(a)
+T23	RegulationDocuments 83728 83755	Section 406 or 407 of ERISA
+T489	RegulationDocuments 83759 83783	Section 4975 of the Code
+T490	ClauseDefinition 83887 83890	(c)
+T491	RegulationDocuments 84004 84059	Consolidation Omnibus Budget Reconciliation Act of 1985
+T492	ClauseDefinition 84587 84590	(d)
+T493	RegulationDocuments 84689 84713	Section 409A of the Code
+T494	RegulationDocuments 84782 84806	Section 409A of the Code
+T495	RegulationDocuments 84815 84835	Treasury Regulations
+T496	RegulationDocuments 84996 85020	Section 409A of the Code
+T497	ClauseDefinition 85022 85025	(e)
+T498	RegulationDocuments 86056 86080	Section 280G of the Code
+T499	RegulationDocuments 86156 86186	Section 280G(b)(5) of the Code
+T500	RegulationDocuments 86255 86287	Section 4999 or 409A of the Code
+T501	ClauseDefinition 86296 86299	(f)
+T502	RegulationDocuments 86421 86438	Title IV of ERISA
+T503	RegulationDocuments 86632 86649	Title IV of ERISA
+T504	RegulationDocuments 86653 86669	Code Section 412
+T505	TimePeriodLimitation 86681 86694	five (5)-year
+T506	RegulationDocuments 86879 86901	Section 3(37) of ERISA
+T507	TimePeriodLimitation 87096 87109	five (5)-year
+T508	ClauseDefinition 87162 87165	(g)
+T509	ClauseDefinition 87440 87443	(h)
+T510	ClauseDefinition 87559 87562	(i)
+T511	ClauseDefinition 87668 87672	(ii)
+T512	ClauseDefinition 87782 87787	(iii)
+T513	RegulationDocuments 87799 87808	Form 5500
+T514	ClauseDefinition 87838 87842	(iv)
+T515	ClauseDefinition 87991 87994	(v)
+T516	ClauseDefinition 88029 88033	(vi)
+T517	ClauseDefinition 88303 88308	(vii)
+T518	ClauseDefinition 88518 88521	(i)
+T519	ClauseMention 88545 88561	Schedule 3.13(i)
+T520	ClauseDefinition 88763 88789	3.14 Labor and Employment.
+T521	ClauseDefinition 88790 88793	(a)
+T522	ClauseMention 88794 88810	Schedule 3.14(a)
+T523	Date 88954 88972	September 29, 2019
+T524	RegulationDocuments 89286 89310	Fair Labor Standards Act
+T525	ClauseDefinition 89354 89357	(b)
+T526	ClauseMention 89577 89593	Schedule 3.14(b)
+T527	ClauseDefinition 89595 89598	(i)
+T528	ClauseDefinition 89799 89803	(ii)
+T529	ClauseDefinition 89973 89978	(iii)
+T530	ClauseDefinition 90273 90276	(c)
+T531	RegulationDocuments 90765 90789	Fair Labor Standards Act
+T532	RegulationDocuments 91143 91177	Immigration Reform and Control Act
+T533	ClauseDefinition 91180 91183	(d)
+T534	ClauseDefinition 91451 91454	(e)
+T535	ClauseDefinition 92035 92038	(f)
+T536	TimePeriodLimitation 92051 92064	two (2) years
+T537	ClauseDefinition 92319 92322	(g)
+T538	TimePeriodLimitation 93091 93106	three (3) years
+T539	ClauseDefinition 93115 93118	(h)
+T540	TimePeriodLimitation 93419 93434	three (3) years
+T541	ClauseDefinition 93611 93614	(i)
+T542	ClauseDefinition 93749 93752	(j)
+T543	ClauseMention 93753 93769	Schedule 3.14(j)
+T544	TimePeriodLimitation 93903 93918	ninety (90)-day
+T545	ClauseDefinition 93954 93969	3.15 Insurance.
+T546	ClauseDefinition 93970 93973	(a)
+T547	ClauseMention 93974 93990	Schedule 3.15(a)
+T548	ClauseDefinition 94602 94605	(b)
+T549	ClauseMention 94629 94645	Schedule 3.15(b)
+T550	TimePeriodLimitation 95063 95078	three (3) years
+T551	ClauseMention 95277 95280	(a)
+T552	TimePeriodLimitation 95338 95352	five (5) years
+T553	ClauseMention 95520 95523	(b)
+T554	ClauseDefinition 95589 95592	(c)
+T555	ClauseMention 95616 95632	Schedule 3.15(c)
+T556	TimePeriodLimitation 96084 96099	three (3) years
+T557	ClauseDefinition 96241 96276	3.16 Compliance with Laws; Permits.
+T558	ClauseDefinition 96277 96280	(a)
+T559	TimePeriodLimitation 96323 96338	three (3) years
+T560	TimePeriodLimitation 96428 96443	three (3) years
+T561	ClauseDefinition 96638 96641	(b)
+T562	ClauseMention 96950 96966	Schedule 3.16(b)
+T563	ClauseDefinition 97007 97034	3.17 Environmental Matters.
+T564	ClauseMention 97058 97071	Schedule 3.17
+T565	ClauseDefinition 97073 97076	(a)
+T566	TimePeriodLimitation 97120 97134	five (5) years
+T567	ClauseDefinition 97232 97235	(b)
+T568	TimePeriodLimitation 97534 97548	five (5) years
+T569	ClauseMention 97750 97766	Schedule 3.16(b)
+T570	ClauseDefinition 97839 97842	(c)
+T571	ClauseDefinition 98446 98449	(d)
+T572	ClauseDefinition 98672 98675	(e)
+T573	ClauseDefinition 98944 98947	(f)
+T574	ClauseDefinition 99190 99193	(g)
+T575	ClauseDefinition 99350 99353	(h)
+T576	ClauseDefinition 99736 99765	3.18 Affiliated Transactions.
+T577	ClauseDefinition 99766 99769	(a)
+T578	ClauseMention 99793 99809	Schedule 3.18(a)
+T579	Date 99961 99976	January 1, 2018
+T580	Date 100069 100084	January 1, 2018
+T581	ClauseDefinition 100178 100181	(b)
+T582	ClauseMention 100205 100221	Schedule 3.18(b)
+T583	Date 100229 100244	January 1, 2018
+T584	ClauseMention 100267 100270	(a)
+T585	ClauseMention 100359 100362	(b)
+T586	ClauseDefinition 100501 100541	3.19 Absence of Undisclosed Liabilities.
+T587	ClauseDefinition 100978 100981	(a)
+T588	ClauseDefinition 101096 101099	(b)
+T589	ClauseDefinition 101200 101203	(c)
+T590	ClauseDefinition 101512 101515	(d)
+T591	Money 101565 101571	10,000
+T592	Money 101591 101598	100,000
+T593	ClauseDefinition 101617 101642	3.20 Accounts Receivable.
+T594	ClauseDefinition 101643 101646	(a)
+T595	ClauseMention 101768 101771	(a)
+T596	ClauseMention 102068 102071	(b)
+T597	ClauseMention 102321 102337	Schedule 3.20(a)
+T598	ClauseDefinition 102702 102705	(b)
+T599	ClauseMention 102729 102745	Schedule 3.20(b)
+T600	ClauseDefinition 102979 103019	3.21 Trade & Anti-Corruption Compliance.
+T601	ClauseDefinition 103020 103023	(a)
+T602	TimePeriodLimitation 103162 103176	five (5) years
+T603	ClauseDefinition 103183 103186	(i)
+T604	ClauseDefinition 103208 103212	(ii)
+T605	ClauseDefinition 103491 103496	(iii)
+T606	RegulationDocuments 103562 103581	Export Control Laws
+T607	ClauseDefinition 103708 103711	(b)
+T608	TimePeriodLimitation 103724 103738	five (5) years
+T609	ClauseDefinition 103918 103921	(i)
+T610	ClauseDefinition 104033 104037	(ii)
+T611	ClauseDefinition 104141 104146	(iii)
+T612	ClauseDefinition 104292 104296	(iv)
+T613	ClauseMention 104672 104675	(i)
+T614	ClauseMention 104691 104695	(iv)
+T615	ClauseMention 104704 104719	Section 3.21(b)
+T616	RegulationDocuments 104747 104767	Anti-Corruption Laws
+T617	ClauseDefinition 104769 104772	(c)
+T618	ClauseMention 104796 104812	Schedule 3.21(c)
+T619	TimePeriodLimitation 104862 104876	five (5) years
+T620	ClauseDefinition 105103 105130	3.22 Customers and Vendors.
+T621	ClauseMention 105131 105147	Schedule 3.22(a)
+T622	TimePeriodLimitation 105210 105227	twelve (12)-month
+T623	ClauseMention 105361 105377	Schedule 3.22(b)
+T624	TimePeriodLimitation 105442 105459	twelve (12)-month
+T625	Date 105564 105579	January 1, 2019
+T626	ClauseMention 105624 105640	Schedule 3.22(a)
+T627	ClauseMention 106078 106094	Schedule 3.22(b)
+T628	ClauseDefinition 106886 106900	3.23 Products.
+T629	ClauseMention 106924 106937	Schedule 3.23
+T630	ClauseDefinition 106939 106942	(a)
+T631	ClauseDefinition 107285 107288	(b)
+T632	ClauseDefinition 107496 107499	(c)
+T633	ClauseDefinition 107844 107885	3.24 Products Liability; Product Recalls.
+T634	TimePeriodLimitation 108515 108525;108526 108531	three (3)  years
+T635	ClauseDefinition 108900 108915	3.25 Inventory.
+T636	ClauseDefinition 108916 108919	(a)
+T637	TimePeriodLimitation 109655 109669	five (5) years
+T638	ClauseDefinition 110191 110194	(b)
+T639	ClauseMention 110218 110234	Schedule 3.25(b)
+T640	ClauseDefinition 110504 110507	(c)
+T641	ClauseMention 110508 110524	Schedule 3.25(c)
+T642	TimePeriodLimitation 110641 110656	three (3) years
+T643	ClauseDefinition 110770 110785	3.26 Brokerage.
+T644	ClauseMention 110809 110822	Schedule 3.26
+T645	ClauseDefinition 111060 111090	3.27 NO OTHER REPRESENTATIONS.
+T646	ClauseMention 111165 111174	ARTICLE 3
+T647	ClauseMention 111482 111491	ARTICLE 5
+T648	ClauseDefinition 111727 111736	ARTICLE 4
+T649	ClauseDefinition 111748 111757	ARTICLE 5
+T650	ClauseDefinition 111937 111965	5.01 Organization and Power.
+T651	Location 112082 112089	Arizona
+T652	Location 112208 112216	Delaware
+T653	ClauseDefinition 112337 112396	5.02 Authorization; No Breach; Valid and Binding Agreement.
+T654	ClauseDefinition 112397 112400	(a)
+T655	ClauseDefinition 112870 112873	(b)
+T656	ClauseDefinition 113254 113257	(i)
+T657	ClauseDefinition 113301 113305	(ii)
+T658	ClauseDefinition 113457 113462	(iii)
+T659	ClauseDefinition 113726 113729	(c)
+T660	RegulationDocuments 114078 114093	bankruptcy Laws
+T661	ClauseDefinition 114256 114283	5.03 Governmental Consents.
+T662	ClauseDefinition 114683 114699	5.04 Litigation.
+T663	ClauseDefinition 115219 115234	5.05 Brokerage.
+T664	ClauseDefinition 115478 115493	5.06 Financing.
+T665	ClauseDefinition 115641 115644	(A)
+T666	ClauseDefinition 116177 116180	(B)
+T667	ClauseDefinition 116333 116347	5.07 Solvency.
+T668	ClauseMention 116405 116414	Article 3
+T669	ClauseMention 116835 116844	Article 3
+T670	ClauseDefinition 117317 117347	5.08 NO OTHER REPRESENTATIONS.
+T671	ClauseMention 117422 117431	ARTICLE 5
+T672	ClauseMention 117809 117818	ARTICLE 5
+T673	ClauseDefinition 118072 118081	ARTICLE 6
+T674	ClauseDefinition 118093 118102	ARTICLE 7
+T675	ClauseDefinition 118130 118163	7.01 Access to Books and Records.
+T676	ClauseDefinition 118929 118932	(i)
+T677	ClauseDefinition 118962 118966	(ii)
+T678	ClauseDefinition 119142 119198	7.02 Director and Officer Liability and Indemnification.
+T679	ClauseDefinition 119199 119202	(a)
+T680	TimePeriodLimitation 119219 119232	six (6) years
+T681	ClauseDefinition 120014 120017	(b)
+T682	ClauseMention 120071 120083	Section 7.02
+T683	ClauseDefinition 120248 120251	(i)
+T684	ClauseDefinition 121310 121314	(ii)
+T685	ClauseMention 122155 122170	Section 7.02(b)
+T686	ClauseDefinition 122632 122635	(c)
+T687	TimePeriodLimitation 122960 122973	six (6) years
+T688	ClauseDefinition 123474 123477	(d)
+T689	ClauseDefinition 123581 123584	(i)
+T690	ClauseDefinition 123738 123742	(ii)
+T691	ClauseMention 123992 124004	Section 7.02
+T692	ClauseDefinition 124006 124009	(e)
+T693	ClauseMention 124107 124119	Section 7.02
+T694	ClauseDefinition 124232 124254	7.03 Employee Matters.
+T695	RegulationDocuments 124864 124872	WARN Act
+T696	ClauseDefinition 125091 125100	ARTICLE 8
+T697	ClauseDefinition 125112 125121	ARTICLE 9
+T698	ClauseDefinition 125143 125160	9.01 Tax Matters.
+T699	ClauseDefinition 125161 125164	(a)
+T700	ClauseDefinition 125290 125293	(i)
+T701	ClauseMention 125743 125752	Article 9
+T702	ClauseDefinition 125758 125762	(ii)
+T703	ClauseDefinition 126413 126416	(b)
+T704	ClauseDefinition 127081 127084	(c)
+T705	RegulationDocuments 127407 127460	Internal Revenue Service Notices 2001-16 and 2008-111
+T706	ClauseDefinition 127462 127476	9.02 Survival.
+T707	ClauseDefinition 127477 127480	(a)
+T708	TimePeriodLimitation 127822 127839	twenty (20) years
+T709	ClauseMention 127890 127902	Section 9.02
+T710	ClauseDefinition 128493 128496	(b)
+T711	ClauseMention 129334 129346	Section 9.02
+T712	ClauseMention 130429 130441	Section 9.02
+T713	ClauseDefinition 131310 131313	(c)
+T714	ClauseMention 131506 131518	Section 9.02
+T715	ClauseDefinition 131519 131522	(i)
+T716	TimePeriodLimitation 131644 131661	twenty (20) years
+T717	ClauseMention 131748 131760	Section 9.02
+T718	ClauseDefinition 131766 131770	(ii)
+T719	ClauseMention 131917 131929	Section 9.02
+T720	ClauseDefinition 132040 132060	9.03 Acknowledgment.
+T721	ClauseDefinition 132061 132064	(a)
+T722	ClauseMention 132301 132310	Article 3
+T723	ClauseMention 132420 132432	Section 1.13
+T724	CompanyName 132645 132673	Houlihan Lokey Capital, Inc.
+T725	ClauseMention 133126 133135	Article 3
+T726	ClauseDefinition 133451 133454	(i)
+T727	ClauseMention 133545 133554	Article 3
+T728	ClauseDefinition 133972 133976	(ii)
+T729	ClauseDefinition 134373 134378	(iii)
+T730	ClauseDefinition 134531 134534	(A)
+T731	ClauseMention 134752 134761	Article 3
+T732	ClauseDefinition 135098 135101	(B)
+T733	ClauseDefinition 135642 135645	(x)
+T734	ClauseMention 135688 135693	(iii)
+T735	ClauseDefinition 135737 135740	(y)
+T736	ClauseMention 135851 135854	(i)
+T737	ClauseMention 135859 135863	(ii)
+T738	ClauseMention 136699 136708	Article 3
+T739	ClauseDefinition 136859 136862	(b)
+T740	ClauseMention 137686 137695	Article 3
+T741	ClauseDefinition 137727 137730	(i)
+T742	ClauseDefinition 137903 137907	(ii)
+T743	ClauseDefinition 137981 137986	(iii)
+T744	ClauseDefinition 138058 138062	(iv)
+T745	ClauseDefinition 138289 138292	(c)
+T746	ClauseMention 138922 138934	Section 9.03
+T747	ClauseDefinition 139599 139602	(d)
+T748	ClauseMention 139807 139823	Section 9.03 (i)
+T749	TimePeriodLimitation 139945 139962	twenty (20) years
+T750	ClauseMention 139993 140005	Section 9.02
+T751	ClauseMention 140011 140015	(ii)
+T752	ClauseMention 140141 140153	Section 9.03
+T753	ClauseDefinition 140273 140294	9.04 Confidentiality.
+T754	Date 140415 140427	July 1, 2019
+T755	ClauseDefinition 140559 140583	9.05 Further Assurances.
+T756	ClauseDefinition 141007 141054	9.06 Provision Respecting Legal Representation.
+T757	CompanyName 141218 141230	Honigman LLP
+T758	ClauseDefinition 144152 144191	9.07 Press Releases and Communications.
+T759	ClauseDefinition 144932 144935	(a)
+T760	ClauseDefinition 145412 145415	(b)
+T761	ClauseMention 145981 145993	Section 9.07
+T762	ClauseDefinition 146063 146086	9.08 Dataroom Delivery.
+T763	TimePeriodLimitation 146094 146107	five (5) days
+T764	Other 146457 146467	11:59 p.m.
+T765	TimePeriodLimitation 146488 146507	second Business Day
+T766	ClauseDefinition 146552 146562	ARTICLE 10
+T767	ClauseDefinition 146604 146651	10.01 Specified Warranty Claim Indemnification.
+T768	ClauseDefinition 146652 146655	(a)
+T769	ClauseMention 146808 146818	Article 10
+T770	ClauseMention 147804 147821	Schedule 10.01(a)
+T771	ClauseDefinition 147860 147863	(b)
+T772	ClauseDefinition 147896 147899	(i)
+T773	Money 147911 147918	500,000
+T774	ClauseMention 147941 147957	Section 10.01(a)
+T775	Money 148025 148032	500,000
+T776	ClauseMention 148055 148071	Section 10.01(a)
+T777	Money 148287 148294	750,000
+T778	ClauseMention 148317 148333	Section 10.01(a)
+T779	Money 148497 148504	500,000
+T780	Money 148575 148582	600,000
+T781	ClauseMention 148646 148656	Article 10
+T782	Money 148715 148722	350,000
+T783	Money 148806 148813	600,000
+T784	Money 148872 148879	500,000
+T785	Money 148894 148901	600,000
+T786	Money 148942 148949	600,000
+T787	Money 148961 148968	250,000
+T788	Money 148991 148998	100,000
+T789	Money 149021 149028	600,000
+T790	Money 149062 149069	100,000
+T791	Money 149095 149104	1,000,000
+T792	ClauseMention 149133 149149	Section 10.01(a)
+T793	ClauseDefinition 149152 149156	(ii)
+T794	ClauseMention 149290 149306	Section 10.01(a)
+T795	ClauseMention 149442 149458	Section 10.01(a)
+T796	Money 149468 149477	1,500,000
+T797	ClauseMention 149510 149530	Section 10.01(b)(ii)
+T798	ClauseDefinition 149591 149596	(iii)
+T799	ClauseMention 149679 149695	Section 10.01(a)
+T800	ClauseMention 149783 149799	Section 10.01(a)
+T801	ClauseMention 150014 150035	Section 10.01(b)(iii)
+T802	ClauseDefinition 150089 150093	(iv)
+T803	ClauseMention 150164 150174	Article 10
+T804	Other 150224 150234	11:59 p.m.
+T805	ClauseMention 150557 150567	Article 10
+T806	ClauseMention 150731 150741	Article 10
+T807	ClauseDefinition 150743 150746	(v)
+T808	ClauseDefinition 151010 151014	(vi)
+T809	ClauseDefinition 151190 151193	(c)
+T810	ClauseMention 151328 151338	Article 10
+T811	ClauseDefinition 151943 151946	(i)
+T812	ClauseDefinition 152173 152177	(ii)
+T813	ClauseDefinition 152474 152479	(iii)
+T814	ClauseDefinition 152769 152772	(d)
+T815	TimePeriodLimitation 153144 153167	three (3) Business Days
+T816	ClauseDefinition 153633 153636	(i)
+T817	ClauseDefinition 153885 153889	(ii)
+T818	ClauseMention 154268 154278	Article 10
+T819	ClauseDefinition 154949 154973	10.02 Manner of Payment.
+T820	ClauseMention 155019 155029	Article 10
+T821	ClauseDefinition 155172 155190	10.03 Subrogation.
+T822	ClauseDefinition 155194 155197	(a)
+T823	ClauseDefinition 155311 155314	(b)
+T824	ClauseMention 156178 156191	Section 10.03
+T825	ClauseDefinition 156193 156252	10.04 Release of Funds in Specified Warranty Claim Account.
+T826	ClauseDefinition 156323 156326	(a)
+T827	Other 156341 156350	2:00 p.m.
+T828	TimePeriodLimitation 156388 156412	first (1st) Business Day
+T829	TimePeriodLimitation 156427 156450	third (3rd) anniversary
+T830	TimePeriodLimitation 157263 157287	fourth (4th) anniversary
+T831	TimePeriodLimitation 150255 150279	fourth (4th) anniversary
+T832	ClauseMention 156803 156817	Schedule 10.04
+T833	Money 156874 156878	0.00
+T834	ClauseDefinition 156889 156892	(i)
+T835	Money 156894 156901	750,000
+T836	ClauseDefinition 156909 156913	(ii)
+T837	ClauseDefinition 157028 157033	(iii)
+T838	ClauseDefinition 157159 157162	(b)
+T839	Other 157177 157186	2:00 p.m.
+T840	TimePeriodLimitation 157224 157248	first (1st) Business Day
+T841	ClauseMention 157632 157646	Schedule 10.04
+T842	Money 157703 157707	0.00
+T843	ClauseDefinition 157718 157721	(i)
+T844	ClauseDefinition 157810 157814	(ii)
+T845	ClauseDefinition 157944 157947	(c)
+T846	ClauseDefinition 158151 158161	ARTICLE 11
+T847	ClauseDefinition 158189 158265	11.01 Authorization of the Stockholder Representative; Inability to Perform.
+T848	ClauseDefinition 158266 158269	(a)
+T849	ClauseMention 158784 158797	Section 11.01
+T850	ClauseMention 158843 158856	Section 11.01
+T851	ClauseDefinition 159138 159141	(b)
+T852	ClauseMention 159690 159700	Article 11
+T853	ClauseDefinition 159766 159769	(i)
+T854	ClauseDefinition 160186 160190	(ii)
+T855	ClauseDefinition 160398 160403	(iii)
+T856	ClauseDefinition 160556 160560	(iv)
+T857	ClauseMention 160647 160663	Section 11.02(b)
+T858	ClauseDefinition 160919 160922	(v)
+T859	ClauseDefinition 161239 161242	(A)
+T860	ClauseDefinition 161552 161555	(B)
+T861	ClauseDefinition 161592 161595	(C)
+T862	ClauseDefinition 162177 162180	(D)
+T863	ClauseDefinition 162293 162296	(E)
+T864	ClauseDefinition 162391 162394	(F)
+T865	ClauseDefinition 162559 162562	(G)
+T866	ClauseMention 162666 162678	Section 1.12
+T867	ClauseDefinition 162714 162717	(H)
+T868	ClauseDefinition 163020 163024	(vi)
+T869	ClauseDefinition 163192 163197	(vii)
+T870	ClauseDefinition 163417 163423	(viii)
+T871	ClauseMention 163894 163913	Section 11.01(b)(i)
+T872	ClauseMention 163922 163943	Section 11.01(b)(vii)
+T873	ClauseDefinition 164029 164032	(c)
+T874	ClauseDefinition 164283 164286	(d)
+T875	ClauseDefinition 164762 164765	(e)
+T876	ClauseDefinition 165154 165157	(f)
+T877	CompanyName 165306 165339;165340 165371	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T878	CompanyName 165910 165975	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T879	CompanyName 166226 166291	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T880	ClauseDefinition 166843 166923	11.02 Representative Expense Amount; Post-Closing Disbursements to Stockholders.
+T881	ClauseDefinition 166924 166927	(a)
+T882	ClauseMention 167156 167166	Article 11
+T883	ClauseDefinition 167573 167576	(b)
+T884	ClauseDefinition 167913 167945	11.03 Compensation; Exculpation.
+T885	ClauseDefinition 167946 167949	(a)
+T886	ClauseDefinition 168298 168301	(b)
+T887	ClauseDefinition 170427 170430	(c)
+T888	ClauseMention 170523 170536	Section 11.01
+T889	ClauseDefinition 171541 171544	(d)
+T890	ClauseMention 171727 171740	Section 11.02
+T891	ClauseDefinition 171742 171745	(e)
+T892	ClauseMention 171990 172003	Section 11.03
+T893	ClauseDefinition 172005 172015	ARTICLE 12
+T894	ClauseDefinition 172028 172046	12.01 Definitions.
+T895	TermDefinition 172158 172179	Accounting Principles
+T896	TermDefinition 172194 172212	Acquired Companies
+T897	TermDefinition 172277 172289	Actual Fraud
+T898	ClauseDefinition 172302 172305	(i)
+T899	ClauseMention 172359 172368	Article 3
+T900	ClauseDefinition 172390 172394	(ii)
+T901	ClauseDefinition 172476 172481	(iii)
+T902	ClauseDefinition 172569 172573	(iv)
+T903	TermDefinition 172678 172687	Affiliate
+T904	TermDefinition 172888 172895	control
+T905	TermDefinition 173218 173234	Affiliated Group
+T906	RegulationDocuments 173276 173300	Section 1504 of the Code
+T907	TermDefinition 173435 173465	Aggregate Merger Consideration
+T908	ClauseDefinition 173487 173490	(i)
+T909	ClauseDefinition 173540 173544	(ii)
+T910	ClauseMention 173615 173627	Section 1.12
+T911	ClauseMention 173629 173641	Section 9.01
+T912	ClauseMention 173649 173665	Section 11.02(b)
+T913	TermDefinition 173668 173688	Anti-Corruption Laws
+T914	RegulationDocuments 173761 173803	U.S. Foreign Corrupt Practices Act of 1977
+T915	RegulationDocuments 173821 173878	Canada Corruption of Foreign Public Officials Act of 1999
+T916	RegulationDocuments 173922 173937	OECD Convention
+T917	RegulationDocuments 174031 174050	UK Bribery Act 2010
+T918	TermDefinition 174150 174158	Business
+T919	TermDefinition 174320 174332	Business Day
+T920	TermDefinition 174472 174488	Calculation Time
+T921	Other 174496 174506	12:01 a.m.
+T922	TermDefinition 174542 174546	Cash
+T923	ClauseDefinition 174814 174817	(i)
+T924	ClauseDefinition 174883 174887	(ii)
+T925	TermDefinition 175051 175080	Closing Accounting Principles
+T926	ClauseDefinition 175088 175091	(a)
+T927	ClauseDefinition 175122 175125	(b)
+T928	RegulationDocuments 175193 175218	2018 Financial Statements
+T929	ClauseMention 175259 175262	(b)
+T930	ClauseMention 175301 175304	(a)
+T931	RegulationDocuments 175371 175420	Accounting Standards Codification (ASC)
+Topic 606
+T934	TermDefinition 175510 175514	Code
+T935	RegulationDocuments 175526 175555	Internal Revenue Code of 1986
+T933	RegulationDocuments 175486 175499	ASC Topic 842
+T936	TermDefinition 175570 175601	commercially reasonable efforts
+T937	TermDefinition 175793 175805	Common Stock
+T938	Money 175937 175941	0.01
+T939	TermDefinition 175954 175967	Company Group
+T940	TermDefinition 176218 176226	Contract
+T932	TermDefinition 176640 176654	Current Assets
+T941	RegulationDocuments 175371 175410;175411 175420	Accounting Standards Codification (ASC) Topic 606
+T942	TermDefinition 177142 177161	Current Liabilities
+T943	TermDefinition 177692 177713	Debt Financing Source
+T944	TermDefinition 178247 178251	DGCL
+T945	TermDefinition 178310 178336	Environmental Requirements
+T946	TermDefinition 179016 179031	ERISA Affiliate
+T947	RegulationDocuments 179296 179339	Section 414(b), (c), (m) or (o) of the Code
+T948	TermDefinition 179342 179361	Export Control Laws
+T949	RegulationDocuments 179451 179489	U.S. Export Administration Regulations
+T950	TermDefinition 179492 179508	Flow Thru Entity
+T951	ClauseDefinition 179516 179519	(i)
+T952	ClauseDefinition 179618 179622	(ii)
+T953	RegulationDocuments 179680 179703	Section 957 of the Code
+T954	ClauseDefinition 179708 179713	(iii)
+T955	RegulationDocuments 179775 179799	Section 1297 of the Code
+T956	TermDefinition 179809 179813	GAAP
+T957	TermDefinition 179878 179882	GDPR
+T958	Location 179821 179834	United States
+T959	RegulationDocuments 179894 179942	General Data Protection Regulation (EU) 2016/679
+T960	Location 179989 180003	European Union
+T961	TermDefinition 180038 180057	Government Contract
+T962	TermDefinition 180376 180398	Governmental Authority
+T963	ClauseDefinition 180410 180413	(i)
+T964	ClauseDefinition 180426 180430	(ii)
+T965	ClauseDefinition 180601 180606	(iii)
+T966	ClauseMention 180805 180814	(i)-(iii)
+T967	TermDefinition 180912 180931	Hazardous Substance
+T968	ClauseDefinition 180962 180965	(i)
+T969	ClauseDefinition 181100 181104	(ii)
+T970	ClauseDefinition 181169 181174	(iii)
+T971	ClauseDefinition 181267 181271	(iv)
+T972	ClauseDefinition 181393 181396	(v)
+T973	TermDefinition 181452 181464	Indebtedness
+T974	ClauseDefinition 181557 181560	(i)
+T975	ClauseDefinition 181658 181662	(ii)
+T976	ClauseDefinition 181941 181946	(iii)
+T977	ClauseDefinition 182228 182232	(iv)
+T978	ClauseDefinition 182300 182303	(v)
+T979	ClauseDefinition 182784 182788	(vi)
+T980	ClauseDefinition 182848 182853	(vii)
+T981	ClauseDefinition 182934 182940	(viii)
+T982	ClauseDefinition 183045 183049	(ix)
+T983	ClauseDefinition 183132 183135	(x)
+T984	ClauseDefinition 183513 183517	(xi)
+T985	ClauseDefinition 183575 183580	(xii)
+T986	ClauseDefinition 183921 183927	(xiii)
+T987	TermDefinition 184017 184038	Intellectual Property
+T988	ClauseDefinition 184109 184112	(i)
+T989	ClauseDefinition 184220 184224	(ii)
+T990	ClauseDefinition 184481 184486	(iii)
+T991	ClauseDefinition 184619 184623	(iv)
+T992	ClauseDefinition 184800 184803	(v)
+T993	ClauseDefinition 185308 185312	(vi)
+T994	ClauseDefinition 185327 185332	(vii)
+T995	TermDefinition 185433 185442	Inventory
+T996	TermDefinition 185703 185712	IT Assets
+T997	TermDefinition 186032 186035	Law
+T998	Location 186047 186060	United States
+T999	TermDefinition 186313 186318	Liens
+T1000	TermDefinition 186687 186710	Material Adverse Effect
+T1001	ClauseDefinition 187733 187736	(i)
+T1002	ClauseDefinition 188082 188086	(ii)
+T1003	Location 188171 188175	U.S.
+T1004	Location 188211 188215	U.S.
+T1005	ClauseDefinition 188322 188327	(iii)
+T1006	ClauseDefinition 188415 188419	(iv)
+T1007	ClauseDefinition 188510 188513	(v)
+T1008	ClauseDefinition 188575 188579	(vi)
+T1009	ClauseDefinition 188632 188637	(vii)
+T1010	ClauseDefinition 188658 188664	(viii)
+T1011	ClauseDefinition 188769 188773	(ix)
+T1012	ClauseDefinition 189014 189017	(x)
+T1013	Location 189298 189322	United States of America
+T1014	ClauseMention 189348 189352	(ii)
+T1015	ClauseMention 189354 189357	(v)
+T1016	ClauseMention 189361 189365	(vi)
+T1017	TermDefinition 189500 189519	Net Working Capital
+T1018	TermDefinition 189911 189917	Option
+T1019	TermDefinition 190061 190073	Optionholder
+T1020	TermDefinition 190105 190132	Ordinary Course of Business
+T1021	TermDefinition 190323 190339	Payment Schedule
+T1022	ClauseDefinition 190400 190403	(i)
+T1023	ClauseDefinition 190467 190471	(ii)
+T1024	ClauseDefinition 190668 190673	(iii)
+T1025	TermDefinition 190722 190729	PCI DSS
+T1026	TermDefinition 190873 190892	Percentage Interest
+T1027	TermDefinition 191137 191152	Permitted Liens
+T1028	ClauseDefinition 191160 191163	(i)
+T1029	ClauseDefinition 191344 191348	(ii)
+T1030	ClauseDefinition 191614 191619	(iii)
+T1031	ClauseDefinition 191977 191981	(iv)
+T1032	ClauseDefinition 192319 192322	(v)
+T1033	ClauseDefinition 192359 192363	(vi)
+T1034	ClauseDefinition 192465 192470	(vii)
+T1035	ClauseDefinition 192693 192697	(ix)
+T1036	TermDefinition 192792 192798	Person
+T1037	TermDefinition 193058 193078	Personal Information
+T1038	TermDefinition 193804 193826	Pre-Closing Tax Period
+T1039	TermDefinition 193979 194012	Privacy and Security Requirements
+T1040	ClauseDefinition 194073 194076	(i)
+T1041	ClauseDefinition 194095 194099	(ii)
+T1042	ClauseDefinition 194123 194128	(iii)
+T1043	ClauseDefinition 194155 194159	(iv)
+T1044	TermDefinition 194181 194198	Privacy Contracts
+T1045	TermDefinition 194350 194362	Privacy Laws
+T1046	RegulationDocuments 194460 194505	Section 5 of the Federal Trade Commission Act
+T1047	RegulationDocuments 194574 194599	Fair Credit Reporting Act
+T1048	RegulationDocuments 194614 194692	Controlling the Assault of Non-Solicited Pornography And Marketing Act of 2003
+T1049	RegulationDocuments 194711 194744	Telephone Consumer Protection Act
+T1050	RegulationDocuments 194759 194801	Illinois Biometric Information Privacy Act
+T1051	TermDefinition 194925 194941	Privacy Policies
+T1052	TermDefinition 195210 195220	Proceeding
+T1053	TermDefinition 195432 195439	Process
+T1054	TermDefinition 195837 195864	Publicly Available Software
+T1055	ClauseDefinition 195872 195875	(i)
+T1056	RegulationDocuments 196079 196105	GNU General Public License
+T1057	RegulationDocuments 196111 196144	GNU Lesser General Public License
+T1058	RegulationDocuments 196150 196179	Affero General Public License
+T1059	RegulationDocuments 196188 196211	Apache Software License
+T1060	ClauseDefinition 196301 196305	(ii)
+T1061	ClauseDefinition 196510 196513	(a)
+T1062	ClauseDefinition 196563 196566	(b)
+T1063	ClauseDefinition 196625 196628	(c)
+T1064	TermDefinition 196674 196689	Purchaser Group
+T1065	ClauseDefinition 196986 196996	R&W Policy
+T1066	CompanyName 197073 197099	Beazley USA Services, Inc.
+T1067	ClauseMention 197246 197255	Article 3
+T1068	TermDefinition 197440 197457	Related Documents
+T1069	TermDefinition 197611 197624	Related Party
+T1070	TermDefinition 197884 197914	Representative Expense Account
+T1071	TermDefinition 198044 198059	Security Breach
+T1072	TermDefinition 198141 198158	Security Incident
+T1073	TermDefinition 198362 198376	Self-Help Code
+T1074	TermDefinition 198611 198625	Seller Parties
+T1075	TermDefinition 198864 198872	Software
+T1076	TermDefinition 199472 199483	Stockholder
+T1077	TermDefinition 199489 199501	Stockholders
+T1078	TermDefinition 199541 199556	Straddle Period
+T1079	TermDefinition 199638 199648	Subsidiary
+T1080	ClauseDefinition 199788 199791	(i)
+T1081	ClauseDefinition 200156 200160	(ii)
+T1082	TermDefinition 201045 201071	Target Net Working Capital
+T1083	Money 201080 201089	3,184,000
+T1084	TermDefinition 201092 201095	Tax
+T1085	TermDefinition 201101 201106	Taxes
+T1086	TermDefinition 201815 201834	Tax Representations
+T1087	ClauseMention 201890 201906	Sections 3.05(p)
+T1088	ClauseMention 201908 201912	3.07
+T1089	ClauseMention 201951 201955	3.13
+T1090	TermDefinition 201958 201969	Tax Returns
+T1091	TermDefinition 202298 202318	Transaction Expenses
+T1092	ClauseDefinition 202330 202333	(i)
+T1093	ClauseDefinition 202666 202670	(ii)
+T1094	ClauseDefinition 202698 202703	(iii)
+T1095	ClauseDefinition 202786 202790	(iv)
+T1096	ClauseDefinition 202856 202859	(v)
+T1097	TermDefinition 203578 203598	Treasury Regulations
+T1098	TermDefinition 203660 203677	Unauthorized Code
+T1099	TermDefinition 203879 203887	WARN Act
+T1100	RegulationDocuments 203899 203956	Worker Adjustment and Retraining Notification Act of 1988
+T1101	ClauseDefinition 204057 204093	12.02 Other Definitional Provisions.
+T1102	ClauseDefinition 204094 204097	(a)
+T1103	ClauseDefinition 204424 204427	(b)
+T1104	ClauseDefinition 204630 204673	12.03 Cross-Reference of Other Definitions.
+T1105	ClauseDefinition 204784 204794	ARTICLE 13
+T1106	ClauseDefinition 204809 204824	13.01 Expenses.
+T1107	ClauseMention 205439 205457	Section 1.13(c)(x)
+T1108	ClauseDefinition 205670 205694	13.02 Knowledge Defined.
+T1109	ClauseDefinition 205727 205730	(a)
+T1110	ClauseDefinition 205904 205907	(b)
+T1111	TermDefinition 205732 205755	the Company’s knowledge
+T1112	TermDefinition 205909 205934	the Purchaser’s knowledge
+T1113	TermDefinition 205941 205963	Merger Sub’s knowledge
+T1114	ClauseDefinition 206066 206080	13.03 Notices.
+T1115	ClauseDefinition 206266 206269	(a)
+T1116	ClauseDefinition 206297 206300	(b)
+T1117	Other 206336 206345	8:00 p.m.
+T1118	Other 206417 206426	9:00 a.m.
+T1119	ClauseDefinition 206467 206470	(c)
+T1120	ClauseDefinition 206616 206619	(d)
+T1121	TimePeriodLimitation 206624 206648	third (3rd) Business Day
+T1122	Other 205825 205836	John Morgan
+T1123	Other 205838 205851	Will Wennberg
+T1124	CompanyFax 207221 207235	(310) 513-7279
+T1125	CompanyEmail 207162 207184	smookerji@ducommun.com
+T1126	CompanyEmail 207197 207215	rtata@ducommun.com
+T1127	CompanyPerson 207127 207141	Suman Mookerji
+T1128	CompanyPerson 207146 207154	Raj Tata
+T1129	CompanyName 207041 207062	Ducommun Incorporated
+T1130	CompanyAddress 207063 207082;207083 207087;207088 207115	200 Sandpointe Ave. #700 Santa Ana, California 92707
+T1131	Other 205853 205865	Dave Carlson
+T1132	Other 205867 205878	Dick Dorale
+T1133	Other 205883 205898	Clay Bringhurst
+T1134	CompanyPerson 206037 206051	Suman Mookerji
+T1135	CompanyPerson 206056 206064	Raj Tata
+T1136	CompanyName 207295 207315	Winston & Strawn LLP
+T1137	CompanyAddress 207316 207338;207339 207368	333 South Grand Avenue Los Angeles, California 90071
+T1138	CompanyPerson 207380 207392	Eva H. Davis
+T1139	CompanyEmail 207400 207420	evadavis@winston.com
+T1140	CompanyFax 207426 207440	(213) 615-1750
+T1141	CompanyName 207484 207517;207518 207549	Levine Leichtman Capital Partners Private Capital Solutions, L.P.
+T1142	CompanyAddress 207550 207582;207583 207614	345 North Maple Drive, Suite 300 Beverly Hills, California 90210
+T1143	CompanyPerson 207626 207641	David I. Wolmer
+T1144	CompanyEmail 207649 207665	dwolmer@llcp.com
+T1145	CompanyName 207718 207730	Honigman LLP
+T1146	CompanyAddress 207731 207735;207736 207759;207760 207779;207780 207803	2290 First National Building 660 Woodward Avenue Detroit, Michigan 48226
+T1147	CompanyPerson 207815 207832	Joshua F. Opperer
+T1148	CompanyPerson 207837 207856	Jacob D. Drouillard
+T1149	CompanyEmail 207864 207885	jopperer@honigman.com
+T1150	CompanyEmail 207896 207922	  jdrouillard@honigman.com
+T1151	ClauseDefinition 207923 207940	13.04 Assignment.
+T1152	ClauseDefinition 208559 208562	(a)
+T1153	ClauseDefinition 208613 208616	(b)
+T1154	ClauseDefinition 208662 208665	(c)
+T1155	ClauseMention 209180 209193	Section 13.04
+T1156	ClauseDefinition 209225 209244	13.05 Severability.
+T1157	ClauseDefinition 209674 209691	13.06 References.
+T1158	Location 210196 210209	United States
+T1159	TermDefinition 210163 210164	$
+T1160	TermDefinition 210278 210285	Section
+T1161	TermDefinition 210291 210298	Exhibit
+T1162	TermDefinition 210412 210418	hereof
+T1163	TermDefinition 210422 210428	herein
+T1164	TermDefinition 210432 210438	hereto
+T1165	TermDefinition 210445 210454	hereunder
+T1166	TermDefinition 210595 210604	including
+T1167	ClauseDefinition 210656 210675	13.07 Construction.
+T1168	ClauseDefinition 212295 212322	13.08 Amendment and Waiver.
+T1169	ClauseDefinition 212835 212860	13.09 Complete Agreement.
+T1170	ClauseDefinition 213209 213241	13.10 Third-Party Beneficiaries.
+T1171	ClauseDefinition 213684 213714	13.11 Waiver of Trial by Jury.
+T1172	ClauseDefinition 213886 213889	(A)
+T1173	ClauseDefinition 213922 213925	(B)
+T1174	ClauseDefinition 214623 214650	13.12 Purchaser Deliveries.
+T1175	CompanyName 215080 215086	Firmex
+T1176	Other 215093 215103	11:59 p.m.
+T1177	TimePeriodLimitation 215124 215149	second (2nd) Business Day
+T1178	ClauseDefinition 215545 215571	13.13 Electronic Delivery.
+T1179	ClauseDefinition 216663 216682	13.14 Counterparts.
+T1180	ClauseDefinition 216899 216919	13.15 Governing Law.
+T1181	LawLocation 217151 217168	State of Delaware
+T1182	LawLocation 217268 217285	State of Delaware
+T1183	LawLocation 217393 217410	State of Delaware
+T1184	ClauseDefinition 217412 217442	13.16 Consent to Jurisdiction.
+T1185	ClauseMention 217472 217484	SECTION 1.12
+T1186	LawLocation 217756 217804	COURT OF CHANCERY COURT OF THE STATE OF DELAWARE
+T1187	LawLocation 217817 217859	COURT OF CHANCERY OF THE STATE OF DELAWARE
+T1188	LawLocation 217922 217961	SUPERIOR COURT OF THE STATE OF DELAWARE
+T1189	LawLocation 217998 218055	UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE
+T1190	Location 218329 218337	DELAWARE
+T1191	Location 218404 218421	STATE OF DELAWARE
+T1192	ClauseMention 219015 219028	SECTION 13.03
+T1193	ClauseDefinition 219189 219216	13.17 Specific Performance.
+T1194	ClauseMention 219908 219921	Section 13.16
+T1195	ClauseMention 220317 220330	Section 13.17
+T1196	ClauseDefinition 220440 220459	13.18 Non-Recourse.
+T1197	ClauseMention 222426 222438	Section 9.02
+T1198	ClauseMention 222448 222461	Section 13.18
+T1199	ClauseMention 223906 223919	Section 13.18

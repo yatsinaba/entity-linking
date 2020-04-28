@@ -1,0 +1,726 @@
+T1	CompanyName 73 99	ACLARIS THERAPEUTICS, INC.
+T2	CompanyName 104 119	EPI HEALTH, LLC
+T3	ClauseDefinition 212 215	(i)
+T4	ClauseDefinition 233 237	(ii)
+T5	ClauseDefinition 431 434	(i)
+T6	ClauseDefinition 452 456	(ii)
+T7	ClauseDefinition 633 636	(i)
+T8	ClauseDefinition 654 658	(ii)
+T9	ClauseDefinition 839 842	(i)
+T10	ClauseDefinition 860 864	(ii)
+T11	ClauseDefinition 343 344	i
+T12	ClauseDefinition 544 546	ii
+T13	ClauseDefinition 749 752	iii
+T14	ClauseDefinition 964 966	iv
+T15	ClauseDefinition 1053 1056	(i)
+T16	ClauseDefinition 1074 1078	(ii)
+T17	ClauseDefinition 1169 1193	ASSET PURCHASE AGREEMENT
+T18	Date 1250 1266	October 10, 2019
+T19	CompanyName 1318 1344	Aclaris Therapeutics, Inc.
+T20	CompanyName 1348 1368	Delaware corporation
+T21	CompanyName 1385 1400	EPI Health, LLC
+T22	CompanyName 1404 1444	South Carolina limited liability company
+T23	ClauseDefinition 1569 1577	RECITALS
+T24	ClauseDefinition 2187 2199;2200 2211	ARTICLE 1    DEFINITIONS
+T25	ClauseDefinition 2212 2215	1.1
+T26	ClauseDefinition 2510 2513	1.2
+T27	ClauseDefinition 3014 3017	1.3
+T28	ClauseDefinition 3063 3066	1.4
+T29	ClauseDefinition 3202 3205	1.5
+T30	ClauseDefinition 3358 3361	1.6
+T31	ClauseDefinition 3543 3546	1.7
+T32	TermDefinition 2223 2243	Action or Proceeding
+T33	TermDefinition 2521 2530	Affiliate
+T34	TermDefinition 3026 3034	Allergan
+T35	CompanyName 3042 3061	Allergan Sales, LLC
+T36	TermDefinition 3075 3087	Allergan APA
+T37	Date 3172 3188	October 15, 2018
+T38	TermDefinition 3214 3226	Allergan TSA
+T39	Date 3326 3343	November 30, 2018
+T40	TermDefinition 3370 3386	Aspect Agreement
+T41	Date 3453 3467	August 3, 2009
+T42	CompanyName 3484 3509	Vicept Therapeutics, Inc.
+T43	CompanyName 3514 3542	Aspect Pharmaceuticals, LLC.
+T44	ClauseDefinition 3704 3707	(i)
+T45	ClauseDefinition 3725 3729	(ii)
+T46	TermDefinition 3828 3849	Assigned Domain Names
+T47	TermDefinition 3906 3923	Assigned Know-How
+T48	ClauseDefinition 3817 3820	1.8
+T49	ClauseDefinition 3895 3898	1.9
+T50	ClauseDefinition 4141 4145	1.10
+T51	TermDefinition 4152 4168	Assigned Patents
+T52	ClauseDefinition 4387 4391	1.11
+T53	TermDefinition 4398 4417	Assigned Trademarks
+T54	ClauseDefinition 4461 4465	1.12
+T55	TermDefinition 4472 4491	Assumed Liabilities
+T56	ClauseDefinition 4736 4742	1.12.1
+T57	ClauseMention 5264 5275	Section 4.3
+T58	ClauseDefinition 5306 5312	1.12.2
+T59	ClauseDefinition 5374 5380	1.12.3
+T60	TermDefinition 5593 5605	Bill of Sale
+T61	ClauseDefinition 5582 5586	1.13
+T62	ClauseDefinition 5842 5846	1.14
+T63	TermDefinition 5852 5864	Business Day
+T64	Location 5978 5995	State of New York
+T65	ClauseDefinition 6099 6103	1.15
+T66	TermDefinition 6110 6126	Calendar Quarter
+T67	TimePeriodLimitation 6158 6173	three (3) month
+T68	Date 6189 6197	March 31
+T69	Date 6199 6206	June 30
+T70	Date 6208 6220	September 30
+T71	Date 6226 6237	December 31
+T72	ClauseDefinition 6239 6243	1.16
+T73	TermDefinition 6249 6262	Calendar Year
+T74	Date 6292 6301	January 1
+T75	TimePeriodLimitation 6313 6352	twelve (12) consecutive calendar months
+T76	Date 6362 6373	December 31
+T77	ClauseDefinition 6375 6379	1.17
+T78	ClauseDefinition 6441 6445	1.18
+T79	TermDefinition 6385 6388	CMS
+T80	TermDefinition 6451 6455	Code
+T81	Other 6400 6439	Center for Medicare & Medicaid Services
+T82	RegulationDocuments 6467 6501	U.S. Internal Revenue Code of 1986
+T83	ClauseDefinition 6603 6606	(i)
+T84	ClauseDefinition 6624 6628	(ii)
+T85	ClauseDefinition 6716 6720	1.19
+T86	TermDefinition 6727 6746	Combination Product
+T87	ClauseDefinition 7401 7405	1.20
+T88	ClauseDefinition 6756 6757;6758 6760	( a)
+T89	ClauseDefinition 6937 6940	(b)
+T90	ClauseMention 7299 7302	(a)
+T91	ClauseMention 7351 7354	(b)
+T92	TermDefinition 7384 7399	Other Products.
+T93	TermDefinition 7412 7443	Commercially Reasonable Efforts
+T94	ClauseMention 7456 7475	Section 3.1.2(f)(i)
+T95	ClauseDefinition 8308 8312	1.21
+T96	TermDefinition 8318 8335	Competing Product
+T97	TimePeriodLimitation 8594 8617	twenty-four (24) months
+T98	ClauseDefinition 8961 8965	1.22
+T99	TermDefinition 8972 8997	Confidentiality Agreement
+T100	Date 9072 9088	January 24, 2019
+T101	ClauseDefinition 9123 9127	1.23
+T102	TermDefinition 9134 9159	Contemplated Transactions
+T103	ClauseDefinition 9252 9256	1.24
+T104	TermDefinition 9263 9270	Control
+T105	TermDefinition 9649 9654	Cover
+T106	TermDefinition 9660 9667	Covered
+T107	ClauseDefinition 9639 9643	1.25
+T108	ClauseDefinition 9943 9947	1.26
+T109	TermDefinition 9954 9971	Covered Inventory
+T110	ClauseDefinition 10104 10107	(i)
+T111	ClauseDefinition 10211 10214	(i)
+T112	ClauseDefinition 10232 10236	(ii)
+T113	ClauseDefinition 10340 10344	(ii)
+T114	ClauseDefinition 10545 10550	(iii)
+T115	TermDefinition 10570 10577	Dollars
+T117	ClauseDefinition 10560 10564	1.27
+T118	ClauseDefinition 10608 10612	1.28
+T119	TermDefinition 10619 10634	Earnout Product
+T120	ClauseDefinition 10649 10652	(i)
+T121	ClauseDefinition 10674 10678	(ii)
+T122	ClauseDefinition 11068 11073	(iii)
+T123	TermDefinition 11338 11349	Encumbrance
+T124	ClauseDefinition 11328 11332	1.29
+T125	ClauseDefinition 11572 11576	1.30
+T126	TermDefinition 11583 11595	Escrow Agent
+T127	CompanyName 11603 11617	Citibank, N.A.
+T128	ClauseDefinition 11618 11622	1.31
+T129	TermDefinition 11628 11644	Escrow Agreement
+T130	TermDefinition 11779 11792	Escrow Amount
+T131	Money 11851 11860	1,750,000
+T132	ClauseDefinition 11863 11867	1.33
+T133	TermDefinition 11874 11881	Exploit
+T134	TermDefinition 11887 11899	Exploitation
+T135	ClauseDefinition 12156 12160	1.34
+T136	TermDefinition 12166 12183	Ex-U.S. Territory
+T138	ClauseDefinition 12238 12242	1.35
+T139	TermDefinition 12248 12263	Excluded Assets
+T140	TermDefinition 12402 12405	FDA
+T141	Other 12417 12459	United States Food and Drug Administration
+T142	TermDefinition 12503 12508	FFDCA
+T143	RegulationDocuments 12520 12576	United States Food, Drug and Cosmetic Act, 21 U.S.C. 301
+T144	ClauseDefinition 12730 12734	1.38
+T145	TermDefinition 12741 12768	Fundamental Representations
+T146	ClauseMention 12834 12845	Section 4.1
+T147	ClauseMention 12876 12887	Section 4.2
+T148	ClauseMention 12904 12922	(b) of Section 4.3
+T149	ClauseMention 12949 12960	Section 4.8
+T150	ClauseMention 12978 12989	Section 4.9
+T151	ClauseMention 13002 13016	Section 4.10.5
+T152	ClauseDefinition 13143 13146	(i)
+T153	ClauseDefinition 13164 13168	(ii)
+T154	ClauseDefinition 13256 13260	1.39
+T155	TermDefinition 13267 13271	GAAP
+T157	ClauseDefinition 13326 13330	1.40
+T158	TermDefinition 13337 13359	Governmental Authority
+T159	ClauseDefinition 13486 13489	(a)
+T160	ClauseDefinition 13521 13524	(b)
+T161	ClauseDefinition 13623 13626	(c)
+T162	ClauseDefinition 13651 13655	1.41
+T163	TermDefinition 13661 13666	HIPAA
+T164	RegulationDocuments 13678 13737	Health Insurance Portability and Accountability Act of 1996
+T165	ClauseDefinition 13739 13743	1.42
+T166	TermDefinition 13749 13752	IND
+T167	RegulationDocuments 13831 13833;13834 13847	21 C.F.R. §  321
+T168	ClauseDefinition 13957 13961	1.43
+T169	TermDefinition 13967 13988	Intellectual Property
+T170	ClauseDefinition 14063 14066	(a)
+T171	ClauseDefinition 14117 14120	(b)
+T172	ClauseDefinition 14187 14190	(c)
+T173	ClauseDefinition 14200 14203	(d)
+T174	ClauseDefinition 14324 14327	(e)
+T175	ClauseDefinition 14660 14664	1.44
+T176	TermDefinition 14670 14698	Intellectual Property Rights
+T177	ClauseDefinition 14795 14799	1.45
+T178	TermDefinition 14805 14814	Inventory
+T179	ClauseDefinition 15200 15203	(i)
+T180	ClauseDefinition 15266 15270	(ii)
+T181	ClauseDefinition 15352 15357	(iii)
+T182	ClauseDefinition 15405 15409	1.46
+T183	TermDefinition 15416 15424	Know-How
+T184	ClauseDefinition 15822 15826	1.47
+T185	TermDefinition 15832 15841	Knowledge
+T186	ClauseDefinition 15917 15921	1.48
+T187	TermDefinition 15927 15930	Law
+T188	TermDefinition 15936 15940	Laws
+T189	ClauseDefinition 16388 16391	(i)
+T190	ClauseDefinition 16409 16413	(ii)
+T191	ClauseDefinition 16603 16607	1.49
+T192	TermDefinition 16613 16622	Liability
+T193	TermDefinition 16628 16639	Liabilities
+T194	ClauseDefinition 17361 17365	1.50
+T195	TermDefinition 17372 17376	Loss
+T196	TermDefinition 17382 17388	Losses
+T197	ClauseDefinition 17760 17764	1.51
+T198	ClauseDefinition 17793 17797	1.52
+T199	TermDefinition 17804 17827	Material Adverse Effect
+T200	ClauseDefinition 18448 18451	(a)
+T202	ClauseDefinition 18563 18566	(b)
+T203	ClauseDefinition 18817 18820	(c)
+T204	ClauseDefinition 18928 18931	(d)
+T205	ClauseDefinition 19072 19075	(e)
+T206	ClauseDefinition 19215 19218	(f)
+T207	ClauseDefinition 19324 19327	(g)
+T208	ClauseDefinition 19774 19777	(h)
+T209	ClauseMention 19921 19924	(a)
+T210	ClauseMention 19926 19929	(b)
+T211	ClauseMention 19933 19936	(f)
+T212	ClauseDefinition 20207 20210	(i)
+T213	ClauseDefinition 20228 20232	(ii)
+T214	TermDefinition 20519 20522	NDA
+T215	ClauseDefinition 20509 20513	1.53
+T216	RegulationDocuments 20603 20614	21 CFR §314
+T217	ClauseDefinition 20693 20697	1.54
+T218	TermDefinition 20704 20707	NDC
+T219	ClauseDefinition 20758 20762	1.55
+T220	TermDefinition 20769 20778	Net Sales
+T221	ClauseDefinition 21344 21347	(a)
+T222	ClauseDefinition 21471 21474	(b)
+T223	ClauseDefinition 21656 21659	(c)
+T224	ClauseDefinition 21916 21919	(d)
+T225	ClauseDefinition 22105 22108	(e)
+T226	ClauseDefinition 22240 22243	(f)
+T227	ClauseDefinition 22499 22502	(g)
+T228	ClauseDefinition 22861 22864	(i)
+T229	ClauseDefinition 22882 22886	(ii)
+T230	ClauseDefinition 22974 22977	(h)
+T231	RegulationDocuments 23066 23114;23115 23117;23118 23129	Patient Protection and Affordable Care Act, Pub. L. No. 111-148
+T232	ClauseDefinition 24586 24588	i.
+T233	TimePeriodLimitation 25109 25135	twelve (12) calendar month
+T234	ClauseDefinition 25153 25156	ii.
+T235	ClauseDefinition 25633 25637	iii.
+T236	ClauseDefinition 26196 26199	(i)
+T237	ClauseDefinition 26217 26221	(ii)
+T238	ClauseDefinition 26582 26586	1.56
+T239	TermDefinition 26592 26597	Order
+T240	ClauseDefinition 26930 26934	1.57
+T241	TermDefinition 26941 26959	Patent Assignments
+T243	ClauseDefinition 27330 27334	1.58
+T244	TermDefinition 27340 27346	Patent
+T245	TermDefinition 27352 27359	Patents
+T246	ClauseDefinition 27367 27370	(a)
+T247	ClauseDefinition 27510 27513	(b)
+T248	ClauseDefinition 27763 27766	(c)
+T249	ClauseMention 27826 27829	(a)
+T250	ClauseMention 27833 27836	(b)
+T251	ClauseDefinition 27838 27842	1.59
+T252	TermDefinition 27849 27870	Permitted Encumbrance
+T253	ClauseDefinition 27878 27881	(a)
+T254	ClauseDefinition 28004 28007	(b)
+T255	ClauseDefinition 28147 28150	(c)
+T256	ClauseDefinition 28368 28371	(d)
+T257	ClauseDefinition 28482 28485	(e)
+T258	Date 28547 28559	May 16, 2014
+T259	CompanyName 28576 28596	Galderma Pharma S.A.
+T260	CompanyName 28598 28624	Galderma Laboratories Inc.
+T261	CompanyName 28626 28653	Allergan and Allergan, Inc.
+T262	ClauseDefinition 28659 28662	(f)
+T263	ClauseDefinition 28936 28940	1.60
+T264	TermDefinition 28946 28952	Person
+T265	TermDefinition 29123 29145	Pre-Closing Tax Period
+T266	ClauseDefinition 29113 29117	1.61
+T267	Date 29191 29208	November 30, 2018
+T268	ClauseDefinition 29353 29357	1.62
+T269	TermDefinition 29364 29389	Product Books and Records
+T270	ClauseDefinition 29730 29733	(i)
+T271	ClauseDefinition 29751 29755	(ii)
+T272	ClauseDefinition 31489 31493	1.63
+T273	TermDefinition 31499 31506	Rebates
+T274	ClauseMention 31593 31607	Section 7.15.1
+T275	ClauseDefinition 32079 32083	1.64
+T276	ClauseDefinition 32111 32115	1.65
+T277	TermDefinition 32121 32141	Retained Liabilities
+T278	ClauseDefinition 32359 32362	(i)
+T279	ClauseDefinition 32532 32536	(ii)
+T280	ClauseMention 33009 33020	Section 4.3
+T281	ClauseDefinition 33050 33054	1.66
+T282	TermDefinition 33061 33075	Retained Taxes
+T283	ClauseDefinition 33083 33084;33085 33087	( i)
+T284	ClauseMention 33418 33431	Section 7.8.3
+T285	ClauseDefinition 33433 33437	(ii)
+T286	ClauseDefinition 33631 33634	(i)
+T287	ClauseDefinition 33652 33656	(ii)
+T288	ClauseDefinition 33775 33780	(iii)
+T289	ClauseDefinition 33871 33875	1.67
+T290	TermDefinition 33881 33897	RHOFADE Business
+T291	ClauseDefinition 34161 34164	(a)
+T292	ClauseMention 34233 34242	ARTICLE 4
+T294	ClauseDefinition 34348 34351	(b)
+T295	ClauseDefinition 34456 34460	1.68
+T296	TermDefinition 34466 34477	RHOFADE IND
+T297	ClauseDefinition 34762 34766	1.69
+T298	TermDefinition 34773 34797	RHOFADE Licensed Patents
+T299	Date 34912 34929	November 30, 2018
+T300	CompanyName 34946 34960	Allergan, Inc.
+T301	CompanyName 34964 34984	Delaware corporation
+T302	ClauseDefinition 34998 35002	1.70
+T303	TermDefinition 35008 35019	RHOFADE NDA
+T304	Date 35085 35101	January 18, 2017
+T305	ClauseDefinition 35212 35216	1.71
+T306	TermDefinition 35222 35237	RHOFADE Product
+T307	ClauseDefinition 35392 35396	1.72
+T308	TermDefinition 35402 35419	Seller NDC Number
+T309	ClauseDefinition 35468 35472	1.73
+T310	TermDefinition 35478 35502	Seller’s Names and Marks
+T311	ClauseMention 35530 35543	Schedule 1.73
+T312	ClauseDefinition 35545 35549	1.74
+T313	TermDefinition 35556 35571	Straddle Period
+T314	Date 35620 35637	November 30, 2018
+T315	ClauseDefinition 35673 35677	1.75
+T316	TermDefinition 35683 35686	Tax
+T317	TermDefinition 35692 35697	Taxes
+T319	ClauseDefinition 36829 36832	(i)
+T320	ClauseDefinition 36850 36854	(ii)
+T321	ClauseDefinition 36942 36946	1.76
+T322	TermDefinition 36952 36962	Tax Return
+T324	TermDefinition 37321 37330	Territory
+T325	ClauseDefinition 37311 37315	1.77
+T326	ClauseDefinition 37356 37360	1.78
+T327	TermDefinition 37367 37378	Third Party
+T328	ClauseDefinition 37456 37460	1.79
+T329	TermDefinition 37467 37476	Trademark
+T330	ClauseDefinition 37847 37851	1.80
+T331	TermDefinition 37858 37879	Trademark Assignments
+T333	ClauseDefinition 38256 38260	1.81
+T334	TermDefinition 38267 38288	Transaction Documents
+T335	ClauseDefinition 38495 38499	1.82
+T336	TermDefinition 38505 38519	Transfer Taxes
+T337	ClauseDefinition 38849 38853	1.83
+T338	TermDefinition 38859 38877	Transferred Assets
+T339	ClauseDefinition 39029 39033	1.84
+T340	TermDefinition 39040 39065	Transferred Registrations
+T341	TermDefinition 39588 39601	United States
+T342	ClauseDefinition 39578 39582	1.85
+T343	TermDefinition 39607 39611	U.S.
+T344	Location 39623 39647	United States of America
+T116	ClauseDefinition 39692 39696	1.86
+T137	TermDefinition 39703 39714	Valid Claim
+T156	ClauseDefinition 39722 39725	(i)
+T201	ClauseDefinition 40054 40057	(i)
+T242	ClauseDefinition 40075 40079	(ii)
+T293	ClauseDefinition 40469 40473	(ii)
+T318	TimePeriodLimitation 40621 40636	seven (7) years
+T323	ClauseDefinition 40864 40868	1.87
+T332	TermDefinition 40875 40891	Vicept Agreement
+T345	Date 40954 40967	July 18, 2011
+T346	CompanyName 40982 40996	Allergan, Inc.
+T347	CompanyName 40998 41024	Erythema Acquisition, Inc.
+T348	CompanyName 41026 41051	Vicept Therapeutics, Inc.
+T349	Date 41209 41227	September 21, 2018
+T350	CompanyPerson 41056 41066	Albert Cha
+T351	CompanyPersonPosition 41070 41109	Shareholders’ Representative thereunder
+T352	ClauseDefinition 41264 41296	1.88     Additional Definitions.
+T353	ClauseDefinition 41488 41491	(i)
+T354	ClauseDefinition 41509 41513	(ii)
+T355	ClauseDefinition 41693 41696	(i)
+T356	ClauseDefinition 41714 41718	(ii)
+T358	ClauseDefinition 41848 41886	2.1       Purchase and Sale of Assets.
+T359	ClauseDefinition 42332 42358	2.2       Excluded Assets.
+T360	ClauseDefinition 42621 42650	2.3       No Implied License.
+T361	ClauseDefinition 42887 42923	2.4       Assumption of Liabilities.
+T362	ClauseDefinition 43150 43181	2.5       Retained Liabilities.
+T363	ClauseDefinition 43390 43427	2.6       Assignability and Consents.
+T364	ClauseDefinition 43612 43615	(a)
+T365	ClauseDefinition 43640 43643	(b)
+T366	ClauseMention 43748 43751	(a)
+T367	ClauseMention 43756 43759	(b)
+T368	ClauseMention 43778 43789	Section 4.3
+T369	ClauseMention 44302 44313	Section 2.6
+T370	ClauseDefinition 45067 45070	(i)
+T371	ClauseMention 45151 45162	Section 2.6
+T372	ClauseDefinition 45405 45408	(i)
+T373	ClauseDefinition 45426 45430	(ii)
+T374	ClauseDefinition 45575 45579	(ii)
+T375	ClauseDefinition 46546 46569	2.7       Risk of Loss.
+T357	ClauseDefinition 41806 41819;41820 41847	ARTICLE 2     PURCHASE AND SALE OF ASSETS
+T376	ClauseDefinition 46793 46831	ARTICLE 3   PURCHASE PRICE AND PAYMENT
+T377	ClauseDefinition 46832 46856	3.1       Consideration.
+T378	ClauseDefinition 47158 47205	3.1.1    Upfront Payment and Inventory Payment.
+T379	ClauseDefinition 47255 47258	(a)
+T380	Money 47289 47302	35,000,000.00
+T381	ClauseDefinition 47438 47441	(b)
+T382	ClauseMention 47497 47508	Section 3.3
+T383	ClauseDefinition 47543 47546	(c)
+T384	ClauseDefinition 47767 47776;47777 47803	3.1.2     Sales Milestones; Royalty.
+T385	ClauseMention 47838 47854	Section 3.1.2(a)
+T386	ClauseMention 47913 47929	Section 3.1.2(a)
+T387	ClauseDefinition 47960 47963	(a)
+T388	ClauseDefinition 48006 48009	(i)
+T389	ClauseDefinition 48246 48250	(ii)
+T390	ClauseDefinition 48574 48577	(i)
+T391	ClauseDefinition 48595 48599	(ii)
+T392	ClauseDefinition 48687 48692	(iii)
+T393	TimePeriodLimitation 49014 49027	Calendar Year
+T394	ClauseDefinition 49190 49193	(b)
+T395	ClauseDefinition 49359 49362	(c)
+T396	ClauseDefinition 49905 49908	(i)
+T397	ClauseDefinition 50045 50049	(ii)
+T398	TimePeriodLimitation 50050 50064	ten (10) years
+T399	ClauseDefinition 50183 50186	(d)
+T400	ClauseDefinition 50372 50375	(e)
+T401	ClauseDefinition 50499 50502	(a)
+T402	ClauseDefinition 50553 50556	(b)
+T403	ClauseDefinition 50650 50653	(c)
+T404	ClauseDefinition 50715 50718	(f)
+T405	ClauseDefinition 50737 50740	(i)
+T406	ClauseDefinition 51156 51160	(ii)
+T407	ClauseMention 51186 51197	Section 3.2
+T408	ClauseMention 51226 51241	Section 2.07(f)
+T409	CompanyName 51561 51586	Vicept Therapeutics, Inc.
+T410	CompanyName 51590 51617	Aspect Pharmaceuticals, LLC
+T411	ClauseMention 51798 51802	(ii)
+T412	ClauseDefinition 51977 51980	(i)
+T413	ClauseDefinition 51998 52002	(ii)
+T414	ClauseMention 52124 52144	Section 3.1.2(f)(ii)
+T415	ClauseMention 52212 52232	Section 3.1.2(f)(ii)
+T416	ClauseMention 52433 52453	Section 3.1.2(f)(ii)
+T417	CompanyName 52518 52543	Vicept Therapeutics, Inc.
+T418	CompanyName 52548 52570;52571 52576	Aspect Pharmaceuticals , LLC
+T419	ClauseMention 52624 52644	Section 3.1.2(f)(ii)
+T420	ClauseDefinition 52646 52649	(g)
+T421	ClauseDefinition 53897 53900	(i)
+T422	ClauseDefinition 53957 53961	(ii)
+T423	ClauseDefinition 54028 54033	(iii)
+T424	ClauseDefinition 54093 54097	(iv)
+T425	TimePeriodLimitation 48068 48081	Calendar Year
+T426	TimePeriodLimitation 48307 48320	Calendar Year
+T427	TimePeriodLimitation 48748 48761	Calendar Year
+T428	TimePeriodLimitation 54134 54147	Calendar Year
+T429	TimePeriodLimitation 54310 54323	Calendar Year
+T430	ClauseMention 54760 54776	Section 3.1.2(g)
+T431	ClauseDefinition 55951 55993	3.1.3    Additional Ex-U.S. Consideration.
+T432	ClauseMention 56045 56061	Section 3.1.2(c)
+T433	ClauseDefinition 56418 56421	(i)
+T434	ClauseDefinition 56439 56443	(ii)
+T435	ClauseMention 56819 56822	(i)
+T436	ClauseMention 57060 57064	(ii)
+T437	ClauseDefinition 57804 57809	3.1.4
+T438	ClauseMention 57947 57960	Section 3.4.2
+T439	ClauseDefinition 58080 58117	3.2       Delivery of Purchase Price.
+T440	ClauseDefinition 58450 58453	(a)
+T441	ClauseDefinition 58665 58668	(b)
+T442	ClauseDefinition 59095 59150	3.3       Inventory Payment; Purchase Price Adjustment.
+T443	ClauseDefinition 59151 59156	3.3.1
+T444	ClauseDefinition 59861 59866	3.3.2
+T445	ClauseDefinition 60229 60232	(i)
+T446	ClauseDefinition 60250 60254	(ii)
+T447	ClauseDefinition 60841 60846	3.3.3
+T448	ClauseDefinition 61808 61811	(x)
+T449	ClauseDefinition 61947 61950	(y)
+T450	ClauseMention 63443 63456	Section 3.3.3
+T451	ClauseDefinition 63641 63646	3.3.4
+T452	TermDefinition 63657 63696	Closing Date Inventory Value Adjustment
+T453	ClauseMention 63917 63930	Section 3.3.3
+T454	ClauseDefinition 63932 63935	(a)
+T455	ClauseDefinition 64319 64322	(i)
+T456	ClauseDefinition 64340 64344	(ii)
+T457	ClauseDefinition 64432 64435	(b)
+T458	ClauseDefinition 64751 64756	3.3.5
+T459	ClauseDefinition 64769 64823	3.4       Tax Treatment; Allocation of Purchase Price.
+T460	ClauseDefinition 64824 64829	3.4.1
+T461	RegulationDocuments 65176 65203	Section 1313(a) of the Code
+T462	ClauseDefinition 65205 65210	3.4.2
+T463	RegulationDocuments 65550 65574	Section 1060 of the Code
+T464	RegulationDocuments 65657 65690	Sections 1060 and 338 of the Code
+T465	RegulationDocuments 65879 65915	Treasury Regulations Section 1.338-6
+T466	RegulationDocuments 66110 66156	Treasury Regulations Section 1.338-6 Class VII
+T467	RegulationDocuments 67039 67053	IRS Forms 8594
+T468	ClauseDefinition 67205 67217;67218 67258	ARTICLE 4    REPRESENTATIONS AND WARRANTIES OF SELLER
+T469	ClauseMention 67489 67498	ARTICLE 4
+T470	ClauseMention 67666 67675	ARTICLE 4
+T471	ClauseDefinition 67849 67852	(i)
+T472	ClauseDefinition 67870 67874	(ii)
+T473	ClauseDefinition 67962 67999	4.1       Organization and Authority.
+T474	Location 68086 68103	State of Delaware
+T475	ClauseDefinition 69697 69713	4.2       Title.
+T476	ClauseDefinition 69974 70007	4.3       No Conflicts; Consents.
+T477	ClauseDefinition 70407 70410	(a)
+T478	ClauseDefinition 70531 70534	(b)
+T479	ClauseDefinition 70683 70686	(c)
+T480	ClauseDefinition 71144 71147	(d)
+T481	RegulationDocuments 71271 71286	21 CFR § 314.72
+T482	RegulationDocuments 71323 71335	21 CFR § 312
+T483	ClauseMention 71533 71544	Section 4.3
+T484	ClauseMention 71601 71604	(a)
+T485	ClauseMention 71606 71609	(c)
+T486	ClauseMention 71614 71617	(d)
+T487	ClauseDefinition 71891 71927	4.4       Litigation; No Violations.
+T488	ClauseMention 71953 71964	Section 4.4
+T489	ClauseDefinition 72166 72169	(i)
+T490	ClauseDefinition 72187 72191	(ii)
+T491	ClauseDefinition 73065 73097	4.5       Intellectual Property.
+T492	ClauseDefinition 73098 73103	4.5.1
+T493	ClauseMention 73108 73121	Section 4.5.1
+T494	ClauseDefinition 73655 73658	(a)
+T495	ClauseDefinition 73725 73728	(b)
+T496	ClauseDefinition 73756 73759	(c)
+T497	ClauseDefinition 73823 73826	(d)
+T498	ClauseDefinition 74025 74030	4.5.2
+T499	ClauseMention 74498 74511	Section 4.5.1
+T500	ClauseDefinition 74969 74974	4.5.3
+T501	ClauseMention 75001 75014	Section 4.5.3
+T502	ClauseDefinition 75114 75117	(a)
+T503	Date 75124 75141	November 30, 2018
+T504	ClauseDefinition 75143 75146	(i)
+T505	ClauseDefinition 75467 75471	(ii)
+T506	ClauseDefinition 75535 75538	(b)
+T507	ClauseDefinition 75658 75663	4.5.4
+T508	ClauseDefinition 76030 76033	(i)
+T509	ClauseDefinition 76051 76055	(ii)
+T510	ClauseDefinition 76640 76645	4.5.5
+T511	ClauseMention 76672 76685	Section 4.5.5
+T512	ClauseDefinition 77244 77249	4.5.6
+T513	ClauseMention 77277 77290	Section 4.5.6
+T514	ClauseDefinition 77730 77735	4.5.7
+T515	Date 77864 77881	November 30, 2018
+T516	Date 78105 78122	November 30, 2018
+T517	ClauseMention 78147 78160	Section 4.5.7
+T518	ClauseDefinition 78306 78311	4.5.8
+T519	Date 78388 78405	November 30, 2018
+T520	ClauseDefinition 78717 78722	4.5.9
+T521	Date 78799 78816	November 30, 2018
+T522	Date 79235 79252	November 30, 2018
+T523	ClauseDefinition 79254 79274	4.6       Contracts.
+T524	ClauseDefinition 79619 79622	(i)
+T525	ClauseDefinition 79640 79644	(ii)
+T526	ClauseMention 80228 80239	Section 4.6
+T527	Date 80445 80462	November 30, 2018
+T528	ClauseMention 80917 80928	Section 4.6
+T529	ClauseDefinition 81404 81433	4.7       Regulatory Matters.
+T530	ClauseDefinition 81434 81439	4.7.1
+T531	Date 81449 81466	November 30, 2018
+T532	ClauseMention 81744 81757	Section 4.7.1
+T533	ClauseMention 82070 82083	Section 4.7.1
+T534	ClauseDefinition 83254 83257	(a)
+T535	RegulationDocuments 83273 83285	FDA Form 483
+T536	ClauseDefinition 83381 83384	(b)
+T537	ClauseDefinition 83488 83491	(i)
+T538	ClauseDefinition 83639 83643	(ii)
+T539	ClauseDefinition 83915 83918	(i)
+T540	ClauseDefinition 83936 83940	(ii)
+T541	ClauseDefinition 84053 84058	(iii)
+T542	ClauseDefinition 84166 84171	4.7.2
+T543	RegulationDocuments 84884 84918;84919 84926;84927 84940	FDA’s Compliance Policy Guide Sec. 120.100 (CPG 7150.09)
+T544	ClauseDefinition 85012 85017	4.7.3
+T545	ClauseDefinition 85122 85125	(a)
+T546	ClauseDefinition 85269 85272	(b)
+T547	Other 85335 85379	U.S. Department of Health and Human Services
+T548	Date 85815 85832	November 30, 2018
+T549	Date 86750 86767	November 30, 2018
+T550	ClauseDefinition 86206 86211	4.7.4
+T551	Date 86222 86239	November 30, 2018
+T552	ClauseDefinition 86867 86870	(a)
+T553	ClauseDefinition 86906 86909	(b)
+T554	ClauseDefinition 86976 86979	(c)
+T555	ClauseDefinition 87119 87122	(d)
+T556	ClauseDefinition 87560 87565	4.7.5
+T557	ClauseDefinition 87819 87822	(i)
+T558	ClauseDefinition 87840 87844	(ii)
+T559	ClauseDefinition 88582 88585	(x)
+T560	RegulationDocuments 88602 88624	21 U.S.C. Section 335a
+T561	ClauseDefinition 88647 88650	(y)
+T562	RegulationDocuments 88667 88692	42 U.S.C. Section 1320a-7
+T563	ClauseDefinition 88823 88847	4.8       Broker’s Fees.
+T564	ClauseMention 88873 88884	Section 4.8
+T565	ClauseMention 89466 89477	Section 4.8
+T566	ClauseDefinition 89605 89621	4.9       Taxes.
+T567	ClauseMention 89647 89658	Section 4.9
+T568	ClauseDefinition 89688 89693	4.9.1
+T569	ClauseDefinition 89847 89852	4.9.2
+T570	RegulationDocuments 90056 90109	Code sections 1441 through 1464 and 6041 through 6049
+T571	ClauseDefinition 90211 90214	(A)
+T572	ClauseDefinition 90319 90322	(B)
+T573	ClauseDefinition 90412 90417	4.9.3
+T574	ClauseDefinition 90535 90538	(a)
+T575	ClauseDefinition 90651 90654	(b)
+T576	ClauseDefinition 90688 90693	4.9.4
+T577	ClauseDefinition 90888 90893	4.9.5
+T578	ClauseDefinition 91170 91173	(i)
+T579	ClauseDefinition 91191 91195	(ii)
+T580	ClauseDefinition 91283 91288	4.9.6
+T581	ClauseDefinition 91443 91448	4.9.7
+T582	ClauseDefinition 91682 91687	4.9.8
+T583	ClauseDefinition 91758 91763	4.9.9
+T584	RegulationDocuments 91885 91909	Section 1445 of the Code
+T585	ClauseDefinition 91911 91955	4.10     Completeness of Transferred Assets.
+T586	ClauseDefinition 91956 91962	4.10.1
+T587	Date 92158 92175	November 30, 2018
+T588	ClauseDefinition 92245 92251	4.10.2
+T589	ClauseDefinition 92565 92571	4.10.3
+T590	Date 92695 92712	November 30, 2018
+T591	ClauseDefinition 92794 92800	4.10.4
+T592	ClauseMention 92826 92840	Section 4.10.4
+T593	ClauseDefinition 93093 93099	4.10.5
+T594	ClauseDefinition 93243 93290	4.11     Compliance with Laws; Anti-Corruption.
+T595	ClauseDefinition 93291 93297	4.11.1
+T596	Date 93347 93364	November 30, 2018
+T597	RegulationDocuments 93461 93503	U.S. Foreign Corrupt Practices Act of 1977
+T598	RegulationDocuments 93517 93534	15 U.S.C. §78dd-a
+T599	RegulationDocuments 93550 93579	U.S. Domestic Bribery Statute
+T600	RegulationDocuments 93581 93595	18 U.S.C. §201
+T601	RegulationDocuments 93602 93617	U.S. Travel Act
+T602	RegulationDocuments 93619 93634	18 U.S.C. §1952
+T603	RegulationDocuments 93731 93756	federal Anti-Kickback Law
+T604	RegulationDocuments 93758 93777	42 U.S.C. §1320a-7b
+T605	RegulationDocuments 93825 93849	federal False Claims Act
+T606	RegulationDocuments 93851 93853;93854 93866	31 U.S.C. §3279
+T607	RegulationDocuments 93882 93918	federal Civil Monetary Penalties Law
+T608	RegulationDocuments 93920 93939	42 U.S.C. §1320a-7a
+T609	RegulationDocuments 93946 93976	Physician Payment Sunshine Act
+T610	RegulationDocuments 93978 93980;93981 93997	42 U.S.C. §1320a-7h
+T611	RegulationDocuments 94075 94101	Accountability Act of 1996
+T612	ClauseDefinition 94217 94220	(i)
+T613	ClauseDefinition 94238 94242	(ii)
+T614	RegulationDocuments 94374 94393	Clinical Health Act
+T615	ClauseDefinition 94956 94962	4.11.2
+T616	Date 95255 95272	November 30, 2018
+T617	ClauseDefinition 95516 95519	(i)
+T618	ClauseDefinition 95719 95723	(ii)
+T619	ClauseDefinition 95879 95898	4.12     Inventory.
+T620	ClauseDefinition 95899 95905	4.12.1
+T621	ClauseMention 95907 95921	Section 4.12.1
+T622	Date 96261 96279	September 30, 2019
+T623	ClauseDefinition 97111 97117	4.12.2
+T624	Date 97202 97219	November 30, 2018
+T625	Date 97559 97576	November 30, 2018
+T626	ClauseDefinition 98049 98052	(i)
+T627	ClauseDefinition 98070 98074	(ii)
+T628	Date 98199 98216	November 30, 2018
+T629	ClauseDefinition 98217 98220	(i)
+T630	ClauseDefinition 98339 98343	(ii)
+T631	ClauseDefinition 98412 98459	4.13     Accounts Receivable; Accounts Payable.
+T632	Date 98468 98485	November 30, 2018
+T633	Date 98710 98727	November 30, 2018
+T634	ClauseDefinition 98886 98914	4.14     Absence of Changes.
+T635	Date 98922 98939	November 30, 2018
+T636	Date 99149 99166	November 30, 2018
+T637	Date 99276 99293	November 30, 2018
+T638	Date 99384 99401	November 30, 2018
+T639	ClauseDefinition 99634 99659	4.15     AMP and BP Data.
+T640	ClauseMention 99687 99699	Section 4.15
+T641	RegulationDocuments 99931 99950	42 U.S.C. § 1396r-8
+T642	RegulationDocuments 99955 99974	42 C.F.R. § 447.500
+T643	ClauseDefinition 100023 100026	(a)
+T644	ClauseDefinition 100117 100120	(b)
+T645	ClauseDefinition 100210 100213	(c)
+T646	ClauseDefinition 100277 100280	(d)
+T647	ClauseDefinition 100381 100384	(e)
+T648	ClauseDefinition 100435 100439	4.16
+T649	ClauseDefinition 100453 100501	4.17     No Other Representations or Warranties.
+T650	ClauseMention 100568 100577	Article 4
+T651	ClauseDefinition 100872 100924	ARTICLE 5    REPRESENTATIONS AND WARRANTIES OF BUYER
+T652	ClauseDefinition 101007 101044	5.1       Organization and Authority.
+T653	ClauseDefinition 101473 101476	(i)
+T654	ClauseDefinition 101494 101498	(ii)
+T655	ClauseDefinition 102441 102462	5.2       Litigation.
+T656	ClauseDefinition 103042 103065	5.3       No Conflicts.
+T657	ClauseDefinition 103335 103338	(a)
+T658	ClauseDefinition 103461 103464	(b)
+T659	ClauseDefinition 103612 103615	(c)
+T660	ClauseMention 104025 104028	(a)
+T661	ClauseDefinition 104539 104542	(i)
+T662	RegulationDocuments 104599 104615	21 CFR §  314.72
+T663	RegulationDocuments 104652 104658;104659 104665	21 CFR §  312
+T664	ClauseDefinition 104830 104834	(ii)
+T665	ClauseDefinition 105172 105202	5.4       Brokers and Finders.
+T666	ClauseDefinition 105564 105567	(i)
+T667	ClauseDefinition 105585 105589	(ii)
+T668	ClauseDefinition 105677 105698	5.5       Disclaimer.
+T669	ClauseMention 106297 106306	ARTICLE 4
+T670	ClauseMention 106684 106693	ARTICLE 4
+T671	ClauseDefinition 107265 107314	5.6       No Other Representations or Warranties.
+T672	ClauseMention 107381 107390	Article 5
+T673	ClauseDefinition 107688 107700;107701 107708	ARTICLE 6    CLOSING
+T674	ClauseDefinition 107709 107727	6.1       Closing.
+T675	Other 108004 108014	12:01 a.m.
+T676	Location 108015 108023	New York
+T677	ClauseDefinition 108050 108079	6.2       Closing Deliveries.
+T678	ClauseDefinition 108098 108103	6.2.1
+T679	ClauseDefinition 108170 108173	(a)
+T680	ClauseMention 108242 108253	Section 3.2
+T681	ClauseDefinition 108255 108258	(b)
+T682	ClauseDefinition 108306 108309	(c)
+T683	ClauseDefinition 108449 108452	(d)
+T684	ClauseDefinition 108471 108474	(i)
+T685	ClauseDefinition 108522 108526	(ii)
+T686	ClauseDefinition 108563 108568	(iii)
+T687	ClauseDefinition 108723 108726	(i)
+T688	ClauseDefinition 108744 108748	(ii)
+T689	ClauseDefinition 108836 108841	6.2.2
+T690	ClauseDefinition 108918 108921	(a)
+T691	ClauseDefinition 109048 109051	(b)
+T692	ClauseDefinition 109100 109103	(c)
+T693	ClauseMention 109151 109168	Schedule 6.2.2(b)
+T694	ClauseDefinition 109170 109173	(d)
+T695	ClauseDefinition 109316 109319	(e)
+T696	ClauseDefinition 109470 109473	(f)
+T697	RegulationDocuments 109484 109517	Internal Revenue Service Form W-9
+T698	ClauseDefinition 109576 109579	(g)
+T699	ClauseDefinition 109639 109642	(i)
+T700	RegulationDocuments 109649 109666	21 C.F.R. §314.72
+T701	ClauseDefinition 109709 109713	(ii)
+T702	RegulationDocuments 109720 109731	21 CFR §312
+T703	ClauseMention 109803 109806	(i)
+T704	ClauseMention 109811 109815	(ii)
+T705	ClauseDefinition 109862 109865	(h)
+T706	ClauseDefinition 109991 110039	ARTICLE 7    COVENANTS AND ADDITIONAL AGREEMENTS
+T707	ClauseDefinition 110040 110076	7.1       Cooperation After Closing.
+T708	ClauseDefinition 110356 110380	7.2       Wrong Pockets.
+T709	ClauseDefinition 110381 110387	7.2.1 
+T710	ClauseDefinition 111142 111147	7.2.2
+T711	ClauseDefinition 111520 111523	(i)
+T712	ClauseDefinition 111541 111545	(ii)
+T713	ClauseDefinition 111952 111962;111963 111982	7.3        Further Assurances.
+T714	ClauseDefinition 111983 111988	7.3.1
+T715	ClauseDefinition 112380 112385	7.3.2
+T716	ClauseDefinition 113228 113279	7.4       Notification to Governmental Authorities.
+T717	ClauseDefinition 114073 114093	7.5       Customers.
+T718	ClauseDefinition 114721 114724	(a)
+T719	ClauseDefinition 114934 114937	(b)
+T720	ClauseDefinition 115106 115109	(i)
+T721	ClauseDefinition 115127 115131	(ii)
+T722	ClauseDefinition 115219 115254	7.6       Confidential Information.
+T723	ClauseDefinition 115255 115260	7.6.1
+T724	ClauseMention 115677 115690	Section 7.6.2
+T725	ClauseDefinition 115698 115703	7.6.2
+T726	ClauseMention 116493 116506	Section 7.6.2
